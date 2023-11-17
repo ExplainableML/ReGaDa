@@ -1,0 +1,22 @@
+# @package _global_
+
+defaults:
+    - override /dataset: air
+
+lr: 1e-5
+save_metrics: [map-w, map-m, acc-a]
+
+model:
+    video_embedder:
+        dropout: 0.1
+    text_embedder:
+        tokens: actadv
+        main_modal: adv
+        composition: emb
+        dropout: 0.7
+        layers_gated: 4
+        layers_residual: 3
+
+    loss_triplet_adverb: 1.5
+    loss_triplet_action: 1.0
+    loss_l2: 1.0

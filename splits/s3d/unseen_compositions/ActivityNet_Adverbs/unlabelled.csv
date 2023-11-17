@@ -1,0 +1,636 @@
+clip_id,youtube_id,start_time,end_time,action,adverb,sentence,clustered_action,clustered_adverb,rgb_frames,action_adv,adverb_label,action_label,action_adv_label
+v_vgC8jB2FhAg_53_56,vgC8jB2FhAg,53.1,56.76,bend,backwards, They do the splits and bend backwards to touch the ground.,bend,backwards,75,"[('bend', 'backwards')]",0,25,53
+v_qf5wMRlZYnQ_55_231,qf5wMRlZYnQ,55.61,231.69,bend,backwards, She continues the routine and ends by shaking her hair around and bending backwards to pose.,bend,backwards,4400,"[('bend', 'backwards')]",0,25,53
+v_tGHLUWWm_zU_170_175,tGHLUWWm_zU,170.67,175.36,bend,forwards, The man bends forwards again.,bend,forwards,151,"[('bend', 'forwards')]",4,25,35
+v__ao0UwSJHWA_55_166,_ao0UwSJHWA,55.64,166.91,bend,forward, The man then bends forward onto the ball while still speaking to the camera.,bend,forwards,3331,"[('bend', 'forwards')]",4,25,35
+v_dNgXkPmvU-c_169_172,dNgXkPmvU-c,169.51,172.97,bend,forwards, The man bends forwards and turns off the camera.,bend,forwards,93,"[('bend', 'forwards')]",4,25,35
+v_35DlDj_hzvg_0_6,35DlDj_hzvg,0.27,6.28,bend,forward,A man is seen bending forward and holding onto a set of weights while gripping tightly.,bend,forwards,90,"[('bend', 'forwards')]",4,25,35
+v_5ZmZr2bguy0_0_21,5ZmZr2bguy0,0.0,21.38,bend,forward,A woman is seen standing in a large circle and bending herself forward.,bend,forwards,630,"[('bend', 'forwards')]",4,25,35
+v_t04jE7d0Obw_161_175,t04jE7d0Obw,161.16,175.17,bend,forward, The man bends the woman forward looking at her chest two times and almost puts his hand on her neck.,bend,forwards,353,"[('bend', 'forwards')]",4,25,35
+v_AeOUzM7nl5w_17_51,AeOUzM7nl5w,17.54,51.81,bend,forward, She then puts the lens in her eye and bends forward.,bend,forwards,1022,"[('bend', 'forwards')]",4,25,35
+v_MmYNcmba_Ps_12_29,MmYNcmba_Ps,12.97,29.6,bend,forward, The girl bends forward and performs a dive into the pool while the camera pans back to a scoreboard.,bend,forwards,410,"[('bend', 'forwards')]",4,25,35
+v_b_iUgvzb1-0_0_27,b_iUgvzb1-0,0.0,27.56,bend,forward,A woman bends forward extending her left left arm on front and raising her leg up while having the right hand over her shoulder.,bend,forwards,810,"[('bend', 'forwards')]",4,25,35
+v_rlH9RkelqHk_0_8,rlH9RkelqHk,0.0,8.65,bend,forward,A person's feet are show followed by a woman putting shoes over her socks and bending forward.,bend,forwards,241,"[('bend', 'forwards')]",4,25,35
+v_GvJxJf4m6_M_0_21,GvJxJf4m6_M,0.0,21.19,bend,forward,A man is seen speaking to the camera and bends forward pointing to his back.,bend,forwards,631,"[('bend', 'forwards')]",4,25,35
+v_5zT1GWfmVLU_3_9,5zT1GWfmVLU,3.22,9.17,bend,forward, The left boy kick the right then jumps on his back while he bends forward.,bend,forwards,151,"[('bend', 'forwards')]",4,25,35
+v_aVL9ArQS_Ag_49_137,aVL9ArQS_Ag,49.99,137.99,brush,thoroughly," Then, the man put a clothe inside the boot and brush the shaft of the boot thoroughly.",brush,completely,2203,"[('brush', 'completely')]",17,33,101
+v_Lyaozxv4_qU_16_18,Lyaozxv4_qU,16.36,18.46,cut,briefly, The camera cuts back to the first man briefly before returning to the leaf blower man.,cut,partially,62,"[('cut', 'partially')]",9,26,549
+v_mZ1Di2gg-I4_5_43,mZ1Di2gg-I4,5.23,43.9,look,almost,The woman slowly starts to move and does various karate movements in slow motion that it almost looks like a dance.,look,partially,1141,"[('look', 'partially')]",9,2,583
+v_tyjUDi3uLd0_11_43,tyjUDi3uLd0,11.8,43.64,prepare,partially," A real man appears in a partially prepared room, and begins talking about the tiled floor.",make,partially,960,"[('make', 'partially')]",9,37,216
+v_3osNjmYjTGg_7_28,3osNjmYjTGg,7.8,28.09,make,barely, The man just barely makes his body over the rope.,make,partially,632,"[('make', 'partially')]",9,37,216
+v_Y6rHCVo28kM_33_116,Y6rHCVo28kM,33.17,116.82,comb,continuously, She continuously combs his hair and measures it along the side.,brush,continuously,2488,"[('brush', 'continuously')]",7,33,16
+v_ZW3SKczQzJU_38_102,ZW3SKczQzJU,38.13,102.82,brush,continuously, The person pours toothpaste out onto a brush and continuously brushes his teeth.,brush,continuously,1602,"[('brush', 'continuously')]",7,33,16
+v_1XicledQXng_70_114,1XicledQXng,70.81,114.99,brush,continuously, She brushes her hair continuously and ends by walking out of frame.,brush,continuously,1321,"[('brush', 'continuously')]",7,33,16
+v_wkSm7bUCgGQ_60_129,wkSm7bUCgGQ,60.46,129.65,shave,continuously, She shaves her legs continuously while moving up and down and another boy watching from behind.,cut,continuously,1046,"[('cut', 'continuously')]",7,26,591
+v_DbZ0ns9s2X0_20_148,DbZ0ns9s2X0,20.82,148.44,dip,continuously, A person's hand then begins putting marks on the painting and dipping her brush continuously in the paint.,dip,continuously,3073,"[('dip', 'continuously')]",7,24,209
+v_NcjQI0avKHE_0_41,NcjQI0avKHE,0.0,41.9,fall,continuously,An intro leads into several shots of a girl riding down a snowy hill on a snowboard and continuously falling over.,fall,continuously,1231,"[('fall', 'continuously')]",7,12,498
+v_X8o3FbH0gyo_81_170,X8o3FbH0gyo,81.71,170.23,fall,occasionally," He does several stunts, including flips and spins in the water, occasionally falling and righting himself.",fall,periodically,2668,"[('fall', 'periodically')]",18,12,520
+v_bQ3yPbCICRg_2_8,bQ3yPbCICRg,2.2,8.13,hit,continuously, The people hit the drums continuously while the camera pans around.,hit,continuously,153,"[('hit', 'continuously')]",7,11,47
+v_82cpSdoHdg4_18_46,82cpSdoHdg4,18.86,46.18,hit,continuously, The person is seen hitting the drums in front of her continuously while also looking to the camera.,hit,continuously,842,"[('hit', 'continuously')]",7,11,47
+v_b1wnLw3H1vo_31_52,b1wnLw3H1vo,31.34,52.77,hit,continuously, The woman continuously hits the man over and over again and ends by the camera moving away.,hit,continuously,504,"[('hit', 'continuously')]",7,11,47
+v_JAEMwQqh51c_30_76,JAEMwQqh51c,30.96,76.44,hit,continuously,The man hits the stumps continuously until the stump is broken up into pieces and then he unchains it in the back of his truck.,hit,continuously,1381,"[('hit', 'continuously')]",7,11,47
+v_9mF5s6_dTlk_20_41,9mF5s6_dTlk,20.21,41.73,tap,continuously," He taps a paper, continuously, on a iron type tool and brushes the paper against a long piece of wood.",hit,continuously,504,"[('hit', 'continuously')]",7,11,47
+v_qnDHR-jYWf0_18_24,qnDHR-jYWf0,18.99,24.99,bounce,continuously, The dog continuously bounces the ball back with his nose.,jump,continuously,90,"[('jump', 'continuously')]",7,3,128
+v_QGzrtgTrwiQ_47_133,QGzrtgTrwiQ,47.67,133.65,jump,continuously, The man jumps into the sand pit continuously while moving in slow motion.,jump,continuously,2578,"[('jump', 'continuously')]",7,3,128
+v_XsqslHC79FQ_13_226,XsqslHC79FQ,13.09,226.15,look,constantly, She constantly looks down at the violin as she plays the notes.,look,continuously,6385,"[('look', 'continuously')]",7,2,202
+v_eaFvnf8IF-I_0_66,eaFvnf8IF-I,0.0,66.78,stare,occasionally,A man is playing an accordian while staring occasionally into the camera.,look,periodically,1983,"[('look', 'periodically')]",18,2,170
+v_X5gh32tHdsc_126_158,X5gh32tHdsc,126.34,158.92,look,occasionally, Other men in the room occasionally look up.,look,periodically,801,"[('look', 'periodically')]",18,2,170
+v_f2LGG2ocbu8_177_211,f2LGG2ocbu8,177.71,211.56,look,occasionally, The people grab the ball from the ground over and over again while occasionally looking over to the camera and panning back to the large crowd.,look,periodically,1021,"[('look', 'periodically')]",18,2,170
+v_sf2zGT5nN04_106_196,sf2zGT5nN04,106.19,196.56,stir,continuously, The pan puts oil in a hot pan and pours the ingredients into the pan while continuously stirring and speaking to the camera.,mix,continuously,2253,"[('mix', 'continuously')]",7,53,313
+v_zkR_t6p3lto_0_94,zkR_t6p3lto,0.0,94.81,move,continuously,A person's skis are shown close up as they move continuously down a snowy hill moving quickly past trees.,move,continuously,2819,"[('move', 'continuously')]",7,0,230
+v_yfeKtTU0aOE_11_36,yfeKtTU0aOE,11.92,36.78,move,continuously, He pulls the handlebars back and fourth as the seat he's moving on continuously moves.,move,continuously,601,"[('move', 'continuously')]",7,0,230
+v_-5Yp-vToI2E_27_92,-5Yp-vToI2E,27.37,92.01,move,continuously, The four continuously move together while holding hands and doing the same moves.,move,continuously,1558,"[('move', 'continuously')]",7,0,230
+v_R8RrOgz9hj8_3_86,R8RrOgz9hj8,3.74,86.89,paddle,continuously,A large group of people are seen riding down multiple rafts down a rigorous river while paddling continuously.,paddle,continuously,2489,"[('paddle', 'continuously')]",7,30,316
+v_7MWDmMh3zyA_18_36,7MWDmMh3zyA,18.63,36.53,paddle,continuously,The camera scans the crowd and people continuously paddle their way across the water.,paddle,continuously,270,"[('paddle', 'continuously')]",7,30,316
+v_UuJwtJBJ7oU_45_124,UuJwtJBJ7oU,45.4,124.25,play,continuously, The man plays continuously around on the drum set.,play,continuously,2368,"[('play', 'continuously')]",7,6,104
+v_2uBPhFis_4Y_0_24,2uBPhFis_4Y,0.0,24.13,play,continuously,A man is seen sitting behind a set of bongo drums playing continuously while people walk behind him.,play,continuously,715,"[('play', 'continuously')]",7,6,104
+v_K8ivAsscK98_68_175,K8ivAsscK98,68.9,175.85,play,continuously, The man then plays the drums continuously and another man walks in and sings and dances.,play,continuously,3210,"[('play', 'continuously')]",7,6,104
+v_9qNM5tNMxK4_125_172,9qNM5tNMxK4,125.29,172.93,play,continuously, Then they play five rounds continuously using back hand swings until the player in black misses a shot.,play,continuously,1177,"[('play', 'continuously')]",7,6,104
+v_aG5kKRuw0Fk_53_212,aG5kKRuw0Fk,53.22,212.88,play,continuously, The group continuously plays in front of a large crowd and ends with credits rolling along the screen.,play,continuously,4766,"[('play', 'continuously')]",7,6,104
+v_Adjpq4A5WtI_2_72,Adjpq4A5WtI,2.58,72.24,play,continually, He continually played the piano with fast and intense.,play,continuously,2094,"[('play', 'continuously')]",7,6,104
+v_jd609r5yKkI_39_106,jd609r5yKkI,39.52,106.34,play,continuously, The men play the drums continuously while looking to one another as well as off into the distance.,play,continuously,1608,"[('play', 'continuously')]",7,6,104
+v_LN8UWHvoELs_142_199,LN8UWHvoELs,142.99,199.78,play,continuously, The person then plays the set continuously and pausing to hold his sticks down.,play,continuously,1369,"[('play', 'continuously')]",7,6,104
+v_kF-J9mKwA8A_10_91,kF-J9mKwA8A,10.53,91.25,play,continuously, Other people walk in and out of frame from the boy while he continuously plays the game on the drum.,play,continuously,2430,"[('play', 'continuously')]",7,6,104
+v_Ii3jLIcf92s_12_31,Ii3jLIcf92s,12.45,31.12,play,continuously, The camera continues to follow the boy as he plays while the boy continuously plays the drums.,play,continuously,572,"[('play', 'continuously')]",7,6,104
+v_Xag8E74bkpw_24_64,Xag8E74bkpw,24.33,64.07,play,continuously, The woman plays on the drums continuously.,play,continuously,1200,"[('play', 'continuously')]",7,6,104
+v_9YnYdsmjkIY_0_111,9YnYdsmjkIY,0.58,111.67,play,occasionally,A man sits in a chair and talks while holding a harmonica and occasionally playing it while sitting in a front of green cloth backdrop.,play,periodically,3327,"[('play', 'periodically')]",18,6,328
+v_hUynCsek8I0_102_203,hUynCsek8I0,102.66,203.29,reel,continuously, The person continuously reels in the rod and captures a large fish and presents it to the camera.,pull,continuously,3028,"[('pull', 'continuously')]",7,8,345
+v_5TjIJOFGupI_53_67,5TjIJOFGupI,53.08,67.62,put,continuously, The person continuously puts more veggies on the bread.,put,continuously,421,"[('put', 'continuously')]",7,13,527
+v_7UrJuhFvlQ4_87_90,7UrJuhFvlQ4,87.35,90.53,settle,occasionally,  The camera occasionally and finally settles on a yellow riding lawn mower sitting in the yard beyond the piles of leaves.,put,periodically,90,"[('put', 'periodically')]",18,13,336
+v_62Dwj4l7_qs_35_134,62Dwj4l7_qs,35.74,134.94,lift,continuously, More and more people continuously lift weights above their shoulders and heads while a man coaches them on the side.,raise,continuously,2970,"[('raise', 'continuously')]",7,19,160
+v_jAlYwQevBxA_71_175,jAlYwQevBxA,71.47,175.92,ride,continuously, The people ride down the snowy mountain continuously while looking back to the camera.,ride,continuously,3119,"[('ride', 'continuously')]",7,10,134
+v_rqnzzNYt2cE_103_173,rqnzzNYt2cE,103.83,173.06,ride,continuously, The man rides a skateboard continuously around the area and ends by meeting up with the first man.,ride,continuously,2099,"[('ride', 'continuously')]",7,10,134
+v_RZr2KLNE6qE_3_6,RZr2KLNE6qE,3.21,6.11,ride,continuously, The baby continuously rides back and fourth while another child rides a swing next to him.,ride,continuously,91,"[('ride', 'continuously')]",7,10,134
+v_S2V2TgLAMKg_6_40,S2V2TgLAMKg,6.41,40.06,apply,continuously, The person applies objects continuously to a wooden surface.,spread,continuously,510,"[('spread', 'continuously')]",7,27,116
+v_b3bawTEPLtA_119_187,b3bawTEPLtA,119.96,187.43,speak,continuously, She moves her arms up and down as well as her legs and continuously speaking to the camera.,talk,continuously,2043,"[('talk', 'continuously')]",7,14,176
+v__I8sqYLhRKM_0_16,_I8sqYLhRKM,0.72,16.87,talk,continuously,Two girls are shown raking up leaves in a yard while continuously talking to the camera.,talk,continuously,322,"[('talk', 'continuously')]",7,14,176
+v_GkwkHQJifDU_33_63,GkwkHQJifDU,33.12,63.69,speak,continuously, She then stands on top of the beam while speaking to the camera continuously.,talk,continuously,900,"[('talk', 'continuously')]",7,14,176
+v_kzBTJEMgoj0_0_30,kzBTJEMgoj0,0.0,30.09,talk,occasionally,A woman cleans a cafeteria floor with a mop while occasionally talking to the camera.,talk,periodically,448,"[('talk', 'periodically')]",18,14,308
+v_zPu3JBSPa94_53_218,zPu3JBSPa94,53.6,218.76,speak,intermittently," The camera pans back to the first woman, who now speaks intermittently.",talk,periodically,4951,"[('talk', 'periodically')]",18,14,308
+v_K7rfN2W0ts4_33_135,K7rfN2W0ts4,33.62,135.38,throw,continuously, The dealer continuously throws out cards while also putting chips in.,throw,continuously,3061,"[('throw', 'continuously')]",7,9,227
+v_R0YS8JS_0rk_35_59,R0YS8JS_0rk,35.1,59.54,spin,continuously, He spins himself around continuously and ends by jumping down the side and walking away.,turn,continuously,720,"[('turn', 'continuously')]",7,7,27
+v_zto8JvkVLVw_20_47,zto8JvkVLVw,20.14,47.39,spin,continuously, He spins himself around continuously and ends by jumping down with his arms out.,turn,continuously,809,"[('turn', 'continuously')]",7,7,27
+v_BhAQhPasmhU_77_149,BhAQhPasmhU,77.25,149.87,spin,continuously, The person spins around continuously in several different shots.,turn,continuously,1803,"[('turn', 'continuously')]",7,7,27
+v_AFnEr0_wStU_153_172,AFnEr0_wStU,153.07,172.88,use,continually, The piercing artist continually uses a tissue to wipe blood from the woman's nose.,use,continuously,475,"[('use', 'continuously')]",7,43,283
+v_4mlA78hn4mY_183_214,4mlA78hn4mY,183.09,214.14,walk,continuously,A man then continuously walks up to the glass and sticks something through the door and then finally the mannish looking female leaves the room.,walk,continuously,354,"[('walk', 'continuously')]",7,1,476
+v_dJO_4TrLr7E_42_66,dJO_4TrLr7E,42.15,66.65,bring,down, He picks her up and turns around in circles before bringing her back down.,carry,downwards,721,"[('carry', 'downwards')]",2,21,245
+v_-0NfmccuL9Q_145_215,-0NfmccuL9Q,145.59,215.69,bring,down," He does everything he did before but the opposite, putting the nuts back on in place to tighten the tire on, he then brings the car back down.",carry,downwards,2103,"[('carry', 'downwards')]",2,21,245
+v_55bimE5eU9E_71_88,55bimE5eU9E,71.75,88.83,bring,down, She lifts the bar over her head and brings it down to her thigh area to continue the small lifts.,carry,downwards,511,"[('carry', 'downwards')]",2,21,245
+v_vbWdGj1sfO8_4_7,vbWdGj1sfO8,4.1,7.14,bring,up, She brings her arms up and her legs up to the center of her body.,carry,upwards,75,"[('carry', 'upwards')]",5,21,306
+v_UciHec7xncc_11_18,UciHec7xncc,11.21,18.23,climb,down, She makes it to the other side smiling to the camera and then climbs down afterwards.,climb,downwards,211,"[('climb', 'downwards')]",2,18,293
+v_lKDTjsH9XtU_143_161,lKDTjsH9XtU,143.07,161.69,climb,up," A baby stands next to the slide, climbs up and slides down, smiling.",climb,upwards,542,"[('climb', 'upwards')]",5,18,162
+v_gJKw6jGjiDE_16_99,gJKw6jGjiDE,16.35,99.69,climb,up," She climbs up to a bar and performs various flips, cartwheels, as well as doing the splits mid air.",climb,upwards,2490,"[('climb', 'upwards')]",5,18,162
+v_U_FxyViYYBA_46_65,U_FxyViYYBA,46.02,65.75,climb,up, She slides down a slide while the camera pans around the the girl climbs up to go down again.,climb,upwards,572,"[('climb', 'upwards')]",5,18,162
+v_AUwam1VhQm0_0_24,AUwam1VhQm0,0.0,24.09,climb,up,A large slide is shown with dozens of children climbing up and going down.,climb,upwards,721,"[('climb', 'upwards')]",5,18,162
+v_bULG65Ec5fo_46_83,bULG65Ec5fo,46.87,83.51,climb,up, He finds a good place to hang his rope on the mountain and starts to climb up again.,climb,upwards,1108,"[('climb', 'upwards')]",5,18,162
+v_5bZ2FdbAKiQ_51_107,5bZ2FdbAKiQ,51.23,107.42,climb,up, She climbs back up on the beam and ends by flipping off the beam.,climb,upwards,1678,"[('climb', 'upwards')]",5,18,162
+v_TdFvHyfq97o_19_40,TdFvHyfq97o,19.85,40.3,cut,down,"However,in his hand he has a scythe and begins swinging it back and forth cutting the grass down further.",cut,downwards,525,"[('cut', 'downwards')]",2,26,407
+v_j5cmc3cnLeU_91_98,j5cmc3cnLeU,91.64,98.41,dip,down, The  man dips his female partner down who does the splits at the end of the dance.,dip,downwards,177,"[('dip', 'downwards')]",2,24,45
+v_HVfr9FnEj-Q_56_65,HVfr9FnEj-Q,56.61,65.1,dip,down, The ladies dip down and toss their hair backwards.,dip,downwards,225,"[('dip', 'downwards')]",2,24,45
+v_juLxWt_3omw_26_28,juLxWt_3omw,26.37,28.05,drop,down, She holds it up for a good second and then drops it back down to the ground.,dip,downwards,18,"[('dip', 'downwards')]",2,24,45
+v_E7C91KoML-o_11_19,E7C91KoML-o,11.35,19.78,drop,down, He lifts it over his head and drops it back down.,dip,downwards,197,"[('dip', 'downwards')]",2,24,45
+v_Fdjw9ld-hbA_2_6,Fdjw9ld-hbA,2.95,6.08,drop,down,"After,the referee drops down and pounds the mat counting down the end of the match.",dip,downwards,99,"[('dip', 'downwards')]",2,24,45
+v_ULZpTYSwlTs_17_24,ULZpTYSwlTs,17.15,24.82,drop,down, One of the weightlifters successfully lifts the weight bar high up and then drops it down.,dip,downwards,215,"[('dip', 'downwards')]",2,24,45
+v_Cul7VFkLTMc_35_40,Cul7VFkLTMc,35.38,40.54,knock,down, Two surfers surf close to each other and are knocked down by a wave.,hit,downwards,153,"[('hit', 'downwards')]",2,11,224
+v_V-6nF6U6rfI_0_47,V-6nF6U6rfI,0.93,47.53,hold,up,A gymnast is seen standing ready and holding her arms up that lead into her climbing on a beam and performing a gymnastics routine on the beam.,hold,upwards,1409,"[('hold', 'upwards')]",5,31,67
+v_FL9yhHtoc6c_194_201,FL9yhHtoc6c,194.16,201.88,hold,up, They continue to dance as they hold up the palms of their hands straight up and move their hips.,hold,upwards,210,"[('hold', 'upwards')]",5,31,67
+v_9H8OBfrm1Rw_30_84,9H8OBfrm1Rw,30.8,84.71,hold,up,"After,he is shown in a field holding his hand up starts to play lacrosse.",hold,upwards,1618,"[('hold', 'upwards')]",5,31,67
+v_74qSBsksI-E_2_36,74qSBsksI-E,2.07,36.01,hold,up,A man is seen speaking to the camera and begins holding a razor up to his face.,hold,upwards,1022,"[('hold', 'upwards')]",5,31,67
+v_vgC8jB2FhAg_86_183,vgC8jB2FhAg,86.05,183.09,hold,up, They do several high kicks before holding their leg straight up into the air and turning around several times.,hold,upwards,2425,"[('hold', 'upwards')]",5,31,67
+v_3aQnQEL3USQ_69_128,3aQnQEL3USQ,69.94,128.22,jump,down," Then, the boy gets up the steps of a building, and then take big steps and jump down high.",jump,downwards,1696,"[('jump', 'downwards')]",2,3,5
+v_hFlDERq1ThU_85_129,hFlDERq1ThU,85.03,129.54,jump,down, He jumps down and and cheers while walking away and his performance is shown again.,jump,downwards,1320,"[('jump', 'downwards')]",2,3,5
+v_aeEMrTpNUss_20_54,aeEMrTpNUss,20.49,54.74,jump,down, The man flips and spins himself around on the bars and ends by jumping down and waving his hands up.,jump,downwards,1019,"[('jump', 'downwards')]",2,3,5
+v_YwUW6Qh_5TA_48_82,YwUW6Qh_5TA,48.35,82.2,jump,down, He continues his routine and jumps down with his arms up.,jump,downwards,1019,"[('jump', 'downwards')]",2,3,5
+v_lJRwUE12drE_19_72,lJRwUE12drE,19.78,72.09,jump,down, The gymnast then moves himself around the bars and jumps down afterwards.,jump,downwards,1588,"[('jump', 'downwards')]",2,3,5
+v_CnrvRF_N7fU_0_13,CnrvRF_N7fU,0.0,13.05,jump,down,A man in orange colored shorts jump up on to a pile of gym mats and down to the ground.,jump,downwards,392,"[('jump', 'downwards')]",2,3,5
+v_0_BvBpwDMpU_7_57,0_BvBpwDMpU,7.43,57.17,jump,down, He spins himself around performing various tricks on the beam and finishes by jumping down and smiling to the applauding audience.,jump,downwards,1250,"[('jump', 'downwards')]",2,3,5
+v_ECjumI_otNw_9_29,ECjumI_otNw,9.64,29.71,jump,down,"A group of cheerleaders perform doing a tower, then the cheerleaders jump down.",jump,downwards,500,"[('jump', 'downwards')]",2,3,5
+v_Kcy0A0DuckE_68_114,Kcy0A0DuckE,68.17,114.41,jump,down, The game continues on while the kids jump and down.,jump,downwards,1381,"[('jump', 'downwards')]",2,3,5
+v_knnQ99kDt8w_0_19,knnQ99kDt8w,0.0,19.72,jump,down,A small group of people are seen jumping and down on trampolines throwing balls back and fourth to one another.,jump,downwards,457,"[('jump', 'downwards')]",2,3,5
+v_3I4EzlMo124_58_97,3I4EzlMo124,58.7,97.18,jump,down, She spins and twirls herself around and ends by jumping down with her arms up.,jump,downwards,1170,"[('jump', 'downwards')]",2,3,5
+v_LElk0AlBpbI_0_18,LElk0AlBpbI,0.0,18.4,jump,down,"A man is climbing up the side of a tree, then jumps down.",jump,downwards,541,"[('jump', 'downwards')]",2,3,5
+v_NfVL1o5HMEo_53_66,NfVL1o5HMEo,53.33,66.67,jump,down," He jumps down, waves his arms in the air, and walks over to high five his coach afterwards.",jump,downwards,390,"[('jump', 'downwards')]",2,3,5
+v_PVed6JEd3ZM_19_38,PVed6JEd3ZM,19.31,38.62,jump,down, He climbs all the way to the end and jumps down.,jump,downwards,570,"[('jump', 'downwards')]",2,3,5
+v_5kBKAfEX7XA_13_43,5kBKAfEX7XA,13.47,43.6,jump,down, He continues moving around on the bars and ends by jumping down on the side with his arms out.,jump,downwards,899,"[('jump', 'downwards')]",2,3,5
+v_o8ja3mhecQI_0_8,o8ja3mhecQI,0.0,8.09,jump,down,A girl is swinging on pull up bars and she jumps down.,jump,downwards,241,"[('jump', 'downwards')]",2,3,5
+v_lG5d8bCHLM4_28_33,lG5d8bCHLM4,28.46,33.48,jump,down," Then she jumps down from the bars, smiling.",jump,downwards,150,"[('jump', 'downwards')]",2,3,5
+v_uJuGXnGqozs_16_46,uJuGXnGqozs,16.69,46.56,jump,down, She continues spinning around and ends up jumping down and smiling while holding her arms up.,jump,downwards,720,"[('jump', 'downwards')]",2,3,5
+v_TxiLjdHoXU4_90_118,TxiLjdHoXU4,90.26,118.23,jump,down, She jumps down and gives her coach a hug while the camera shows her movements in slow motion and she speaks to a woman.,jump,downwards,841,"[('jump', 'downwards')]",2,3,5
+v_pmIJcJiydpk_6_12,pmIJcJiydpk,6.71,12.54,jump,down, She jumps all the way down and speaks to the camera in the end.,jump,downwards,181,"[('jump', 'downwards')]",2,3,5
+v_9yktj7NCdFI_195_233,9yktj7NCdFI,195.01,233.55,jump,down, The girl swings her arms up and then the two jump down.,jump,downwards,1141,"[('jump', 'downwards')]",2,3,5
+v_sF859t5osSg_80_94,sF859t5osSg,80.07,94.87,jump,down,  The dog jumps down and goes stands back up on its hind legs to drink some more from the mug.,jump,downwards,420,"[('jump', 'downwards')]",2,3,5
+v_q1yuDuO01tg_78_95,q1yuDuO01tg,78.22,95.39,jump,down,  They kiss and then jump and down.,jump,downwards,425,"[('jump', 'downwards')]",2,3,5
+v_U7MAQwyFeDQ_62_164,U7MAQwyFeDQ,62.6,164.18,jump,down," Then he jumps down, falling from a very high height, another man follows after him, and then the camera man himself takes the leap recording the entire fall.",jump,downwards,2551,"[('jump', 'downwards')]",2,3,5
+v_jW1isCO6MYk_16_25,jW1isCO6MYk,16.07,25.47,jump,down, The man and girl then move back to where they started and the girl jumps down.,jump,downwards,269,"[('jump', 'downwards')]",2,3,5
+v_bRVazNYfpGE_81_94,bRVazNYfpGE,81.89,94.67,jump,down," As she jumps down and walks away, the crowd cheer and applaud loudly.",jump,downwards,390,"[('jump', 'downwards')]",2,3,5
+v_MuOkEmd4Gp0_62_101,MuOkEmd4Gp0,62.55,101.64,jump,up, They are doing incredible stunts on their bikes by jumping up high over ditches and steep terrain.,jump,upwards,976,"[('jump', 'upwards')]",5,3,158
+v_T9JSNxOyUQA_59_70,T9JSNxOyUQA,59.3,70.71,jump,up, A young girl sinks down in the middle of her inner-tube and jumps back up with her head soaked.,jump,upwards,331,"[('jump', 'upwards')]",5,3,158
+v_tuhEnqKmUKg_26_29,tuhEnqKmUKg,26.01,29.2,jump,up," Then back in a white shirt, he tries stunts by jumping up to a metal hand rail on his skateboard.",jump,upwards,90,"[('jump', 'upwards')]",5,3,158
+v_FeWZkO6kZl0_191_214,FeWZkO6kZl0,191.86,214.37,jump,up," A girl jumps up, high fiving her teammates.",jump,upwards,575,"[('jump', 'upwards')]",5,3,158
+v_94wjthSzsSQ_0_19,94wjthSzsSQ,0.0,19.41,jump,up, The jump up in the air and spin.,jump,upwards,572,"[('jump', 'upwards')]",5,3,158
+v_dSdZz_Royyc_157_177,dSdZz_Royyc,157.86,177.09,spring,up," He does various stunts on the board, fallls into the water but springs right back up on the board.",jump,upwards,480,"[('jump', 'upwards')]",5,3,158
+v_07GFy_Z7Nuc_0_10,07GFy_Z7Nuc,0.0,10.23,jump,up,A male gymnast walks up to the parallel bars and uses a spring board to jump up.,jump,upwards,300,"[('jump', 'upwards')]",5,3,158
+v_3am00ii0n-o_57_108,3am00ii0n-o,57.54,108.69,look,down, The lady plays a flute while looking down a the notes on the papers.,look,downwards,1530,"[('look', 'downwards')]",2,2,62
+v_f5xSylPY_bQ_17_202,f5xSylPY_bQ,17.2,202.41,look,down, She continues playing the flute white looking down.,look,downwards,4626,"[('look', 'downwards')]",2,2,62
+v_SrcZRhXkr2k_89_94,SrcZRhXkr2k,89.9,94.13,look,down,"The woman exits first, removes her glasses and smiles, and the man is walking right behind her and removes his glasses while looking down.",look,downwards,149,"[('look', 'downwards')]",2,2,62
+v_XPN_PSadJ_A_0_27,XPN_PSadJ_A,0.0,27.77,look,down,A person is seen sitting on a bike before a track looking down.,look,downwards,813,"[('look', 'downwards')]",2,2,62
+v_zemqddZ_YO4_128_159,zemqddZ_YO4,128.06,159.47,look,down, She continues to climb and ends by looking down.,look,downwards,932,"[('look', 'downwards')]",2,2,62
+v_iRwRwpVLE_Y_118_139,iRwRwpVLE_Y,118.01,139.65,look,down, The girl mixes the ingredients into a bowl with the camera looking down from a top down view.,look,downwards,631,"[('look', 'downwards')]",2,2,62
+v_I1P5GuVHFQA_167_205,I1P5GuVHFQA,167.54,205.57,look,down, He pauses to speak more to the camera and looking down at the object to see how it turned out.,look,downwards,913,"[('look', 'downwards')]",2,2,62
+v_yDCZNNI3tDo_0_16,yDCZNNI3tDo,0.0,16.71,look,down,A lady is talking to the camera then she laughs and looks down and the camera focuses elsewhere.,look,downwards,480,"[('look', 'downwards')]",2,2,62
+v_itgR5a-hH_o_68_144,itgR5a-hH_o,68.66,144.84,look,down, He continues playing while looking down at his hands.,look,downwards,2280,"[('look', 'downwards')]",2,2,62
+v_XsqslHC79FQ_13_226,XsqslHC79FQ,13.09,226.15,look,down, She constantly looks down at the violin as she plays the notes.,look,downwards,6385,"[('look', 'downwards')]",2,2,62
+v_NbdAUGbrWrE_82_98,NbdAUGbrWrE,82.42,98.77,look,down, The girl looks down as if she is confused.,look,downwards,273,"[('look', 'downwards')]",2,2,62
+v_OMa1i3ITBbo_45_141,OMa1i3ITBbo,45.87,141.14,look,down,  He continues speaking while cupping his hands and ends by looking down from the camera.,look,downwards,2877,"[('look', 'downwards')]",2,2,62
+v_uLXSOqRSa4A_36_179,uLXSOqRSa4A,36.28,179.13,look,down," A person climbs onto it, looking down.",look,downwards,4288,"[('look', 'downwards')]",2,2,62
+v_dbLtukGqkhI_0_64,dbLtukGqkhI,0.0,64.62,look,up,People are standing on a roof top looking up.,look,upwards,1921,"[('look', 'upwards')]",5,2,304
+v_jFZRNe7xFY8_7_21,jFZRNe7xFY8,7.26,21.36,lower,down, Then he lowers himself down.,lower,downwards,280,"[('lower', 'downwards')]",2,62,367
+v_2wcD0wSzB5w_0_27,2wcD0wSzB5w,0.0,27.77,move,down,An aerial view of a soccer field is shown and then it moves down to the ground level.,move,downwards,675,"[('move', 'downwards')]",2,0,66
+v_4x3dgSgXQ38_0_15,4x3dgSgXQ38,0.0,15.44,slide,down, The guy captures the child sitting on the woman's lap while they slide down.,move,downwards,452,"[('move', 'downwards')]",2,0,66
+v_XTErpg4IdiE_146_201,XTErpg4IdiE,146.12,201.55,move,down," He moves it down more and pushing the carpet down, he does this to basically the entire room.",move,downwards,1648,"[('move', 'downwards')]",2,0,66
+v_HCub1SN4X20_206_232,HCub1SN4X20,206.58,232.11,slide,down," The girl sat on top of the slide then slide down, put on her slippers then went back to the top of the slide and slide down.",move,downwards,780,"[('move', 'downwards')]",2,0,66
+v_9eqfQyr3J7k_7_18,9eqfQyr3J7k,7.4,18.63,slide,down,"After,the three individuals in the front,are pulled down the slope and they begin to slide down.",move,downwards,317,"[('move', 'downwards')]",2,0,66
+v_WV_MFi9EZeQ_42_54,WV_MFi9EZeQ,42.92,54.49,slide,down, In the end he slides down into the snow.,move,downwards,360,"[('move', 'downwards')]",2,0,66
+v_QGzrtgTrwiQ_113_158,QGzrtgTrwiQ,113.22,158.33,move,down, He moves down several more times while jumping further each time.,move,downwards,1349,"[('move', 'downwards')]",2,0,66
+v_QdTUPBtxAV0_1_3,QdTUPBtxAV0,1.76,3.25,slide,down,Then two other children behind him that are little girls slide down.,move,downwards,60,"[('move', 'downwards')]",2,0,66
+v_2NyOIsFJ3Tw_7_73,2NyOIsFJ3Tw,7.35,73.5,slide,down, We see another title screen and watch the kids slide down  slide and across their slip and slide.,move,downwards,1979,"[('move', 'downwards')]",2,0,66
+v_6FPoGGaox4g_10_15,6FPoGGaox4g,10.23,15.7,slide,down, A woman is at the top of a slide helping a little boy slide down into the arms of another person in a red vest.,move,downwards,150,"[('move', 'downwards')]",2,0,66
+v_e9p0xmsU3h0_97_111,e9p0xmsU3h0,97.12,111.97,slide,down, The girl plays with the tick-tack-toe board before sliding back down.,move,downwards,337,"[('move', 'downwards')]",2,0,66
+v_e9p0xmsU3h0_83_94,e9p0xmsU3h0,83.41,94.83,slide,down, The girl slides down into a ball pool then climbs back up the slide.,move,downwards,266,"[('move', 'downwards')]",2,0,66
+v_XtqTatsTGNY_99_102,XtqTatsTGNY,99.74,102.94,slide,down, When he's done sliding down he runs away and tries to go out the gate.,move,downwards,91,"[('move', 'downwards')]",2,0,66
+v_kHTcsP6nQdY_20_22,kHTcsP6nQdY,20.07,22.68,slide,down, He pauses as another slides down.,move,downwards,64,"[('move', 'downwards')]",2,0,66
+v_q53Ajkll_kw_18_21,q53Ajkll_kw,18.73,21.85,scroll,down," The word ""Ilbo"" is in a red font and scrolls down on the left hand side of the screen.",move,downwards,36,"[('move', 'downwards')]",2,0,66
+v_JTrwGfPJNzU_3_11,JTrwGfPJNzU,3.28,11.31,slide,down," Several people slide down, a woman and her little girl.",move,downwards,234,"[('move', 'downwards')]",2,0,66
+v_b7Q-Jj9ZEH0_62_90,b7Q-Jj9ZEH0,62.27,90.91,slide,down, The girl slide down again and fell on the pool of ball but on her stomach.,move,downwards,672,"[('move', 'downwards')]",2,0,66
+v_kHTcsP6nQdY_22_28,kHTcsP6nQdY,22.94,28.67,slide,down, He slides down as she stops.,move,downwards,182,"[('move', 'downwards')]",2,0,66
+v_kHTcsP6nQdY_28_52,kHTcsP6nQdY,28.67,52.13,slide,down, He runs up to her and she slides down to the end.,move,downwards,719,"[('move', 'downwards')]",2,0,66
+v_KUejIghF6K4_0_11,KUejIghF6K4,0.0,11.41,move,up,"A toddler hits a piñata with a baseball bat, sometimes the piñata moves up.",move,upwards,276,"[('move', 'upwards')]",5,0,51
+v_TtQPtLPTqBA_127_147,TtQPtLPTqBA,127.64,147.09,move,up, She moves the bucket up to the front of the classroom and dumps it out.,move,upwards,602,"[('move', 'upwards')]",5,0,51
+v_p1_6T9d4ZuY_4_29,p1_6T9d4ZuY,4.43,29.29,propel,up, She grasps the bar and begins to flip herself around the bar before leaping to the next bar and propelling herself up and over it repeatedly.,move,upwards,752,"[('move', 'upwards')]",5,0,51
+v_m9CbLJdYqHw_13_32,m9CbLJdYqHw,13.55,32.25,move,up, The woman then moves her arms up above her head.,move,upwards,570,"[('move', 'upwards')]",5,0,51
+v_3OXh6OV2Zrc_0_8,3OXh6OV2Zrc,0.0,8.84,move,up,A view of the ocean is shown and it moves up to the bottom of a bridge.,move,upwards,201,"[('move', 'upwards')]",5,0,51
+v_V50vtrHboIE_0_54,V50vtrHboIE,0.0,54.9,move,up,A woman is seen moving a hula hoop close up in front of the camera.,move,upwards,1351,"[('move', 'upwards')]",5,0,51
+v_txyXUXWybt4_0_38,txyXUXWybt4,0.0,38.22,move,up,A man is seen spinning a blade with his foot on a machine and moving his hands up with down holding a knife.,move,upwards,1140,"[('move', 'upwards')]",5,0,51
+v_GVmGXTEm46s_29_75,GVmGXTEm46s,29.05,75.14,drip,down, The sink is shown again by itself followed by water dripping down.,pour,downwards,1380,"[('pour', 'downwards')]",2,41,65
+v_6EKVtCJ2nrs_27_34,6EKVtCJ2nrs,27.01,34.46,push,down, A woman in black jacket sits on a ramp and is pushed down by friends.,press,downwards,178,"[('press', 'downwards')]",2,15,131
+v_gh0GD6OvLHE_8_16,gh0GD6OvLHE,8.02,16.05,push,down,  Someone gets her and pushes her down.,press,downwards,239,"[('press', 'downwards')]",2,15,131
+v_6d7oOG3dS-Y_0_32,6d7oOG3dS-Y,0.0,32.87,push,down,A man is seen pushing a board down into the floor to push the carpet down.,press,downwards,801,"[('press', 'downwards')]",2,15,131
+v_Ggtcmy29TxE_36_86,Ggtcmy29TxE,36.75,86.52,push,down, He is then shown pushing a boy's head down on the bottom.,press,downwards,1500,"[('press', 'downwards')]",2,15,131
+v_QVe7NojAHjY_129_135,QVe7NojAHjY,129.66,135.67,press,down, The person uses their fingers to press the scoops of mixture down on the baking pan.,press,downwards,180,"[('press', 'downwards')]",2,15,131
+v_FTmGHtBdWi0_28_42,FTmGHtBdWi0,28.33,42.5,push,down," Something goes wrong and a black screen appears and said ""Redo!"", so they begin again and they're both struggling to win and the man on the right screams, and then wins by pushing the man's hand down.",press,downwards,420,"[('press', 'downwards')]",2,15,131
+v_C10_qXWxpsk_1_25,C10_qXWxpsk,1.84,25.37,thrust,up, She starts off by showing a handstand as she stands on her two hands and thrusts her body up.,press,upwards,721,"[('press', 'upwards')]",5,15,366
+v_QR2BmWR5FGM_15_40,QR2BmWR5FGM,15.11,40.98,push,up, The man pushes it dog up and the dog rides down the slide.,press,upwards,750,"[('press', 'upwards')]",5,15,366
+v_G9m5zxl2f08_0_34,G9m5zxl2f08,0.0,34.35,press,up,A person is seen putting their hands in a sink full of dirty water and pressing his face up against the water.,press,upwards,1022,"[('press', 'upwards')]",5,15,366
+v_qRuPuzY6yiE_48_84,qRuPuzY6yiE,48.31,84.01,pull,down, One side pulls the others down and the rest of the team cheer while the camera pans around.,pull,downwards,1077,"[('pull', 'downwards')]",2,8,82
+v_8hrRE3_sWXo_118_214,8hrRE3_sWXo,118.85,214.84,pull,down, We see a title screen and see the kneeling man holding a machine which he pulls down and out.,pull,downwards,2878,"[('pull', 'downwards')]",2,8,82
+v_Hfd5sxW8Clg_111_140,Hfd5sxW8Clg,111.41,140.43,pull,down,"After thirty five seconds,he pulls the blind fold down over his eyes and continues to try and solve the cube.",pull,downwards,869,"[('pull', 'downwards')]",2,8,82
+v_70bS0DkAeDo_0_7,70bS0DkAeDo,0.0,7.07,pull,up,"A man is lifting weights in a weight room, pulling a large barbell up to his chest.",pull,upwards,169,"[('pull', 'upwards')]",5,8,71
+v_WttP_X-aCEA_3_8,WttP_X-aCEA,3.67,8.17,pull,up,He then pulls him self up on top of the monkey bars and stands on top of them and goes into a hand stand.,pull,upwards,153,"[('pull', 'upwards')]",5,8,71
+v_rqnzzNYt2cE_0_36,rqnzzNYt2cE,0.0,36.39,pull,up,A car pulls up and shows a man driving and speaking to the camera.,pull,upwards,1080,"[('pull', 'upwards')]",5,8,71
+v_7toItxBIVtk_10_120,7toItxBIVtk,10.23,120.51,pull,up,All of them have on black except for the instructor who is dressed in a pink bra and they begin moving their hips and pulling their hands up.,pull,upwards,3297,"[('pull', 'upwards')]",5,8,71
+v_Cl0lsFUR5HE_0_10,Cl0lsFUR5HE,0.0,10.36,pull,up,A vacant beach is visible and people began to pull their cars up against the coast.,pull,upwards,302,"[('pull', 'upwards')]",5,8,71
+v_ybkcKusf-Kg_11_55,ybkcKusf-Kg,11.5,55.32,pull,up, He pulls himself up and does several tricks.,pull,upwards,1319,"[('pull', 'upwards')]",5,8,71
+v_9YnYdsmjkIY_50_113,9YnYdsmjkIY,50.66,113.97,pull,up,  The camera zooms in for a tighter shot of the man as he talks and before the man pulls the harmonica directly up to his face and plays the harmonica briefly before pulling the harmonica away and looking into the camera.,pull,upwards,1888,"[('pull', 'upwards')]",5,8,71
+v_KwhqAV_0o40_61_144,KwhqAV_0o40,61.17,144.14,pull,up,"The man pulls on his fishing pole, goes on his knees, and continues to slowly pull the fishing pole up and the camera man who had already put the camera down bends down and grabs the fish and places it onto the ice.",pull,upwards,2490,"[('pull', 'upwards')]",5,8,71
+v_SKtUq_1cOSs_20_40,SKtUq_1cOSs,20.15,40.01,lift,down, He lifts the heavy weight high up near his face and lifts it back down near his stomach.,raise,downwards,600,"[('raise', 'downwards')]",2,19,427
+v_xYM6h31PrM0_0_29,xYM6h31PrM0,0.0,29.37,raise,up,A gymnast is seen standing before a beam raising her arms up and others watching on the side.,raise,upwards,872,"[('raise', 'upwards')]",5,19,40
+v_NfVL1o5HMEo_0_11,NfVL1o5HMEo,0.0,11.0,raise,up,A gymnast is seen rubbing his hands together and walks over to a set of uneven bars and raises his hands up.,raise,upwards,330,"[('raise', 'upwards')]",5,19,40
+v_MuOkEmd4Gp0_198_208,MuOkEmd4Gp0,198.8,208.86,raise,up, They proudly raise their trophies high up to show their accomplishment.,raise,upwards,251,"[('raise', 'upwards')]",5,19,40
+v_gsJ953MHtpY_119_150,gsJ953MHtpY,119.24,150.4,raise,up, He jumps up high on his stilts several times by raising his feet high up in the air.,raise,upwards,929,"[('raise', 'upwards')]",5,19,40
+v_4KE6dUAGZ94_55_137,4KE6dUAGZ94,55.28,137.67,raise,up, He raises his arms up and begins spinning all around on the beam.,raise,upwards,2055,"[('raise', 'upwards')]",5,19,40
+v_tRAntV9Om2o_96_127,tRAntV9Om2o,96.46,127.76,raise,up, He pauses for a moment to speak to the camera and raises his hands up.,raise,upwards,933,"[('raise', 'upwards')]",5,19,40
+v_-DpnaHTk8PA_0_4,-DpnaHTk8PA,0.0,4.19,raise,up,A still of eight men posing with their arms raised up is shown.,raise,upwards,120,"[('raise', 'upwards')]",5,19,40
+v_HzAlvJ1fNWU_11_31,HzAlvJ1fNWU,11.64,31.04,ride,down, Several more people are shown shortly afterwards riding down.,ride,downwards,601,"[('ride', 'downwards')]",2,10,79
+v_HzAlvJ1fNWU_38_48,HzAlvJ1fNWU,38.56,48.51,ride,down,One of the rider even rides down lying flat on the tube with their face down and not looking around until they've gone completely to the end and on flat land.,ride,downwards,301,"[('ride', 'downwards')]",2,10,79
+v_x4qwV0Ti1Og_0_12,x4qwV0Ti1Og,0.0,12.99,ride,down,A large track is shown with several people riding down on tubes at once.,ride,downwards,362,"[('ride', 'downwards')]",2,10,79
+v_3-KLYPzd1zU_1_38,3-KLYPzd1zU,1.18,38.84,ride,down,A heavy water flow is seen followed by a person riding down on a tube.,ride,downwards,1110,"[('ride', 'downwards')]",2,10,79
+v_R8RrOgz9hj8_71_174,R8RrOgz9hj8,71.94,174.71,ride,down,  Several shots are shown of the people riding down while holding their sticks up into the air and ends with people stopping to eat.,ride,downwards,3088,"[('ride', 'downwards')]",2,10,79
+v_Mk1gOZ5EOUk_57_86,Mk1gOZ5EOUk,57.1,86.09,ride,down, He continues to ride down while the cameraman swings around.,ride,downwards,869,"[('ride', 'downwards')]",2,10,79
+v_wnsy_i-IXpM_7_34,wnsy_i-IXpM,7.34,34.51,ride,down, The pilot gets on a board and rides it down.,ride,downwards,649,"[('ride', 'downwards')]",2,10,79
+v_yVrru7t3478_15_37,yVrru7t3478,15.61,37.77,ride,down, A dog rides down with her and another dog walks around the area.,ride,downwards,660,"[('ride', 'downwards')]",2,10,79
+v_hghdjiQlYko_0_14,hghdjiQlYko,0.0,14.91,ride,down,A person wearing a bright orange vest is standing at the end of a steep snowy hill and five people on rubber tubes ride down towards the person.,ride,downwards,420,"[('ride', 'downwards')]",2,10,79
+v_fKFcbNM89MA_0_6,fKFcbNM89MA,0.0,6.16,ride,down,A large river is seen followed by a person riding down in a tube.,ride,downwards,75,"[('ride', 'downwards')]",2,10,79
+v_yVrru7t3478_29_49,yVrru7t3478,29.46,49.61,ride,down, The woman rides down several more times with the small dog next to her.,ride,downwards,600,"[('ride', 'downwards')]",2,10,79
+v_wd7W8NTi_58_22_70,wd7W8NTi_58,22.8,70.33,ride,down, More people are seen riding down while others watch on the side.,ride,downwards,1201,"[('ride', 'downwards')]",2,10,79
+v_9GwsrWUq7mY_15_48,9GwsrWUq7mY,15.49,48.69,ride,down, The people hold their hands up and smile while still riding down.,ride,downwards,991,"[('ride', 'downwards')]",2,10,79
+v_q2KR3lzTrq4_127_191,q2KR3lzTrq4,127.15,191.71,ride,down, He continues to wander up the slide and rides down in the end with a girl.,ride,downwards,1915,"[('ride', 'downwards')]",2,10,79
+v___c8enCfzqw_72_157,__c8enCfzqw,72.58,157.25,roll,downwards," The girl blow dry her hair with white blower, sectioned her hair, brushed her hair with roller brush while blow drying it at the same time, she roll the brush downwards and upwards.",roll,downwards,2040,"[('roll', 'downwards')]",2,39,222
+v_8xYzQMbI5fM_47_80,8xYzQMbI5fM,47.64,80.76,roll,down," He then wipes down the area, measures out more area, and then rolling the paper down over a tool.",roll,downwards,826,"[('roll', 'downwards')]",2,39,222
+v_Lm4oeMdqOgw_19_60,Lm4oeMdqOgw,19.53,60.62,run,down, She runs down and throws the pole off into the distance and is shown again in slow motion.,run,downwards,1228,"[('run', 'downwards')]",2,5,319
+v_V6lFpCjRKC8_28_61,V6lFpCjRKC8,28.58,61.98,run,down, A person runs down with a pole vault and throws it off into the distance while the same clip is shown again in slow motion and another goes after.,run,downwards,991,"[('run', 'downwards')]",2,5,319
+v_ERmsX91_7V4_23_69,ERmsX91_7V4,23.17,69.5,run,down, The man is shown in several clips running down and scoring a basket.,run,downwards,1379,"[('run', 'downwards')]",2,5,319
+v_nIfYhQHFWZI_15_23,nIfYhQHFWZI,15.6,23.17,run,down, He continues running down and jumping into a mat.,run,downwards,241,"[('run', 'downwards')]",2,5,319
+v_IXUh06YCtjw_58_83,IXUh06YCtjw,58.61,83.13,run,up, A dog runs up and starts drinking from the mug.,run,upwards,749,"[('run', 'upwards')]",5,5,189
+v_kHTcsP6nQdY_28_52,kHTcsP6nQdY,28.67,52.13,run,up, He runs up to her and she slides down to the end.,run,upwards,719,"[('run', 'upwards')]",5,5,189
+v_yFPxSn69pcc_11_30,yFPxSn69pcc,11.73,30.96,run,up, He starts to run up and throws the ball he has in his hand.,run,upwards,477,"[('run', 'upwards')]",5,5,189
+v_p8h3G0Tblqc_27_36,p8h3G0Tblqc,27.01,36.69,run,up, The player starts from one side of the court and runs up and lays up the basketball in the net.,run,upwards,228,"[('run', 'upwards')]",5,5,189
+v_sRol1BJ9EUk_8_13,sRol1BJ9EUk,8.87,13.54,run,up, He runs up to the basketball hoop and makes a shot.,run,upwards,153,"[('run', 'upwards')]",5,5,189
+v_mFSdzT5gXQs_34_83,mFSdzT5gXQs,34.37,83.16,run,up, He turns around quickly and lets go of the frisbee and the refs run up to mark where it lands.,run,upwards,1470,"[('run', 'upwards')]",5,5,189
+v_lc-piYwzqsA_44_48,lc-piYwzqsA,44.71,48.6,run,up,  The coach runs up to the athlete.,run,upwards,120,"[('run', 'upwards')]",5,5,189
+v_JHFjlLtpIcU_40_42,JHFjlLtpIcU,40.48,42.17,run,up, Her fellow gymnasts run up to her in excitement.,run,upwards,60,"[('run', 'upwards')]",5,5,189
+v_gjyT6Rt985k_157_223,gjyT6Rt985k,157.63,223.59,run,up," Another female judge critics them and  the woman dancer runs up and hugs them, then the final judge tells them what he thinks of their performance.",run,upwards,1980,"[('run', 'upwards')]",5,5,189
+v_Y9EIH-A_ePo_36_54,Y9EIH-A_ePo,36.26,54.13,run,up, They run up to the camera and talk for a while.,run,upwards,270,"[('run', 'upwards')]",5,5,189
+v_Mu8-AwcMqaw_50_113,Mu8-AwcMqaw,50.48,113.39,spray,down, She sprays down her hair and then braids her bangs followed by pushing the braid back into a ponytail.,spray,downwards,1889,"[('spray', 'downwards')]",2,70,275
+v_vmUbGiOyUbU_68_74,vmUbGiOyUbU,68.85,74.54,file,down, The blond haired groomer uses an electric filer to file down the white dogs nails.,spread,downwards,181,"[('spread', 'downwards')]",2,27,315
+v_yScYLIJ_txA_0_9,yScYLIJ_txA,0.21,9.49,start,down,"  The people start the race behind a closed and grated fence, which then opens and allows them to start racing from an elevated platform down onto the paved raceway.",start,downwards,271,"[('start', 'downwards')]",2,20,172
+v_RkCSfz8GeNg_107_154,RkCSfz8GeNg,107.81,154.02,take,down, Then takes her hair down and runs lotion through her hair while still looking to the camera.,take,downwards,1407,"[('take', 'downwards')]",2,28,29
+v_63HZk1SInLk_0_24,63HZk1SInLk,0.0,24.84,take,down,A woman is seen sitting behind a desk taking her classes down and clip arts of her and objects.,take,downwards,601,"[('take', 'downwards')]",2,28,29
+v_kH8o0M69KGc_7_15,kH8o0M69KGc,7.32,15.95,throw,down, The man lifts the bar up over his head and throws it back down.,throw,downwards,241,"[('throw', 'downwards')]",2,9,156
+v_C8IHSB9mfeE_0_33,C8IHSB9mfeE,0.0,33.69,throw,down,A balded man is seen throwing a dart onto a board down in a white room.,throw,downwards,990,"[('throw', 'downwards')]",2,9,156
+v_BSIV5tJ3bv4_9_27,BSIV5tJ3bv4,9.05,27.44,throw,down," He lifts the weights over his head and throws it down afterwards, raising his hands up with his coach.",throw,downwards,452,"[('throw', 'downwards')]",2,9,156
+v_iFJaqDgYsp0_23_66,iFJaqDgYsp0,23.11,66.22,throw,down, He lifts up the weights and throws them back down.,throw,downwards,1289,"[('throw', 'downwards')]",2,9,156
+v_4usf67inE3w_0_28,4usf67inE3w,0.8,28.67,throw,down,A camera pans around a bowling alley and leads into a boy throwing a ball down.,throw,downwards,842,"[('throw', 'downwards')]",2,9,156
+v_CvmhLCrOjhM_21_29,CvmhLCrOjhM,21.89,29.87,throw,up, The man then solves it throwing his arms up and cheering with another.,throw,upwards,194,"[('throw', 'upwards')]",5,9,86
+v_P6t2HLPZ3Dk_0_24,P6t2HLPZ3Dk,0.0,24.62,throw,up,A boy dressed in a burgundy polo is at a bowling alley and throws the ball high up in the air and it ends up coming back in the other lane.,throw,upwards,721,"[('throw', 'upwards')]",5,9,86
+v__dLbtK8_SHo_54_109,_dLbtK8_SHo,54.37,109.81,throw,up, There are two lady tennis players on a clay court who are demonstrating how to throw the ball up high to the partner.,throw,upwards,1649,"[('throw', 'upwards')]",5,9,86
+v_m-B1tlnywNY_7_42,m-B1tlnywNY,7.92,42.58,throw,upward, They form three small circles and throw three of them upward.,throw,upwards,843,"[('throw', 'upwards')]",5,9,86
+v_nKn2uQTVo-U_212_223,nKn2uQTVo-U,212.97,223.01,spin,down, A man wearing orange red finishes the video spinning on the ground upside down.,turn,downwards,328,"[('turn', 'downwards')]",2,7,143
+v_UVxXr_mh5BM_10_94,UVxXr_mh5BM,10.81,94.33,twist,down,She begins by braiding one side of her hair and then twists it down and does the same thing on the other side.,turn,downwards,2518,"[('turn', 'downwards')]",2,7,143
+v_IhuwmiSPx0w_177_183,IhuwmiSPx0w,177.22,183.65,flip,down," The cheerleaders raise the girls up and then flip down, then they continue performing.",turn,downwards,181,"[('turn', 'downwards')]",2,7,143
+v_mwndGBRpOPg_2_4,mwndGBRpOPg,2.04,4.38,flip,down, The person pushes themselves up into the air and flips back down.,turn,downwards,50,"[('turn', 'downwards')]",2,7,143
+v_ORVjNqVSLe0_113_168,ORVjNqVSLe0,113.2,168.4,turn,up," Then the man turns face up, and the person starts to shave the legs.",turn,upwards,1651,"[('turn', 'upwards')]",5,7,257
+v_cTZw5NUK1-c_128_155,cTZw5NUK1-c,128.52,155.78,walk,down, More people are seen walking down as more surfers continue riding the waves.,walk,downwards,810,"[('walk', 'downwards')]",2,1,31
+v_KnF56TCKPYw_32_113,KnF56TCKPYw,32.87,113.36,walk,down, The couple walk the dog down to a lake.,walk,downwards,2428,"[('walk', 'downwards')]",2,1,31
+v_pK3OSevBqDw_39_100,pK3OSevBqDw,39.58,100.69,walk,down, The man bends down and begins painting the fence while the camera focuses on a person walking down.,walk,downwards,915,"[('walk', 'downwards')]",2,1,31
+v_xcBJP14YBvg_44_52,xcBJP14YBvg,44.22,52.46,walk,down, He walks down off the stage.,walk,downwards,242,"[('walk', 'downwards')]",2,1,31
+v_xlPpP0eVL9A_77_194,xlPpP0eVL9A,77.67,194.17,wipe,down, She wipes her face down with substances and lotions.,wash,downwards,2807,"[('wash', 'downwards')]",2,22,252
+v_xBtydVn3MVI_16_61,xBtydVn3MVI,16.54,61.82,shave,gently, He begins gently shaving the sides of his face and moves down towards his beard.,cut,gently,1350,"[('cut', 'gently')]",16,26,384
+v_mV5DfYFg4H0_22_87,mV5DfYFg4H0,22.65,87.1,clip,gently, She uses clippers to clip the cat's nails gently.,cut,gently,1950,"[('cut', 'gently')]",16,26,384
+v_sGFbsMKkoYs_0_6,sGFbsMKkoYs,0.84,6.23,drop,heavily," He lifts the barbells over his head, then drops them heavily.",dip,firmly,182,"[('dip', 'firmly')]",12,24,270
+v_DOfpOkDHe_8_100_109,DOfpOkDHe_8,100.75,109.71,drop,firmly," The girl ends her routing a little further from the point she started and firmly drops her hands to her side and does a little bow, then opens her legs shoulder length apart and goes back into the same position as she was in when she started.",dip,firmly,270,"[('dip', 'firmly')]",12,24,270
+v_GGSY1Qvo990_8_18,GGSY1Qvo990,8.08,18.16,drop,heavily, She then lifts it over her head before dropping it heavily to the ground.,dip,firmly,197,"[('dip', 'firmly')]",12,24,270
+v_Th0SMArnWiY_169_171,Th0SMArnWiY,169.33,171.41,fall,hard, A man fall off his bike hard.,fall,firmly,53,"[('fall', 'firmly')]",12,12,147
+v_d8MgSp3oCoA_54_68,d8MgSp3oCoA,54.9,68.54,fall,heavily," After, a  sumo falls on the ground heavily, then he stands.",fall,firmly,421,"[('fall', 'firmly')]",12,12,147
+v_SrcZRhXkr2k_0_80,SrcZRhXkr2k,0.0,80.01,hit,hard,"A man and woman are standing in a racketball room and attempt on taking turns hitting the racketball very hard, but the woman is dominating every chance.",hit,firmly,2398,"[('hit', 'firmly')]",12,11,152
+v_DRSH-_Ye9eE_11_22,DRSH-_Ye9eE,11.99,22.96,hit,hard,"Two larger teens quickly start running to the right, other players start running to them and one of the boys hit the boy so hard with his stick that the boy falls.",hit,firmly,331,"[('hit', 'firmly')]",12,11,152
+v_--0edUL8zmA_33_72,--0edUL8zmA,33.19,72.36,hit,hard, The player hits the ball hard on his opponent's leg.,hit,firmly,977,"[('hit', 'firmly')]",12,11,152
+v_a4-5QFOiAiw_8_14,a4-5QFOiAiw,8.1,14.99,hit,hard, When the tennis ball comes down the man hits it very hard with his racket.,hit,firmly,150,"[('hit', 'firmly')]",12,11,152
+v_-qGmUrF_7v4_67_105,-qGmUrF_7v4,67.64,105.56,hit,hard, An older girl hits it so hard that it doesn't break but the whole pinata falls down and the adults have to put it back up.,hit,firmly,1140,"[('hit', 'firmly')]",12,11,152
+v_3dR4MEUDHa0_122_153,3dR4MEUDHa0,122.24,153.76,spike,hard, The challenger spikes the ball so hard it kills him.,hit,firmly,744,"[('hit', 'firmly')]",12,11,152
+v_Fp_uU-qMDSc_0_17,Fp_uU-qMDSc,0.0,17.43,hit,hard,A man dressed in all white is shown fighting different men outdoors and hitting them very hard.,hit,firmly,409,"[('hit', 'firmly')]",12,11,152
+v_ptY-0n53uq0_84_103,ptY-0n53uq0,84.9,103.54,hit,hard, He hits the cymbals and drums hard with the sticks.,hit,firmly,458,"[('hit', 'firmly')]",12,11,152
+v_a4-5QFOiAiw_14_59,a4-5QFOiAiw,14.99,59.08,hit,hard, The man throws the ball up again in the air and hits it very hard and does that three times until the words on the top of the screen spin away in a special effect as if it's spinning out into the distance of the video until it fades to black.,hit,firmly,1125,"[('hit', 'firmly')]",12,11,152
+v_x4Vk5wSH7xE_0_4,x4Vk5wSH7xE,0.51,4.6,hit,lightly,"The man is hitting the woman lightly with the red balloon, while holding the baby and the woman laughs.",hit,gently,123,"[('hit', 'gently')]",16,11,401
+v_jqLwYHwYYPM_101_138,jqLwYHwYYPM,101.96,138.75,pound,gently, The man is now holding a tile with ridges on all four sides and he takes a mallet and a tool to gently pound the pieces together.,hit,gently,1111,"[('hit', 'gently')]",16,11,401
+v_3JrxcNxNMU4_3_18,3JrxcNxNMU4,3.32,18.99,hit,lightly,  She pushes the blue ball through the thin white rings and the ball lightly hits the wooden pole.,hit,gently,454,"[('hit', 'gently')]",16,11,401
+v_6gyD-Mte2ZM_6_36,6gyD-Mte2ZM,6.59,36.71,hold,firmly," He begins by picking up his blue bowling ball and then, holds it firmly to shoot it at the pins.",hold,firmly,901,"[('hold', 'firmly')]",12,31,547
+v_IGamNJ5yIh4_8_28,IGamNJ5yIh4,8.91,28.11,kick,hard,"A man kicks the ball very hard, makes it in the goal and he throws his two arms up in the air and gives a team mate a high five and they all run back to get into place for the next play.",kick,firmly,602,"[('kick', 'firmly')]",12,40,388
+v_RKzwMrL5Th4_6_22,RKzwMrL5Th4,6.07,22.59,kick,hard," The player in red shirt is slowly kicking the ball, then he kicked it hard to the goal.",kick,firmly,401,"[('kick', 'firmly')]",12,40,388
+v_fJyxb59mA-A_49_54,fJyxb59mA-A,49.15,54.92,laugh,hard, The man laughs hard again.,laugh,firmly,150,"[('laugh', 'firmly')]",12,69,148
+v_8C6iIFY47Kc_62_123,8C6iIFY47Kc,62.97,123.73,push,hard," The men try hard to beat each other, pushing hard on each side.",press,firmly,1828,"[('press', 'firmly')]",12,15,254
+v_lHnSteuHdZ4_57_158,lHnSteuHdZ4,57.78,158.61,pull,hard,the guy then pulls hard on the fishing line and drags it in.,pull,firmly,3027,"[('pull', 'firmly')]",12,8,95
+v_yEFS8M4pgMU_148_155,yEFS8M4pgMU,148.79,155.26,pull,hard, The opposing team pulls harder and the team in the white ends up falling down and losing.,pull,firmly,211,"[('pull', 'firmly')]",12,8,95
+v_-DpnaHTk8PA_154_209,-DpnaHTk8PA,154.06,209.61,pull,hard," They pull hard on each other's arms, trying to win.",pull,firmly,1648,"[('pull', 'firmly')]",12,8,95
+v_IxrncvpPWV8_13_23,IxrncvpPWV8,13.71,23.85,pull,hard," They pull hard until the rope gives, and they win the game.",pull,firmly,302,"[('pull', 'firmly')]",12,8,95
+v_-X7fBYN5fBc_14_25,-X7fBYN5fBc,14.81,25.54,tie,roughly, After he jumps off the horse he starts to pin the cow down and tie the rope around its legs very roughly.,secure,firmly,330,"[('secure', 'firmly')]",12,58,380
+v_-rx6D1uBsUU_96_204,-rx6D1uBsUU,96.07,204.29,throw,forcefully, They are forcefully thrown out in the river as the raft overturns on them.,throw,firmly,2701,"[('throw', 'firmly')]",12,9,110
+v_-fjUWhSM6Hc_36_40,-fjUWhSM6Hc,36.66,40.62,throw,hard, A third man throws a javelin so hard that he falls.,throw,firmly,102,"[('throw', 'firmly')]",12,9,110
+v_EoQgUlLb3U4_26_31,EoQgUlLb3U4,26.31,31.78,throw,hard, The man throws the discus really hard.,throw,firmly,150,"[('throw', 'firmly')]",12,9,110
+v_aQulBdlcGNU_158_191,aQulBdlcGNU,158.63,191.12,kick,forward, She kicks her feet forward.,kick,forwards,989,"[('kick', 'forwards')]",4,40,516
+v_fnKOW7tJA1A_0_35,fnKOW7tJA1A,0.0,35.99,swinge,forward,  He is swinging forward and backward.,swing,forwards,1049,"[('swing', 'forwards')]",4,29,266
+v_R3MPcPKQYKE_16_27,R3MPcPKQYKE,16.77,27.26,smooth,gently, He smooths the tiles gently into place.,spread,gently,330,"[('spread', 'gently')]",16,27,561
+v_krNVpENNPCM_9_175,krNVpENNPCM,9.49,175.49,add,gradually," The yellow cream is being mixed by a mixer, an egg yolk is added and then mixed it, another egg yolk, then vanilla, then mixed, the flour is sifted and added gradually in the cream and mixed by spatula, then milk is added, and then the sifter flour is also added and then the mixtures are mixed together with a spatula.",add,gradually,4150,"[('add', 'gradually')]",19,68,301
+v_v8Dqgro-f-U_28_93,v8Dqgro-f-U,28.67,93.98,cut,in, We see the outside of the building and a man is interviewed with shots of the inside cut in.,cut,in,1559,"[('cut', 'in')]",6,26,349
+v_-OH1BDqao9w_108_141,-OH1BDqao9w,108.45,141.82,drive,out, The car gets driven out.,drive,out,990,"[('drive', 'out')]",10,34,375
+v_P06Slwn3JG0_49_65,P06Slwn3JG0,49.91,65.67,jump,in," the girl jumps in, rolls around and throws the leaves around before standing and talking to the camera.",jump,in,240,"[('jump', 'in')]",6,3,288
+v_u-X4YO91V78_28_146,u-X4YO91V78,28.71,146.92,jump,in," The rapids increase, and the people get out of the water to jump back in.",jump,in,3540,"[('jump', 'in')]",6,3,288
+v_e9p0xmsU3h0_157_178,e9p0xmsU3h0,157.67,178.24,jump,in, The girl slides into the ball pool then climbs up onto the wall and jumps back in.,jump,in,505,"[('jump', 'in')]",6,3,288
+v_hi4aLY1ajTY_100_134,hi4aLY1ajTY,100.95,134.59,jump,in, She moves around quickly in the pool and jumps in several times.,jump,in,1018,"[('jump', 'in')]",6,3,288
+v_7uhJ_0oKV6s_39_62,7uhJ_0oKV6s,39.06,62.0,jump,in," Several others jump in, jumping over the rope, flipping and doing stunts.",jump,in,662,"[('jump', 'in')]",6,3,288
+v_rdkrg8Bj9_I_44_64,rdkrg8Bj9_I,44.61,64.85,jump,out, The athlete is now running full out and jumping full out.,jump,out,600,"[('jump', 'out')]",10,3,271
+v_WwcbpTANbeU_43_77,WwcbpTANbeU,43.59,77.83,jump,out," He jumps out, then swings back and forth over the thin waters.",jump,out,1022,"[('jump', 'out')]",10,3,271
+v_RaQE93FNLQI_7_29,RaQE93FNLQI,7.84,29.91,push,in, Than the woman places an angle shaped cookie cutter on the dough and instructs the girl to push the dough in.,press,in,662,"[('press', 'in')]",6,15,311
+v_m_ST2LDe5lA_15_17,m_ST2LDe5lA,15.55,17.09,place,in, The man places his mouth piece back in.,put,in,59,"[('put', 'in')]",6,13,204
+v_29UfCoftDkA_0_6,29UfCoftDkA,0.0,6.37,stand,in,a man stands in between two metal bars that are waist high.,stand,in,181,"[('stand', 'in')]",6,4,92
+v_GqWH2IYPw6U_19_72,GqWH2IYPw6U,19.02,72.68,step,in, Another girl steps in and joins her by singing and several others join in to sing as well.,step,in,1592,"[('step', 'in')]",6,16,78
+v_4usf67inE3w_25_90,4usf67inE3w,25.49,90.0,step,in, The boy throws another ball when another boy steps in to throw ball.,step,in,1951,"[('step', 'in')]",6,16,78
+v_jcQy1x8lDaQ_8_24,jcQy1x8lDaQ,8.37,24.48,step,in," He steps in the first time, holding the bowling ball in his right hand and aims for the pins and hits a strike.",step,in,480,"[('step', 'in')]",6,16,78
+v_sgUMHHuAhZg_84_96,sgUMHHuAhZg,84.52,96.74,step,in, A man in blue shirt steps in.,step,in,361,"[('step', 'in')]",6,16,78
+v_EuIBTFqVOt8_44_230,EuIBTFqVOt8,44.93,230.44,step,in, Several more men battle back and fourth with one another and more people stepping in and out of frame to watch.,step,in,4466,"[('step', 'in')]",6,16,78
+v_aDaazrgvjJg_0_20,aDaazrgvjJg,0.0,20.73,step,out,"A woman raise a weight until her shoulders, then she steps out a foot and raise the weight above her hear.",step,out,601,"[('step', 'out')]",10,16,513
+v_GhXniQgRUTY_0_33,GhXniQgRUTY,0.0,33.52,walk,in,A large group of people are seen standing around a room with others walking in with beams.,walk,in,993,"[('walk', 'in')]",6,1,36
+v_HNR_HofJ_Fs_0_20,HNR_HofJ_Fs,0.0,20.14,walk,in,A man is seen moving around an airplane when another man walks in and speak to him.,walk,in,602,"[('walk', 'in')]",6,1,36
+v_gBOWkZBlc8g_47_121,gBOWkZBlc8g,47.97,121.18,walk,in, More people walk in and out of frame as the men continue to kick the ball back and fourth to one another.,walk,in,2218,"[('walk', 'in')]",6,1,36
+v_0KqeKi2CBqg_7_28,0KqeKi2CBqg,7.96,28.32,walk,in, A man walks in and sits with her in a restaurant as they talk.,walk,in,525,"[('walk', 'in')]",6,1,36
+v_Se7eQXlW-BA_10_23,Se7eQXlW-BA,10.97,23.88,walk,in, A woman walks in and speaks to the blonde woman and hands her some bowling shoes.,walk,in,326,"[('walk', 'in')]",6,1,36
+v_YrdpvaBDDlE_49_74,YrdpvaBDDlE,49.34,74.97,walk,in, Another person walks in and out of frame as he continues mashing up the food.,walk,in,743,"[('walk', 'in')]",6,1,36
+v_ntS2PA5YWuA_0_73,ntS2PA5YWuA,0.7,73.02,walk,in,A person is seen walking in with a tire on a plank and painting the tire.,walk,in,1825,"[('walk', 'in')]",6,1,36
+v_xkIhTMJ_ThA_4_11,xkIhTMJ_ThA,4.96,11.17,walk,in, The woman hits the ball and the other man walks in with a racket.,walk,in,177,"[('walk', 'in')]",6,1,36
+v_BZQb9uWULOc_10_21,BZQb9uWULOc,10.53,21.87,walk,in, A man walks in holding a portable beer pong table.,walk,in,278,"[('walk', 'in')]",6,1,36
+v_F_-w_z4B3bg_54_85,F_-w_z4B3bg,54.97,85.03,walk,in, Another boy walks in and out of frame and begins singing into a microphone.,walk,in,915,"[('walk', 'in')]",6,1,36
+v_UD4RnQp5tPY_23_35,UD4RnQp5tPY,23.14,35.26,walk,in, Another man walks in scolding him and then eventually take off their shirts.,walk,in,359,"[('walk', 'in')]",6,1,36
+v_ZKkjR2VTb7Y_0_12,ZKkjR2VTb7Y,0.55,12.54,walk,in,A close up of a lawn is seen followed by a person walking in holding a tool.,walk,in,363,"[('walk', 'in')]",6,1,36
+v_UxhKb-zZoWE_0_31,UxhKb-zZoWE,0.0,31.71,walk,in,Two sumo wrestlers are seen fighting that leads into people walking in and others dancing together.,walk,in,930,"[('walk', 'in')]",6,1,36
+v_yA3AD9jU7QU_48_92,yA3AD9jU7QU,48.85,92.51,walk,in,"All of a sudden,a male nurse walks in wearing blue scrubs,and goes immediately towards the sink.",walk,in,1320,"[('walk', 'in')]",6,1,36
+v_MkouTZhtvEI_0_12,MkouTZhtvEI,0.0,12.66,walk,in,A large group of people are shown walking in holding bows and arrows and one making a shot.,walk,in,302,"[('walk', 'in')]",6,1,36
+v_RP_PlV5Jzuc_0_13,RP_PlV5Jzuc,0.0,13.47,walk,in,A close up of a horse is shown tied to a fence when a man walks in with a reef blower and pushing it towards the horses.,walk,in,390,"[('walk', 'in')]",6,1,36
+v_HCraAphAW1A_0_3,HCraAphAW1A,0.14,3.0,walk,in,  A brown and tan speckled cat is lying on a white cushion when a person walks in holding a pair of red handled nail clippers.,walk,in,92,"[('walk', 'in')]",6,1,36
+v_8sTJGmY-SGQ_0_13,8sTJGmY-SGQ,0.47,13.53,walk,in,A man is seen standing with his arms up and walks in between a set of uneven bars.,walk,in,390,"[('walk', 'in')]",6,1,36
+v_Rq1MoqtH8fM_0_84,Rq1MoqtH8fM,0.0,84.33,walk,in,A close up of tools are shown followed by a man walking in and putting earbuds on as well as using a tool along the grass.,walk,in,2519,"[('walk', 'in')]",6,1,36
+v_HwYZEZYgeBI_0_16,HwYZEZYgeBI,0.0,16.32,walk,in,An intro leads into several tools laid out on a table and a women walking in an removing a plant.,walk,in,481,"[('walk', 'in')]",6,1,36
+v_BgsxbT9RCeg_22_47,BgsxbT9RCeg,22.49,47.92,walk,in, A man in blue jeans and a white shirt walks in and strokes her back with a yellow cloth.,walk,in,752,"[('walk', 'in')]",6,1,36
+v_lgu-DBDWlEs_7_14,lgu-DBDWlEs,7.23,14.65,walk,in, Then someone walks in while holding flamin' hot funyun chips in their hand.,walk,in,210,"[('walk', 'in')]",6,1,36
+v_0hdwFR5qWz4_0_48,0hdwFR5qWz4,0.0,48.04,walk,in,"A man made stream of water is shown along with several sky scrapers in the city,with clips of people walking in between it.",walk,in,1200,"[('walk', 'in')]",6,1,36
+v_GqWH2IYPw6U_73_97,GqWH2IYPw6U,73.66,97.56,walk,in, A mime walks in with fireworks while the group still sings and many around are seen laughing and smiling.,walk,in,721,"[('walk', 'in')]",6,1,36
+v_Tm0jUAQf6zY_42_131,Tm0jUAQf6zY,42.59,131.05,walk,in,"The cat below  walks in and out of the screen while she's twirling the baton and even throws it up in the air, catches it then continues to twirl it.",walk,in,889,"[('walk', 'in')]",6,1,36
+v_XX2sXEmR4BE_0_12,XX2sXEmR4BE,0.0,12.66,walk,in," Another woman wearing pink casually walks in, removes her jacket and sits on the bike next to her and begins to peddle.",walk,in,302,"[('walk', 'in')]",6,1,36
+v_sNnNDCx6RRA_0_49,sNnNDCx6RRA,0.0,49.84,walk,out,A ballerina is seen walking out onto a stage and leads into her performing a ballet routine.,walk,out,1470,"[('walk', 'out')]",10,1,49
+v_iKuBIzUHxYc_78_139,iKuBIzUHxYc,78.55,139.39,walk,out," He walks out, and a game is shown in progress as he discusses it longer.",walk,out,1527,"[('walk', 'out')]",10,1,49
+v__gDw8q2sRLk_0_32,_gDw8q2sRLk,0.38,32.66,walk,out,Three people are seen walking out onto a large gymnasium floor and lead into the three performing a jump roping routine.,walk,out,960,"[('walk', 'out')]",10,1,49
+v_GqkvSUNfZFk_0_73,GqkvSUNfZFk,0.0,73.99,walk,out,Hockey players are seen walking out onto the ice as well as preparing back stage and skating around the rink with others.,walk,out,2189,"[('walk', 'out')]",10,1,49
+v_5JVHUcOW0GE_81_121,5JVHUcOW0GE,81.95,121.31,walk,out, He puts the sandwich in a bag and finally into a container and walks out.,walk,out,960,"[('walk', 'out')]",10,1,49
+v_yxcikJ3Hp8w_0_55,yxcikJ3Hp8w,0.0,55.93,walk,out,A large group of cheerleaders are seen walking out on a stage while people watch on the sidelines.,walk,out,1651,"[('walk', 'out')]",10,1,49
+v_GOxmnVFdMfY_109_156,GOxmnVFdMfY,109.97,156.07,walk,out, The people continue bumping into one another and end by getting up and walking out.,walk,out,1409,"[('walk', 'out')]",10,1,49
+v_kkXSGwesZ0U_98_214,kkXSGwesZ0U,98.9,214.99,walk,out,  They walk out to a ledge and then go bungee jumping over the edge.,walk,out,2900,"[('walk', 'out')]",10,1,49
+v_aEopPs2eY-Q_33_86,aEopPs2eY-Q,33.78,86.1,walk,out, Ashley comes out getting dressed in her motor cross gear and slowly walks her bike out.,walk,out,1590,"[('walk', 'out')]",10,1,49
+v_VZ2CPdIPa30_66_136,VZ2CPdIPa30,66.93,136.16,walk,out, The woman  carefully walks out to the jumping platform while one of the men stands behind her and an audience watches.,walk,out,1750,"[('walk', 'out')]",10,1,49
+v_PfleCcLgZ7E_0_56,PfleCcLgZ7E,0.0,56.85,walk,out,A woman walks out on stage while another walks in and out of frame.,walk,out,1344,"[('walk', 'out')]",10,1,49
+v_Wr_Eu2M7U9E_41_51,Wr_Eu2M7U9E,41.62,51.48,walk,out,She forgets the scissors and walks out to grab them and comes back to apply more paper on the wall.,walk,out,251,"[('walk', 'out')]",10,1,49
+v_EO_BnsrWMnI_3_105,EO_BnsrWMnI,3.19,105.38,walk,out,A man is seen wearing a funny uniform and walking out onto a large stage while intervening to speak to the camera.,walk,out,3057,"[('walk', 'out')]",10,1,49
+v_XOUyGnr6iTM_84_121,XOUyGnr6iTM,84.35,121.56,walk,out, The men continue to hit the ball around the room and ends with several walking out.,walk,out,1110,"[('walk', 'out')]",10,1,49
+v_tO1VJnsd8sg_80_99,tO1VJnsd8sg,80.73,99.66,walk,out, A woman opens the door and walks out.,walk,out,571,"[('walk', 'out')]",10,1,49
+v_bwRsZtPzipc_56_228,bwRsZtPzipc,56.08,228.89,walk,out, The group leads into two women performing the routine while the camera zooms in and out and ends with them walking out.,walk,out,4300,"[('walk', 'out')]",10,1,49
+v_HYYQ56oZSDM_71_112,HYYQ56oZSDM,71.77,112.48,walk,out, People are walking out od the restaurant.,walk,out,1025,"[('walk', 'out')]",10,1,49
+v_3FZ47muWIYA_110_156,3FZ47muWIYA,110.87,156.67,walk,out, The kids continue washing and drying their hands and walk out.,walk,out,1380,"[('walk', 'out')]",10,1,49
+v_o2hmponBzIE_0_37,o2hmponBzIE,0.0,37.16,walk,out,A small group of girls wearing costumes are seen walking out onto a gym floor and holding a pose in front of a large audience.,walk,out,1109,"[('walk', 'out')]",10,1,49
+v_p4Bm_NB_QoI_0_21,p4Bm_NB_QoI,0.0,21.31,walk,out,A small group of girls are first seen walking out on a gymnasium floor with several people watching on the sidelines.,walk,out,631,"[('walk', 'out')]",10,1,49
+v_Bl2Hqx3h9Fw_47_101,Bl2Hqx3h9Fw,47.95,101.41,walk,out,A person is then shown walking out to the car with a utensil taking the snow off of the glass.,walk,out,1622,"[('walk', 'out')]",10,1,49
+v_-EKpX0t44pQ_0_16,-EKpX0t44pQ,0.0,16.6,walk,out,A wrestler is walking out and gets into the ring.,walk,out,481,"[('walk', 'out')]",10,1,49
+v_zufK6CufVhA_44_88,zufK6CufVhA,44.85,88.84,walk,out," The man then buttons a shirt, ties a tie, and walks out past people onto a deck.",walk,out,1321,"[('walk', 'out')]",10,1,49
+v_GfiqDJA-qqU_0_49,GfiqDJA-qqU,0.0,49.6,walk,out,A person is seen walking out onto a large stage.,walk,out,1469,"[('walk', 'out')]",10,1,49
+v_Yl85vnsndx0_4_213,Yl85vnsndx0,4.4,213.39,dance,indoors, Women belly dance indoors for an audience.,dance,indoor,5225,"[('dance', 'indoor')]",11,32,26
+v_HYYQ56oZSDM_0_39,HYYQ56oZSDM,0.0,39.64,dance,outside,A woman and man dancing provocatively outside of a restaurant.,dance,outdoor,975,"[('dance', 'outdoor')]",3,32,342
+v_fFu37ig0pkY_0_139,fFu37ig0pkY,0.0,139.69,dance,outside,A woman is dancing outside on the sidewalk.,dance,outdoor,4166,"[('dance', 'outdoor')]",3,32,342
+v_Fp_uU-qMDSc_0_17,Fp_uU-qMDSc,0.0,17.43,fight,outdoors,A man dressed in all white is shown fighting different men outdoors and hitting them very hard.,fight,outdoor,409,"[('fight', 'outdoor')]",3,36,151
+v_mbGDPga031E_2_55,mbGDPga031E,2.82,55.38,play,indoors,People play shuffleboard indoors and outdoors.,play,indoor,636,"[('play', 'indoor')]",11,6,64
+v_eRh6V0bcBpU_0_7,eRh6V0bcBpU,0.0,7.95,play,inside,Inside a man and a woman are playing a game of raquet ball.,play,indoor,169,"[('play', 'indoor')]",11,6,64
+v_Rx4gq8hrZ8s_5_81,Rx4gq8hrZ8s,5.6,81.81,play,indoors,Four people plays soccer table indoors.,play,indoor,2281,"[('play', 'indoor')]",11,6,64
+v_PCSlAOYPMOs_0_16,PCSlAOYPMOs,0.0,16.82,play,inside,A man and a woman are playing tennis inside of a enclosed court.,play,indoor,400,"[('play', 'indoor')]",11,6,64
+v_f_mbX87xabo_0_17,f_mbX87xabo,0.0,17.01,play,inside,A child plays a chrome flute inside of home.,play,indoor,510,"[('play', 'indoor')]",11,6,64
+v_DP9hfhq8sro_6_15,DP9hfhq8sro,6.83,15.91,play,indoors, People are playing foosball indoors.,play,indoor,271,"[('play', 'indoor')]",11,6,64
+v_5E42nKwv1xY_27_187,5E42nKwv1xY,27.21,187.63,play,indoors, We see girls playing volleyball indoors.,play,indoor,4797,"[('play', 'indoor')]",11,6,64
+v_j4iaeT5xIdw_130_192,j4iaeT5xIdw,130.74,192.26,play,indoors, Girls play against boys indoors.,play,indoor,1860,"[('play', 'indoor')]",11,6,64
+v_dgas2Fku3No_0_26,dgas2Fku3No,0.0,26.55,play,indoors,Two young people are playing pairs tennis indoors while people watch behind them.,play,indoor,780,"[('play', 'indoor')]",11,6,64
+v_orR865dd2l4_0_59,orR865dd2l4,0.0,59.06,play,outside,A woman and man play shuffleboard outside.,play,outdoor,1771,"[('play', 'outdoor')]",3,6,7
+v_DfOqhNeHDgM_4_53,DfOqhNeHDgM,4.04,53.15,play,outside, We see a group of men playing drum outside as kids watch.,play,outdoor,1466,"[('play', 'outdoor')]",3,6,7
+v_ejIEsnkvLWY_0_227,ejIEsnkvLWY,0.0,227.85,play,outdoors,"Two men play accordions outdoors in the grass and in different locations throughout the video clip, at one point one of the players falls into a body of water and comes up with a fish in his shirt before everyone toasts at a table outdoors.",play,outdoor,5676,"[('play', 'outdoor')]",3,6,7
+v_PjSOjB7qhcA_0_31,PjSOjB7qhcA,0.0,31.58,play,outside,Girls are playing dodge ball outside with only one ball.,play,outdoor,744,"[('play', 'outdoor')]",3,6,7
+v_XD3yFrJHiv8_29_152,XD3yFrJHiv8,29.89,152.6,play,outdoors,"Various clips begin to play and it briefly shows parts of a city, then most of it is of men outdoors and playing soccer on sand in a middle of city, and occasionally blue words pop up on the screen when certain plays in the game are made.",play,outdoor,3076,"[('play', 'outdoor')]",3,6,7
+v_agZNSscDJww_3_111,agZNSscDJww,3.89,111.06,play,outside, People are playing a game of lacrosse outside.,play,outdoor,3237,"[('play', 'outdoor')]",3,6,7
+v_HUzoMRdSrZo_4_74,HUzoMRdSrZo,4.73,74.77,play,outdoors, We see people playing soccer outdoors at night.,play,outdoor,1751,"[('play', 'outdoor')]",3,6,7
+v_w3N0Pyz2-m0_15_144,w3N0Pyz2-m0,15.86,144.2,play,outside, We see a lady taking in a brick room and playing the violin outside.,play,outdoor,3094,"[('play', 'outdoor')]",3,6,7
+v_qp3OfC0dCOs_0_24,qp3OfC0dCOs,0.0,24.91,play,outside,Outside in the backyard two little boys in matching swim suits are playing with nets trying to catch a ball.,play,outdoor,561,"[('play', 'outdoor')]",3,6,7
+v_Koxtbgzexmw_0_12,Koxtbgzexmw,0.06,12.6,play,outdoors,Two boys play ping pong across a large ping pong table outdoors while a third boy watches from the sidelines.,play,outdoor,360,"[('play', 'outdoor')]",3,6,7
+v_ESlUzrtqC98_0_7,ESlUzrtqC98,0.0,7.0,play,outside,"A game of beer pong is being played outside at night, the camera is sideways.",play,outdoor,168,"[('play', 'outdoor')]",3,6,7
+v_WOZbWqJMkRg_0_181,WOZbWqJMkRg,0.0,181.04,play,outdoors,People plays in a marching band outdoors wearing special uniforms.,play,outdoor,5425,"[('play', 'outdoor')]",3,6,7
+v_lsIiSTG2pn4_0_41,lsIiSTG2pn4,0.0,41.61,play,outside,Ladies are playing volley ball outside.,play,outdoor,1230,"[('play', 'outdoor')]",3,6,7
+v_GldxuTsExZM_184_228,GldxuTsExZM,184.96,228.35,put,inside, He cuts around the marker lines and puts a candle inside to make a jack o lantern.,put,indoor,1321,"[('put', 'indoor')]",11,13,117
+v_krNVpENNPCM_87_237,krNVpENNPCM,87.74,237.15,put,inside," She then mixes the thin manageable mix in the bowl and puts it inside of a square baking pan to let it bake and when it's done, she takes the cake out to cut it into little slices.",put,indoor,3750,"[('put', 'indoor')]",11,13,117
+v_sFMa1EP7d2M_162_221,sFMa1EP7d2M,162.51,221.1,place,inside,Pieces are then removed and tightened with the wrench and rings are placed inside by where the chain goes.,put,indoor,1767,"[('put', 'indoor')]",11,13,117
+v_OzAqwPQ-APY_39_63,OzAqwPQ-APY,39.76,63.62,put,inside, Then they line them up and put some light inside or something as fish swim around them casually.,put,indoor,721,"[('put', 'indoor')]",11,13,117
+v_KcgpoXEh44M_58_82,KcgpoXEh44M,58.81,82.04,place,inside,"After,the young girl begins to cut,fold, and tape the paper and places the bear inside.",put,indoor,601,"[('put', 'indoor')]",11,13,117
+v_j8bfR_d_TlM_80_87,j8bfR_d_TlM,80.15,87.44,place,inside, A candle is placed inside and lit and the lid is put back on.,put,indoor,210,"[('put', 'indoor')]",11,13,117
+v_12v5k4Z8lAE_59_66,12v5k4Z8lAE,59.64,66.0,put,inside, She puts the tissue paper inside of a gift bag.,put,indoor,169,"[('put', 'indoor')]",11,13,117
+v_E88Sr9H3Wi8_91_163,E88Sr9H3Wi8,91.72,163.06,put,inside, She pours the mixture into glass and ends by putting leaves inside and presenting them to the camera.,put,indoor,2161,"[('put', 'indoor')]",11,13,117
+v_AS1nLh3xfxI_10_22,AS1nLh3xfxI,10.2,22.13,put,inside, The person lays out dirt and cut a hole into it while also putting a plant inside.,put,indoor,290,"[('put', 'indoor')]",11,13,117
+v_TgantuXBiJg_5_65,TgantuXBiJg,5.2,65.64,put,outside,A young girl is seen putting makeup on outside while other people on the side watch and also play with makeup.,put,outdoor,1801,"[('put', 'outdoor')]",3,13,214
+v_O2Y6rn4gFd4_0_3,O2Y6rn4gFd4,0.0,3.82,sit,inside,A boy is sitting inside on a chair shaving his legs with shaving cream.,sit,indoor,45,"[('sit', 'indoor')]",11,23,39
+v_6uNhwOSZXco_10_29,6uNhwOSZXco,10.5,29.88,sit,inside, A man in yellow jacket holds a rubber inter tube with a rope and a child in ski clothes sits down inside.,sit,indoor,573,"[('sit', 'indoor')]",11,23,39
+v_qMj2sCoRHqY_0_20,qMj2sCoRHqY,0.0,20.09,sit,inside,A man is sitting at a chair inside of his home all by his lonesome.,sit,indoor,480,"[('sit', 'indoor')]",11,23,39
+v_ANeDHelwzK0_10_35,ANeDHelwzK0,10.51,35.84,sit,inside, The person opens a shower curtain to show a dog sitting inside.,sit,indoor,753,"[('sit', 'indoor')]",11,23,39
+v_YmGXXV6ztUo_199_221,YmGXXV6ztUo,199.72,221.91,sit,indoors,The man appears again back indoors and sitting down talking.,sit,indoor,662,"[('sit', 'indoor')]",11,23,39
+v_B5Ea3Bs8hC4_0_1,B5Ea3Bs8hC4,0.0,1.1,sit,outdoors,This man is sitting in a chair outdoors in his yard and he is washing the black shirt in the bucket.,sit,outdoor,20,"[('sit', 'outdoor')]",3,23,44
+v_x18x9BKMAlk_158_163,x18x9BKMAlk,158.54,163.68,sit,outside, A statue sits outside surrounded by trees.,sit,outdoor,152,"[('sit', 'outdoor')]",3,23,44
+v_A80eMz7rJUM_5_17,A80eMz7rJUM,5.47,17.21,sit,outdoors," A brunette woman is now talking while she's sitting outdoors near a large plant and the words on the screen say that her name is Judy Frankel, her title and her website.",sit,outdoor,361,"[('sit', 'outdoor')]",3,23,44
+v_-OH1BDqao9w_141_157,-OH1BDqao9w,141.82,157.46,sit,outside, People are sitting outside of the building.,sit,outdoor,481,"[('sit', 'outdoor')]",3,23,44
+v_mhPpeG3LrUk_0_38,mhPpeG3LrUk,0.0,38.42,sit,outdoors,A girl is seen sitting outdoors and holding up a bottle of sunscreen while speaking to the camera.,sit,outdoor,1140,"[('sit', 'outdoor')]",3,23,44
+v_vCAGiXqYXBk_0_54,vCAGiXqYXBk,0.0,54.33,sit,outside,A man is sitting outside of a wall playing what looks like a miniature piano attached to a bag with his case out for money as a crowd of people surround him to watch.,sit,outdoor,1621,"[('sit', 'outdoor')]",3,23,44
+v_NE6SEdnVUh4_0_6,NE6SEdnVUh4,0.0,6.88,sit,outside,A group of men are sitting outside playing instruments together.,sit,outdoor,182,"[('sit', 'outdoor')]",3,23,44
+v_8Ny9NjNpQQA_0_4,8Ny9NjNpQQA,0.0,4.81,sit,outside,A group of people are sitting outside on the bleachers watching a game of water polo.,sit,outdoor,100,"[('sit', 'outdoor')]",3,23,44
+v_Sw7iRtHxMSs_0_90,Sw7iRtHxMSs,0.0,90.79,sit,outside, Another group of young men sit in chairs outside.,sit,outdoor,2702,"[('sit', 'outdoor')]",3,23,44
+v_N6ERAg1EKcc_0_5,N6ERAg1EKcc,0.0,5.11,stand,inside,A group of kids are standing inside of a garage as a man begins putting a blindfold on a young child.,stand,indoor,151,"[('stand', 'indoor')]",11,4,88
+v_M6i-5nzy5Bk_8_65,M6i-5nzy5Bk,8.3,65.39,stand,indoors,"As various clips of different people are pole vaulting, a man and woman are standing indoors next to one another and talking to the camera with the words at the bottom of the screen say their names are Kaitlin Petrillose & Jack Chapman Competitor & Chairman"".",stand,indoor,1710,"[('stand', 'indoor')]",11,4,88
+v_wxoe1M2L4Qo_6_15,wxoe1M2L4Qo,6.49,15.15,stand,inside,"A camera records a shop with two people standing inside, eventually leading over to a group of people standing by docks.",stand,indoor,216,"[('stand', 'indoor')]",11,4,88
+v_XCejO7RyWdA_0_54,XCejO7RyWdA,0.0,54.1,stand,outside,A woman in a pink shirt is standing outside.,stand,outdoor,1351,"[('stand', 'outdoor')]",3,4,19
+v_ur873jaQO3A_0_12,ur873jaQO3A,0.0,12.39,stand,outside,A man is standing outside in front of a row of trees.,stand,outdoor,362,"[('stand', 'outdoor')]",3,4,19
+v_PV5Y3NeR5yQ_0_70,PV5Y3NeR5yQ,0.0,70.76,stand,outside,"A girl is standing outside in the middle of the road doing tricks with a hula hoop,moving it around her hips and her arms.",stand,outdoor,1754,"[('stand', 'outdoor')]",3,4,19
+v_WDvsx_q2h-4_15_22,WDvsx_q2h-4,15.42,22.03,stand,outside,A man is standing outside holding a violin.,stand,outdoor,170,"[('stand', 'outdoor')]",3,4,19
+v_485Wn1DXt5U_0_25,485Wn1DXt5U,0.0,25.03,stand,outside,A girl is standing outside in a field talking and hula hooping.,stand,outdoor,628,"[('stand', 'outdoor')]",3,4,19
+v_L1lXij7Fyvo_0_11,L1lXij7Fyvo,0.0,11.25,stand,outside,"A male is standing outside white a basketball jersey and gym shorts on,talking while holding on to a red rope.",stand,outdoor,331,"[('stand', 'outdoor')]",3,4,19
+v_frbNKAZALzI_0_19,frbNKAZALzI,0.0,19.18,stand,outside,A man is standing outside talking into a camera.,stand,outdoor,571,"[('stand', 'outdoor')]",3,4,19
+v_LV0nevBELso_0_35,LV0nevBELso,0.0,35.64,stand,outside,A young boy is standing outside of a window demonstrating the proper way to clean it.,stand,outdoor,1050,"[('stand', 'outdoor')]",3,4,19
+v_ps0a-GGomX4_0_8,ps0a-GGomX4,0.0,8.8,stand,outside,An Asian male is standing outside on a field with a long stick in his hand.,stand,outdoor,244,"[('stand', 'outdoor')]",3,4,19
+v_N-1b20gDnCM_0_27,N-1b20gDnCM,0.0,27.65,stand,outside,Outside by a river a group of people wearing life jackets and holding paddles stand.,stand,outdoor,813,"[('stand', 'outdoor')]",3,4,19
+v_1UIathRb404_0_12,1UIathRb404,0.0,12.83,stand,outdoors,"An athletic young man wearing athletic gear is standing outdoors, white words on the bottom left say ""The Hit"", and with a curved stick in his hands he hits a white ball very hard across the field and does this a few times at different angles and a view shows that he hits it into a goal.",stand,outdoor,301,"[('stand', 'outdoor')]",3,4,19
+v_8_jbsmj5Z9w_0_14,8_jbsmj5Z9w,0.0,14.7,stand,outside,There are two men standing outside talking one is shirtless and he goes to grab some hair clippers.,stand,outdoor,420,"[('stand', 'outdoor')]",3,4,19
+v_TLQFjTXZ58E_0_21,TLQFjTXZ58E,0.0,21.11,stand,outside,A man is standing outside in his front lawn with his mower.,stand,outdoor,632,"[('stand', 'outdoor')]",3,4,19
+v_ZZImcxqa1_w_0_3,ZZImcxqa1_w,0.0,3.67,stand,outside,A little boy is standing outside on the sidewalk he has his arms behind his back holding something.,stand,outdoor,93,"[('stand', 'outdoor')]",3,4,19
+v_YVbMt3qsB3o_0_9,YVbMt3qsB3o,0.0,9.22,stand,outside,A chubby man is standing outside in a field and throws a yellow medicine ball demonstrating exercising to strengthen athletes for shot put.,stand,outdoor,271,"[('stand', 'outdoor')]",3,4,19
+v_hlwSgE7Epwo_0_15,hlwSgE7Epwo,0.0,15.82,stand,outside,A woman standing outside near a tennis court talking about things.,stand,outdoor,225,"[('stand', 'outdoor')]",3,4,19
+v_5Lv0g7ISQVU_0_5,5Lv0g7ISQVU,0.0,5.61,stand,outside,Two little girls are standing outside in a yard.,stand,outdoor,151,"[('stand', 'outdoor')]",3,4,19
+v_39dTxOhrW68_0_10,39dTxOhrW68,0.0,10.41,stand,outside,A man is standing outside turning on his hedge trimmer turning it around to make the blades go.,stand,outdoor,301,"[('stand', 'outdoor')]",3,4,19
+v_TdFvHyfq97o_0_19,TdFvHyfq97o,0.0,19.26,stand,outside,A man is standing outside in a field of grass that is relatively low.,stand,outdoor,475,"[('stand', 'outdoor')]",3,4,19
+v_Nogr8GCIL9k_0_117,Nogr8GCIL9k,0.0,117.78,stand,outside,"A guy stands outside, gestures, and talks.",stand,outdoor,2927,"[('stand', 'outdoor')]",3,4,19
+v_gSOUhz7yQ-s_0_7,gSOUhz7yQ-s,0.0,7.74,stand,outside,A man is standing outside of a large window and begins to clean it with a long stick.,stand,outdoor,210,"[('stand', 'outdoor')]",3,4,19
+v_rfH9VLQAuwY_0_16,rfH9VLQAuwY,0.0,16.09,stand,outside,The video leads into several pictures of people standing outside playing a game of shuffleboard.,stand,outdoor,480,"[('stand', 'outdoor')]",3,4,19
+v_RZpbFG3j-Bo_4_14,RZpbFG3j-Bo,4.82,14.45,stand,outside, A lady stands outside and talks.,stand,outdoor,151,"[('stand', 'outdoor')]",3,4,19
+v_uYqNIBbz4_Q_0_23,uYqNIBbz4_Q,0.23,23.45,stand,outside,A man is seen standing outside holding a rope and tying it around a tree bark.,stand,outdoor,692,"[('stand', 'outdoor')]",3,4,19
+v_hCJTKVzkYFE_29_32,hCJTKVzkYFE,29.86,32.97,stand,outside,  A group of children stand outside on small stands holding polo sticks in an instructor led outdoor course.,stand,outdoor,73,"[('stand', 'outdoor')]",3,4,19
+v_KqOLTkf5ujs_0_24,KqOLTkf5ujs,0.0,24.84,stand,outside,a man is standing outside with a paint pan.,stand,outdoor,722,"[('stand', 'outdoor')]",3,4,19
+v_w9LRKWLmw0A_0_26,w9LRKWLmw0A,0.72,26.72,stand,outside,"  A young boy stands outside, without a shirt, barefoot and jeans and mops a wooden ramp with a yellow mini mop.",stand,outdoor,390,"[('stand', 'outdoor')]",3,4,19
+v_ZojEQYIV_o8_22_128,ZojEQYIV_o8,22.85,128.16,stand,outside,A man is standing outside painting a dresser.,stand,outdoor,3179,"[('stand', 'outdoor')]",3,4,19
+v_lEGetBydfl4_0_2,lEGetBydfl4,0.0,2.7,stand,outside,A man is standing outside in a yard.,stand,outdoor,30,"[('stand', 'outdoor')]",3,4,19
+v_LV0nevBELso_0_8,LV0nevBELso,0.0,8.1,stand,outdoors,"A young man stands outdoors on a porch speaking to the camera, the words ""Zack's Glass Cleaning"" appears on screen.",stand,outdoor,242,"[('stand', 'outdoor')]",3,4,19
+v_f7ndXtwTep0_1_35,f7ndXtwTep0,1.25,35.65,stand,outside,A woman is seen wearing a hat and speaking to the camera while standing outside.,stand,outdoor,1020,"[('stand', 'outdoor')]",3,4,19
+v_Rho3u46ZIEE_0_2,Rho3u46ZIEE,0.0,2.03,stand,outdoors,A woman is standing outdoors with an accordion keyboard and pushes her sunglasses up.,stand,outdoor,61,"[('stand', 'outdoor')]",3,4,19
+v_gdi_m9LjRAw_2_103,gdi_m9LjRAw,2.09,103.81,stand,outside,A man is standing outside holding a chainsaw.,stand,outdoor,3030,"[('stand', 'outdoor')]",3,4,19
+v_N6y3yXiVo24_0_34,N6y3yXiVo24,0.53,34.71,stand,outside,"A little girl/toddler stands outside, on a grass covered field, and hits, repeatedly, a pink pinata hanging from a tree.",stand,outdoor,1021,"[('stand', 'outdoor')]",3,4,19
+v_fghAmraOM9A_0_5,fghAmraOM9A,0.0,5.92,stand,outdoors,A woman wearing a protective helmet speaks to the camera while standing outdoors next to a palm tree.,stand,outdoor,151,"[('stand', 'outdoor')]",3,4,19
+v_WOkHZ33CgAs_0_20,WOkHZ33CgAs,0.0,20.92,stand,outside,Two men start fighting standing outside.,stand,outdoor,600,"[('stand', 'outdoor')]",3,4,19
+v_HZWdMK6zhec_0_9,HZWdMK6zhec,0.0,9.55,stand,outside,A man is standing outside in front of a shed.,stand,outdoor,272,"[('stand', 'outdoor')]",3,4,19
+v_HD_vpQCUSCQ_0_26,HD_vpQCUSCQ,0.0,26.58,stand,outside,a woman is standing outside by a field and talking.,stand,outdoor,781,"[('stand', 'outdoor')]",3,4,19
+v_A0LLegTPpWk_0_20,A0LLegTPpWk,0.0,20.35,stand,outside,A woman with blonde hair is standing outside of a stable next to a black horse.,stand,outdoor,481,"[('stand', 'outdoor')]",3,4,19
+v_Fp_uU-qMDSc_17_31,Fp_uU-qMDSc,17.43,31.85,stand,outdoors, The man is then standing alone outdoors where he's still wearing the same white outfit and is talking very passionately using hand motions and lots of facial expressions.,stand,outdoor,337,"[('stand', 'outdoor')]",3,4,19
+v_AbVuOBhG634_0_48,AbVuOBhG634,0.0,48.06,stand,outside,"A woman is standing outside, talking to the camera.",stand,outdoor,1440,"[('stand', 'outdoor')]",3,4,19
+v_I91LmNcwN4Y_0_22,I91LmNcwN4Y,0.0,22.76,stand,outside,A woman is standing outside with some white furniture.,stand,outdoor,660,"[('stand', 'outdoor')]",3,4,19
+v_9fQ2wWFJJGo_0_44,9fQ2wWFJJGo,0.0,44.82,stand,outside,A man and a woman are standing outside at a beach in the sand talking while the lady holds a brown paper bag in her hand and a man begins filming them.,stand,outdoor,1320,"[('stand', 'outdoor')]",3,4,19
+v_MR0vMF_5hp8_4_33,MR0vMF_5hp8,4.74,33.21,stand,outside,  A person is standing outside of a car scraping the windshield of ice with a a glass ice scraper.,stand,outdoor,435,"[('stand', 'outdoor')]",3,4,19
+v_Jdtr90RIkHk_5_131,Jdtr90RIkHk,5.69,131.49,stand,outside,"The same man is now standing outside talking and the words on the bottom of the screen say his name is ""Shawn Connelly"" and he's the Founder- San Francisco Skate Club and while he's speaking various words appear at the bottom of the screen at various times as well as clips of him skateboarding showing different moves that the words mention.",stand,outdoor,3778,"[('stand', 'outdoor')]",3,4,19
+v_ur873jaQO3A_46_130,ur873jaQO3A,46.95,130.42,stand,outside, She stands outside and shoots an arrow.,stand,outdoor,2521,"[('stand', 'outdoor')]",3,4,19
+v_OCQ9OyMKQKw_0_55,OCQ9OyMKQKw,0.0,55.8,stand,outside,A man wearing a hat is standing outside.,stand,outdoor,1649,"[('stand', 'outdoor')]",3,4,19
+v_L1lXij7Fyvo_0_17,L1lXij7Fyvo,0.0,17.14,stand,outside,"A man is standing outside by a pool, talking as another man stands on the other side.",stand,outdoor,511,"[('stand', 'outdoor')]",3,4,19
+v_bfk3xsTt0XA_0_3,bfk3xsTt0XA,0.0,3.69,stand,outside,"A man stands outside, pouring water over his head.",stand,outdoor,78,"[('stand', 'outdoor')]",3,4,19
+v_QGZN8aXpXHU_0_21,QGZN8aXpXHU,0.0,21.1,stand,outside,We see a boy in a jacket standing outside and talking.,stand,outdoor,630,"[('stand', 'outdoor')]",3,4,19
+v_4YGuIycW_IA_0_57,4YGuIycW_IA,0.0,57.71,stand,outside,A man stands outside holding a bottle of sun screen and talking.,stand,outdoor,1710,"[('stand', 'outdoor')]",3,4,19
+v_y-OZ45FQZ0g_56_60,y-OZ45FQZ0g,56.4,60.98,stand,outdoors,"A colorful screen appears and it displays a cartoon picture of a Pokemon standing outdoors near a tree while it's snowing, and red words read ""Pokemon-Pallet-Town"".",stand,outdoor,122,"[('stand', 'outdoor')]",3,4,19
+v_djE5A2S1Ezg_2_198,djE5A2S1Ezg,2.05,198.41,stand,outside,A man and woman stand outside of an unpainted brown wooden fence and demonstrate how to paint it using two techniques.,stand,outdoor,4903,"[('stand', 'outdoor')]",3,4,19
+v_NURr5XJcwFs_0_11,NURr5XJcwFs,0.0,11.12,stand,outside,A woman is standing outside of a group of young girls tying a  bandanna around a girls face.,stand,outdoor,330,"[('stand', 'outdoor')]",3,4,19
+v_hz3n1wrXYAc_0_14,hz3n1wrXYAc,0.0,14.67,stand,outside,An Asian man is standing outside talking while holding a helmet in one hand and his performance bike in the other.,stand,outdoor,350,"[('stand', 'outdoor')]",3,4,19
+v_8slE1UskRS4_0_10,8slE1UskRS4,0.0,10.82,stand,outside,"Three people are standing outside under a very large concrete gazebo and briefly the white word ""MARANHAO"" is on the right side of the screen.",stand,outdoor,242,"[('stand', 'outdoor')]",3,4,19
+v_Rd9TrjbCkAE_0_5,Rd9TrjbCkAE,0.0,5.85,stand,outside,A group of people are seen standing outside speaking to one another.,stand,outdoor,75,"[('stand', 'outdoor')]",3,4,19
+v_NhM6jEV08s4_0_2,NhM6jEV08s4,0.0,2.28,stand,outside,"Outside a lumbar jack is standing with an axe, he is dressed up in a coat to stay warm.",stand,outdoor,61,"[('stand', 'outdoor')]",3,4,19
+v_RWir3muDHg0_0_2,RWir3muDHg0,0.0,2.03,stand,outdoors,A lot of men are standing outdoors on a dirt field and there are two teams standing along a rope while a lot of people are standing around watching them.,stand,outdoor,60,"[('stand', 'outdoor')]",3,4,19
+v_c1tbdVxIhH4_5_36,c1tbdVxIhH4,5.49,36.04,stick,inside, The man turns the pumpkin on the side and the boy sticks his hand inside to scoop out some of the insides of the carved jack-o- lantern with a spoon.,stick,indoor,930,"[('stick', 'indoor')]",11,45,494
+v_tgdLeBX7aXk_30_64,tgdLeBX7aXk,30.73,64.69,walk,outside, People are walking around outside playing cricket.,walk,outdoor,1020,"[('walk', 'outdoor')]",3,1,22
+v_1gp-5iOIfVo_0_28,1gp-5iOIfVo,0.0,28.85,walk,outdoors,"A group of people are walking outdoors, and people are preparing to run in a race.",walk,outdoor,672,"[('walk', 'outdoor')]",3,1,22
+v_Vp63nbOfxgs_0_17,Vp63nbOfxgs,0.0,17.01,walk,outside,"Some is carrying an instrument case walking around outside, they put the case down on the ground and take out a violin.",walk,outdoor,411,"[('walk', 'outdoor')]",3,1,22
+v_NLdhDlsMnxQ_0_17,NLdhDlsMnxQ,0.0,17.97,walk,outside,A dog is seen walking outside walking runny while one person sits and the other leads the dog.,walk,outdoor,428,"[('walk', 'outdoor')]",3,1,22
+v_TUPCQpyoSbI_0_23,TUPCQpyoSbI,0.0,23.9,walk,outside,Outside a man is walking with a herd of sheep during a cold winter day.,walk,outdoor,576,"[('walk', 'outdoor')]",3,1,22
+v_aJsDVKt5Igs_0_8,aJsDVKt5Igs,0.0,8.1,walk,outdoors,"Two women and a little girl are walking outdoors, showing the little girl a group of boys in the distance.",walk,outdoor,120,"[('walk', 'outdoor')]",3,1,22
+v_kAQML4pRtck_0_4,kAQML4pRtck,0.0,4.41,walk,outside, There is another man standing and walking outside of the fence near the man throwing the ball on the rope.,walk,outdoor,121,"[('walk', 'outdoor')]",3,1,22
+v_snG89ed-64M_60_74,snG89ed-64M,60.44,74.17,follow,immediately, One team scores several goals and are immediately followed by teammates cheering.,follow,instantly,422,"[('follow', 'instantly')]",14,71,155
+v_X1WExPnfJjE_18_32,X1WExPnfJjE,18.36,32.21,jump,suddenly, She suddenly jumps and screams towards the camera while smiling and setting the brush down.,jump,instantly,182,"[('jump', 'instantly')]",14,3,139
+v__-M4xNBhSEI_2_5,_-M4xNBhSEI,2.75,5.7,bounce,suddenly, A green ball suddenly bounces across the fifty yard line.,jump,instantly,90,"[('jump', 'instantly')]",14,3,139
+v_I8jhEprzTN8_91_95,I8jhEprzTN8,91.01,95.06,run,suddenly,"  Suddenly, a man runs on front the men and bend to grab a small ball and left.",run,instantly,120,"[('run', 'instantly')]",14,5,168
+v_Srpn1NaBueI_14_18,Srpn1NaBueI,14.99,18.79,run,suddenly," Suddenly, a calf runs and the man catch the calf with the loop of the rope.",run,instantly,121,"[('run', 'instantly')]",14,5,168
+v_ZhPL4xb8JD0_7_11,ZhPL4xb8JD0,7.41,11.27,run,suddenly," Suddenly, the horseman and a calf run to the the arena, while the horseman runs behind the calf spinning in the air a rope.",run,instantly,121,"[('run', 'instantly')]",14,5,168
+v_lsvZBtYMXZM_10_30,lsvZBtYMXZM,10.3,30.38,run,immediately, A man wearing a black tank top immediately runs into the spotlight to stand between the two and they all begin to dance as the room is lit up to show a large dancing area with people in the audience watching them.,run,instantly,300,"[('run', 'instantly')]",14,5,168
+v_JqFFXs0RAnI_35_37,JqFFXs0RAnI,35.08,37.78,run,suddenly," Suddenly, the person runs making thumps up and pose for a picture.",run,instantly,30,"[('run', 'instantly')]",14,5,168
+v_B3ZVUyLeT84_20_52,B3ZVUyLeT84,20.52,52.35,stand,suddenly," Suddenly, a boy stands an surf below the wave.",stand,instantly,961,"[('stand', 'instantly')]",14,4,20
+v_cinmiQ4tHYk_5_15,cinmiQ4tHYk,5.97,15.11,grab,suddenly," Then, the man and the woman talks and the woman turn to leave, suddenly the man grabs the woman from the shoulder.",take,instantly,241,"[('take', 'instantly')]",14,28,431
+v_9qNM5tNMxK4_62_104,9qNM5tNMxK4,62.13,104.58,grab,immediately," The player in black misses one shot, but he immediately grabs the ball and they continue to play again.",take,instantly,1052,"[('take', 'instantly')]",14,28,431
+v_dI1RqUHyWYo_0_89,dI1RqUHyWYo,0.9,89.51,jump,off,Several people at an indoor pool jump off of a diving board into the pool water below exhibiting a mix of advanced diving techniques and diving technique mishaps.,jump,off,2227,"[('jump', 'off')]",13,3,75
+v_xYM6h31PrM0_88_111,xYM6h31PrM0,88.11,111.14,jump,on, She falls off at one point and jumps back on to finish her routine and ends by jumping off the side.,jump,on,691,"[('jump', 'on')]",15,3,57
+v_vBdm15wRqig_87_131,vBdm15wRqig,87.48,131.59,jump,on," A boy put his surfboard on the rives,jump on and surf, then fell, also other boys surf.",jump,on,1321,"[('jump', 'on')]",15,3,57
+v_wVCDyGGog4I_145_222,wVCDyGGog4I,145.79,222.77,look,off, The group continues moving around together and ends with them standing together and looking off into the distance.,look,off,1929,"[('look', 'off')]",13,2,18
+v_mXb1tduBEj8_38_83,mXb1tduBEj8,38.69,83.2,look,off, He continues speaking to the camera while holding the ball and looking off into the distance.,look,off,1351,"[('look', 'off')]",13,2,18
+v_8B4M8AsGZmQ_0_9,8B4M8AsGZmQ,0.18,9.12,look,off,A camera pans around a person standing and leads into him looking off into the distance and carrying gear.,look,off,225,"[('look', 'off')]",13,2,18
+v_pf9u7M6vafU_11_19,pf9u7M6vafU,11.91,19.53,look,off, The camera pans around her and watches her knit while she speaks and looks off into the distance.,look,off,240,"[('look', 'off')]",13,2,18
+v_oDZ6refg3Ew_85_205,oDZ6refg3Ew,85.29,205.52,look,off, The woman continues moving around on the beach shaking her arms and legs and looking off into the distance.,look,off,3598,"[('look', 'off')]",13,2,18
+v_nTkMD63Wj14_0_17,nTkMD63Wj14,0.0,17.03,look,off,A dog is seen looking off into the distance and a boy walks into frame.,look,off,510,"[('look', 'off')]",13,2,18
+v_NGBaYycOQT0_6_19,NGBaYycOQT0,6.59,19.62,look,off, The person moves around a bit and looks off in the distance.,look,off,327,"[('look', 'off')]",13,2,18
+v_yUbdrBSmUHE_1_57,yUbdrBSmUHE,1.39,57.13,look,off,A woman is seen jumping rope in the middle of a room performing several different jumps while looking off to the camera.,look,off,1400,"[('look', 'off')]",13,2,18
+v_W0EN9JeU66A_16_30,W0EN9JeU66A,16.4,30.37,look,off, The child continues pumping their legs and then is stiff while looking off into the distance.,look,off,420,"[('look', 'off')]",13,2,18
+v_TlDh_RZ3HDk_0_36,TlDh_RZ3HDk,0.0,36.33,look,off,A girl with long hair is seen looking off into the distance from a mirror and a woman using a curling iron on the hair.,look,off,1081,"[('look', 'off')]",13,2,18
+v_Q2jdtN4-RE0_130_224,Q2jdtN4-RE0,130.64,224.29,look,off, She continues moving her body around and looking off into the distance.,look,off,2821,"[('look', 'off')]",13,2,18
+v_IgAE9XJVIlk_70_102,IgAE9XJVIlk,70.04,102.4,look,off, He continues to dance around while looking off into the distance.,look,off,769,"[('look', 'off')]",13,2,18
+v_cy3a8BJJ-YQ_81_138,cy3a8BJJ-YQ,81.83,138.97,look,off, The dealer continues playing with the people and looking off into the distance.,look,off,1366,"[('look', 'off')]",13,2,18
+v_yslrb52Di5w_21_50,yslrb52Di5w,21.54,50.78,look,off, The man pauses and looks off into the distance to see another man speaking to him as well as into a microphone.,look,off,725,"[('look', 'off')]",13,2,18
+v_hjDGz9OhwvM_107_129,hjDGz9OhwvM,107.45,129.45,look,off, She flips over the shirt to continue ironing and looks off into the distance.,look,off,663,"[('look', 'off')]",13,2,18
+v_q92zSoMudWU_0_7,q92zSoMudWU,0.0,7.83,look,off,A group of men are seen looking off into the distance that leads into a soccer match.,look,off,211,"[('look', 'off')]",13,2,18
+v_A7PBp9PDW80_0_9,A7PBp9PDW80,0.48,9.77,look,off,A young boy is seen looking off into the distance as well as a girl.,look,off,217,"[('look', 'off')]",13,2,18
+v_r6z6Ct16I_8_25_66,r6z6Ct16I_8,25.8,66.15,look,off, The girl speaks to the camera while looking off into the distance and continues painting the toe nails.,look,off,409,"[('look', 'off')]",13,2,18
+v_dG_jxrIaK6w_55_78,dG_jxrIaK6w,55.71,78.15,look,off, He continues to play and ends by turning off the camera and looking off into the distance.,look,off,345,"[('look', 'off')]",13,2,18
+v_U-VzZQGWOqA_25_57,U-VzZQGWOqA,25.44,57.76,look,off, She continues eating the ice cream cone and looking off into the distance.,look,off,959,"[('look', 'off')]",13,2,18
+v_JuC7EY32Spg_13_26,JuC7EY32Spg,13.58,26.63,look,off, She then puts her shoe on the foot and the dog looks off into the distance.,look,off,390,"[('look', 'off')]",13,2,18
+v_1wjnveHAhGE_68_127,1wjnveHAhGE,68.83,127.84,look,off, The men continuously moves around on the machine while looking off into the distance.,look,off,1771,"[('look', 'off')]",13,2,18
+v_5yrLDF_ZmN0_45_124,5yrLDF_ZmN0,45.45,124.53,swim,off, They do this roughly two more times between them and  they start to swim off which continuing to share the breathing mask until the camera fades to black.,swim,off,1975,"[('swim', 'off')]",13,46,126
+v_LMMimz1-fa0_35_88,LMMimz1-fa0,35.3,88.82,take,off, the boat takes off and shows several shots of people riding on wake boards and girls looking off into the distance.,take,off,1590,"[('take', 'off')]",13,28,133
+v_JHYMG87h3XI_70_76,JHYMG87h3XI,70.62,76.35,drive,on, The man jumps in the water as the boat drives on.,drive,on,181,"[('drive', 'on')]",15,34,330
+v_j8bfR_d_TlM_80_87,j8bfR_d_TlM,80.15,87.44,put,on, A candle is placed inside and lit and the lid is put back on.,put,on,210,"[('put', 'on')]",15,13,42
+v_PzeM5iOLQnk_59_86,PzeM5iOLQnk,59.58,86.07,put,on,"
+The man puts the handlebars back on.",put,on,809,"[('put', 'on')]",15,13,42
+v_ybcStSlBGPc_142_152,ybcStSlBGPc,142.38,152.97,place,on, The woman cleans up the face of the jack-o-lantern with a towel and places the top with the stem back on.,put,on,242,"[('put', 'on')]",15,13,42
+v_PLqTX6ij52U_106_139,PLqTX6ij52U,106.92,139.36,put,on, The man unfolds the bike and puts the tire back on.,put,on,990,"[('put', 'on')]",15,13,42
+v_iEaiLh3GZA8_63_225,iEaiLh3GZA8,63.03,225.12,put,on, The man began scrubbing the shoes with white cloth and then put the lace back on.,put,on,4855,"[('put', 'on')]",15,13,42
+v_j3h8Di7V3nk_0_24,j3h8Di7V3nk,0.0,24.67,put,on,A man is seen bending over while taking a shoe off to wipe his feet then puts the shoe back on.,put,on,722,"[('put', 'on')]",15,13,42
+v_ynda_PQe_CM_88_99,ynda_PQe_CM,88.72,99.28,fly,out," A man from each team kicks the ball at the goal, each man gets the ball in the net and it flies back out.",fly,out,332,"[('fly', 'out')]",10,52,278
+v_f-4PjtdFbP4_0_2,f-4PjtdFbP4,0.0,2.98,blow,outside,A little girl is blowing leaves in fall outside of a house.,breathe,outdoor,62,"[('breathe', 'outdoor')]",3,54,465
+v_rI-Iq496Sgk_0_10,rI-Iq496Sgk,0.0,10.67,climb,outside,A man has climbed a large ladder outside.,climb,outdoor,303,"[('climb', 'outdoor')]",3,18,167
+v_0gwhdJGq2eg_55_64,0gwhdJGq2eg,55.37,64.71,land,outside, The ball lands outside of pool and a little girl gives it back.,land,outdoor,216,"[('land', 'outdoor')]",3,79,517
+v_yUYTlwiP16E_12_36,yUYTlwiP16E,12.72,36.33,shovel,outside, A man shovels snow outside.,scoop,outdoor,719,"[('scoop', 'outdoor')]",3,80,423
+v_RjZ7jJBE1Qw_0_45,RjZ7jJBE1Qw,0.0,45.05,squat,outdoors,"A blonde man is squatting outdoors and talking next to his small tree that he touches, and the words on the screen say ""PHOENIXLONGEVITYARTS COM JAKE MACE"".",squat,outdoor,1352,"[('squat', 'outdoor')]",3,55,557
+v_mio5dnRbo4w_0_180,mio5dnRbo4w,0.91,180.19,wash,outdoors,This man is washing the black car outdoors in the warm weather.,wash,outdoor,4500,"[('wash', 'outdoor')]",3,22,425
+v_-e9e4ke_wJk_0_22,-e9e4ke_wJk,0.0,22.85,wash,outside,Ladies are washing clothes outside in a basin.,wash,outdoor,651,"[('wash', 'outdoor')]",3,22,425
+v_-KWToNMY1Lc_27_29,-KWToNMY1Lc,27.64,29.37,enter,briefly, A man briefly enters the camera frame.,enter,partially,60,"[('enter', 'partially')]",9,81,399
+v_zwa44U585FE_5_9,zwa44U585FE,5.02,9.32,hit,briefly, The men walk a little on the grass and they each briefly hit different balls.,hit,partially,101,"[('hit', 'partially')]",9,11,121
+v_l4C-l6XeNRc_54_58,l4C-l6XeNRc,54.94,58.52,hit,almost, The boy almost hits a tree in the tractor.,hit,partially,121,"[('hit', 'partially')]",9,11,121
+v_bNGldPjMYHc_56_76,bNGldPjMYHc,56.24,76.69,hit,almost, They almost hit a rock as they all paddle very hard.,hit,partially,600,"[('hit', 'partially')]",9,11,121
+v_5E2OdhrgG8s_38_162,5E2OdhrgG8s,38.96,162.18,move,slightly, The women are moving their bodies slightly as the play the harmonica.,move,partially,3722,"[('move', 'partially')]",9,0,178
+v_1GQARL4coRo_80_86,1GQARL4coRo,80.71,86.6,lift,momentarily, The man momentarily lifts the baby up to a standing position again.,raise,partially,181,"[('raise', 'partially')]",9,19,61
+v_2VoWT4gnQDg_43_83,2VoWT4gnQDg,43.81,83.7,lift,briefly," The man begins to prod at roof tiles with a metal stick, lifting the edges up briefly.",raise,partially,1200,"[('raise', 'partially')]",9,19,61
+v_gIhVeU8xbrs_17_118,gIhVeU8xbrs,17.02,118.26,lift,briefly,"Another man wearing black shorts and a red and white shirt is also taking his turn at lifting the heavyweights on the barbell, then briefly over his head then drops them to the ground and does this four times in a row.",raise,partially,2424,"[('raise', 'partially')]",9,19,61
+v_1GQARL4coRo_43_52,1GQARL4coRo,43.0,52.43,lift,momentarily, He momentarily lifts the baby up to a standing position.,raise,partially,272,"[('raise', 'partially')]",9,19,61
+v_fZ729TTJq8g_120_128,fZ729TTJq8g,120.81,128.25,run,almost,  Another man falls off his bike and is almost run over.,run,partially,240,"[('run', 'partially')]",9,5,15
+v_KvscV2XxyTE_64_90,KvscV2XxyTE,64.49,90.29,wobble,briefly," After briefly wobbling on the bar, Micah regains her composure and performs a forward summersault.",shake,partially,782,"[('shake', 'partially')]",9,47,285
+v_qoVYcplxgFE_38_66,qoVYcplxgFE,38.5,66.35,stick,slightly, She moves her feet slightly and sticking her leg out in front.,stick,partially,842,"[('stick', 'partially')]",9,45,370
+v_aPEqCGdCsp0_0_42,aPEqCGdCsp0,0.0,42.65,stop,briefly,"The artist is poking at his calf, then briefly stops to wipe it with the napkin he has in his left hand and then grabs another napkin to wipe the area and holds onto it as he goes back to tattooing where he continues to take brief moments to wipe the area in between tattooing.",stop,partially,1052,"[('stop', 'partially')]",9,42,107
+v_I7Sole68Gag_0_7,I7Sole68Gag,0.0,7.71,stop,briefly,Swimmers are swimming to one side of the pool and then they stop briefly.,stop,partially,210,"[('stop', 'partially')]",9,42,107
+v_bfBTnUiGVUo_11_14,bfBTnUiGVUo,11.48,14.96,stop,briefly,The boy briefly stops dancing and his brushing his teeth and just stares at himself in the mirror.,stop,partially,93,"[('stop', 'partially')]",9,42,107
+v_mb5CLhyHMvU_90_136,mb5CLhyHMvU,90.61,136.26,stop,almost,they start to slow down a bit almost stopping but then they build back up and continue on.,stop,partially,1379,"[('stop', 'partially')]",9,42,107
+v_v0cihSAXQbI_40_67,v0cihSAXQbI,40.3,67.36,stop,briefly, the man briefly stops running.,stop,partially,675,"[('stop', 'partially')]",9,42,107
+v_fKDl_CnA8nY_28_128,fKDl_CnA8nY,28.36,128.92,touch,briefly, The man touched his neck briefly as he talked to camera.,touch,partially,2500,"[('touch', 'partially')]",9,60,190
+v_2U0vMYnC49c_37_42,2U0vMYnC49c,37.46,42.77,use,briefly, The boy turns the tool and uses the edge corner edge briefly.,use,partially,150,"[('use', 'partially')]",9,43,453
+v_ND9mMyNjm5M_4_8,ND9mMyNjm5M,4.69,8.59,brush,vigorously, The blond girl brushes the horse vigorously with a brown hand brush.,brush,quickly,101,"[('brush', 'quickly')]",1,33,432
+v__MWyhJS4KbM_13_50,_MWyhJS4KbM,13.98,50.93,cover,quickly, He uses a sweeping mop to cover the glass quickly and efficiently.,cover,quickly,870,"[('cover', 'quickly')]",1,49,402
+v_QMCHIR3nDLs_65_87,QMCHIR3nDLs,65.47,87.3,chop,quickly, They use the axes to chop the wood as quickly as possible.,cut,quickly,551,"[('cut', 'quickly')]",1,26,496
+v_YKzVHb16eUk_26_74,YKzVHb16eUk,26.48,74.58,cut,slowly," The adult stops cutting and another boy begins to cut the objects very slowly,the adult interrupts the child to demonstrate how to cut and the child walks away.",cut,slowly,1442,"[('cut', 'slowly')]",8,26,205
+v_3bi2XM3scQA_5_28,3bi2XM3scQA,5.21,28.11,drop,quickly,"The man then picks it up, squats, jumps to open his legs then quickly drops the bar and pushes the weight towards the middle of the bar and rests for a little bit.",dip,quickly,693,"[('dip', 'quickly')]",1,24,484
+v_AR-VPPtV7ag_6_16,AR-VPPtV7ag,6.22,16.67,chug,quickly, He then chugs the drink very quickly and points to the one who threw the drink.,drink,quickly,150,"[('drink', 'quickly')]",1,63,337
+v_zogfsf4O3Vg_85_94,zogfsf4O3Vg,85.17,94.75,drink,quickly, The man then quickly drinks and puts the bottle down.,drink,quickly,135,"[('drink', 'quickly')]",1,63,337
+v_0kykNR9FUWU_22_42,0kykNR9FUWU,22.95,42.0,jump,swiftly, She swiftly jumps and does handsprings and back flips on the horse bar.,jump,quickly,599,"[('jump', 'quickly')]",1,3,46
+v_uuH0ieCzqkM_0_36,uuH0ieCzqkM,0.0,36.53,jump,rapidly,A kid stands on a court as a group of judges watch him jump rope rapidly.,jump,quickly,902,"[('jump', 'quickly')]",1,3,46
+v_c5Io6wg8D60_17_25,c5Io6wg8D60,17.09,25.89,build,quickly, He starts running and builds up speed pretty quickly.,make,quickly,240,"[('make', 'quickly')]",1,37,361
+v_L9ons75VGCg_90_154,L9ons75VGCg,90.58,154.35,row,fast,"Now they are showing canoes with two men racing and they are also rowing very fast, and then teams of 4 men begin to race.",paddle,quickly,1538,"[('paddle', 'quickly')]",1,30,140
+v_pzkwJYJol7o_82_159,pzkwJYJol7o,82.94,159.5,paddle,fast, They try to win by paddling as fast as possible.,paddle,quickly,1925,"[('paddle', 'quickly')]",1,30,140
+v_2-xMWBQA7iM_17_29,2-xMWBQA7iM,17.2,29.17,row,fast, The man rows fast on the machine.,paddle,quickly,362,"[('paddle', 'quickly')]",1,30,140
+v_M_OPqcaCDYI_56_91,M_OPqcaCDYI,56.18,91.42,paddle,quickly," Once it is blown they begin to paddle as quickly as they possibly can, working very well together.",paddle,quickly,876,"[('paddle', 'quickly')]",1,30,140
+v_CMYeHWoB1FM_1_13,CMYeHWoB1FM,1.72,13.79,peel,quickly, The person continues peeling as quickly as then can and ends with her grabbing one more potato.,peel,quickly,354,"[('peel', 'quickly')]",1,82,279
+v_6iuD3pSgBcw_139_208,6iuD3pSgBcw,139.5,208.21,play,fast, They boys go back to playing the drums and finally finish by playing each other's drums and faster than other.,play,quickly,2068,"[('play', 'quickly')]",1,6,89
+v_747hJQNJpeg_18_183,747hJQNJpeg,18.33,183.35,play,fast, The lady begins to play the drum faster.,play,quickly,4948,"[('play', 'quickly')]",1,6,89
+v_6O5UcjQMwoQ_8_23,6O5UcjQMwoQ,8.19,23.31,play,quickly, He is quickly playing the drums and cymbals.,play,quickly,450,"[('play', 'quickly')]",1,6,89
+v_NfTfLk1D-tI_114_217,NfTfLk1D-tI,114.43,217.41,play,fast, The man continues playing the drums faster and faster while the camera captures his movements.,play,quickly,2473,"[('play', 'quickly')]",1,6,89
+v_t19uSLVQGWA_14_60,t19uSLVQGWA,14.22,60.65,play,fast, The man continues to play the drum set faster and faster and ends by stopping to speak to the camera.,play,quickly,1104,"[('play', 'quickly')]",1,6,89
+v_RF0ChBe9HHI_11_68,RF0ChBe9HHI,11.95,68.39,play,quickly," A band is shown on stage, and a man is quickly playing a violin.",play,quickly,1425,"[('play', 'quickly')]",1,6,89
+v_Cp4a_gN4pDQ_0_31,Cp4a_gN4pDQ,0.0,31.29,play,quickly,Three men are seen sitting behind a set of bongo drums playing quickly while several camera flashes are shown.,play,quickly,933,"[('play', 'quickly')]",1,6,89
+v_45WdXofnTkI_12_48,45WdXofnTkI,12.76,48.37,play,slowly, He is playing a violin slowly.,play,slowly,864,"[('play', 'slowly')]",8,6,263
+v_5MuLI6Plf-Y_0_61,5MuLI6Plf-Y,0.0,61.41,play,slowly, Initially he starts to play the guitar slowly to find the proper rhythm.,play,slowly,1832,"[('play', 'slowly')]",8,6,263
+v_tvR1ovqyJZ8_77_91,tvR1ovqyJZ8,77.49,91.16,pull,quickly, The person stays upright as they are pulled quickly through the water.,pull,quickly,420,"[('pull', 'quickly')]",1,8,195
+v_bh6VHVHMoo8_3_23,bh6VHVHMoo8,3.99,23.53,pull,slowly, A man in a blue shirt kneels on the ground and slowly pulls a weight.,pull,slowly,602,"[('pull', 'slowly')]",8,8,70
+v_hokqvyeqhmg_65_102,hokqvyeqhmg,65.33,102.89,lift,quickly," There are two men connected to the large rock wall, one is higher up on the rock and the other one is on the ground and when the man that is higher repels very quickly, the man on the ground quickly gets lifted from the ground but not all the way up the rock wall.",raise,quickly,890,"[('raise', 'quickly')]",1,19,502
+v_h7cetqsBVn0_139_164,h7cetqsBVn0,139.43,164.99,raise,slowly, The camels slowly raise themselves up and begin walking around with the tourists on their backs.,raise,slowly,753,"[('raise', 'slowly')]",8,19,34
+v_G4tUTpJV-so_9_14,G4tUTpJV-so,9.41,14.64,rise,slowly," She rises very slowly, arms first.",raise,slowly,126,"[('raise', 'slowly')]",8,19,34
+v_BLTOTjVYiuE_0_4,BLTOTjVYiuE,0.0,4.23,run,quickly,a man runs quickly across a track.,run,quickly,100,"[('run', 'quickly')]",1,5,12
+v_tr1sNwRTMd8_30_46,tr1sNwRTMd8,30.24,46.16,run,fast, She breathes in deeply and starts to run really fast down the field.,run,quickly,400,"[('run', 'quickly')]",1,5,12
+v_mtSJG4q2vP4_50_86,mtSJG4q2vP4,50.56,86.68,run,fast, jamaican woman is running really fast in a race track and make a big jump into the dust and grets women sitting on chairs.,run,quickly,900,"[('run', 'quickly')]",1,5,12
+v_Tcf9sOzU-7M_103_224,Tcf9sOzU-7M,103.17,224.28,run,quickly, They run through the field quickly and attack one another using the paint gun.,run,quickly,3633,"[('run', 'quickly')]",1,5,12
+v_GxOjqC_IDX4_34_58,GxOjqC_IDX4,34.31,58.16,run,fast, He runs fast fast down the strip and quickly leaps into the sand.,run,quickly,720,"[('run', 'quickly')]",1,5,12
+v_lydctNDJZ5o_42_61,lydctNDJZ5o,42.79,61.06,run,fast, The green team players run fast to prevent the white team from getting the ball.,run,quickly,573,"[('run', 'quickly')]",1,5,12
+v_n9TuUTNpKwg_0_11,n9TuUTNpKwg,0.0,11.5,run,quickly,An athlete is running quickly down a track.,run,quickly,278,"[('run', 'quickly')]",1,5,12
+v_ybkcKusf-Kg_48_55,ybkcKusf-Kg,48.17,55.32,run,fast," Also, a male athlete behind the gymnast runs fast and flips in the air.",run,quickly,210,"[('run', 'quickly')]",1,5,12
+v_uqzy1FAUpPM_6_10,uqzy1FAUpPM,6.51,10.47,run,fast, He begins to start running fast.,run,quickly,100,"[('run', 'quickly')]",1,5,12
+v_NwfosNrFnwk_0_14,NwfosNrFnwk,0.0,14.68,run,quickly,A man holding a pole runs quickly towards the finish line and throws it quite far.,run,quickly,352,"[('run', 'quickly')]",1,5,12
+v_9qNM5tNMxK4_105_140,9qNM5tNMxK4,105.62,140.83,run,swiftly, The player in red runs swiftly across the court to hit the ball back.,run,quickly,877,"[('run', 'quickly')]",1,5,12
+v_BTG82umu8Ug_1_3,BTG82umu8Ug,1.78,3.82,sprint,fast,"  The woman jumps again, this time sprinting a little bit faster.",run,quickly,61,"[('run', 'quickly')]",1,5,12
+v_0AbJgWxIYVI_0_35,0AbJgWxIYVI,0.0,35.36,run,quickly,A man runs toward a skating ramp quickly.,run,quickly,1051,"[('run', 'quickly')]",1,5,12
+v_n9TuUTNpKwg_7_45,n9TuUTNpKwg,7.52,45.12,run,fast,"A woman runs fast and performs long jump in a sand box, then the woman stand and walk.",run,quickly,951,"[('run', 'quickly')]",1,5,12
+v_r4F2X_MlL-U_145_147,r4F2X_MlL-U,145.18,147.87,run,quickly, The hand runs a scrub quickly through the mended wallpaper.,run,quickly,62,"[('run', 'quickly')]",1,5,12
+v_wN2XnDS0aGc_0_1,wN2XnDS0aGc,0.0,1.52,run,quickly,"A very tall and lanky woman runs quickly and jumps over a very high horizontal pole, clears it and lands on the mat below it.",run,quickly,26,"[('run', 'quickly')]",1,5,12
+v_P5Sg_kACPRM_2_13,P5Sg_kACPRM,2.42,13.6,run,fast, The man on the inside lane of the track starts running very fast and then jumps into a sand pit.,run,quickly,276,"[('run', 'quickly')]",1,5,12
+v_4hmJfJo6UI8_0_14,4hmJfJo6UI8,0.0,14.15,run,quickly,A female athlete runs quickly down a track.,run,quickly,420,"[('run', 'quickly')]",1,5,12
+v_BbFCkDdq3S0_0_16,BbFCkDdq3S0,0.0,16.71,run,slowly,A boy runs slowly down a path.,run,slowly,482,"[('run', 'slowly')]",8,5,239
+v_0tJ7eW6TKKM_1_152,0tJ7eW6TKKM,1.59,152.87,jog,slowly,The people are shown slowly jogging in this marathon.,run,slowly,4527,"[('run', 'slowly')]",8,5,239
+v_3K62qZ2hGyw_92_96,3K62qZ2hGyw,92.6,96.46,shake,fast, She pats her head and shakes her hips faster.,shake,quickly,120,"[('shake', 'quickly')]",1,47,99
+v_ePaFTey15ho_46_59,ePaFTey15ho,46.87,59.84,shake,vigorously,"When he's done with his ingredients he puts a smaller, clear cup turned upside down into the silver cup to create a cover, and begins to shake them both vigorously until he's satisfied with the mixture.",shake,quickly,328,"[('shake', 'quickly')]",1,47,99
+v_yjazHd6a5SQ_82_97,yjazHd6a5SQ,82.35,97.89,shake,vigorously, The bartender vigorously shakes the mixture.,shake,quickly,453,"[('shake', 'quickly')]",1,47,99
+v_NKNgAE07TIQ_123_136,NKNgAE07TIQ,123.55,136.25,shake,vigorously, Then he shakes beverage vigorously and pours into a conical glass.,shake,quickly,394,"[('shake', 'quickly')]",1,47,99
+v_dDmc6n79ek0_81_89,dDmc6n79ek0,81.94,89.7,skate,quickly, A man is quickly skating across the rink and when he collides with an opposing player he hits him very hard with his stick until the man falls to the rink.,skate,quickly,130,"[('skate', 'quickly')]",1,44,287
+v_iAIl5eawd6I_20_59,iAIl5eawd6I,20.45,59.2,ski,fast, The woman ski down the hills fast and then stop immediately.,ski,quickly,1171,"[('ski', 'quickly')]",1,35,73
+v_5z6q_Ix3kWI_0_20,5z6q_Ix3kWI,0.0,20.54,ski,fast,A man is skiing very fast down a hillside and hops one for fun.,ski,quickly,602,"[('ski', 'quickly')]",1,35,73
+v_KOiRoi5_SnQ_16_112,KOiRoi5_SnQ,16.86,112.63,ski,quickly," He then skis quickly down a snowy embankment, accidentally hitting a skier in his path and sending her careening to the right.",ski,quickly,2879,"[('ski', 'quickly')]",1,35,73
+v_cSfs5ht9sro_65_187,cSfs5ht9sro,65.77,187.05,ski,swiftly, The person skis swiftly down the ski slope.,ski,quickly,3658,"[('ski', 'quickly')]",1,35,73
+v_EOradtej9GU_63_101,EOradtej9GU,63.6,101.76,ski,rapidly,"Once alone,the man skis rapidly down the slopes and does spins and kneels as he skis.",ski,quickly,1140,"[('ski', 'quickly')]",1,35,73
+v_FFyJjF4MjHM_6_35,FFyJjF4MjHM,6.34,35.2,ski,slowly, It zooms in onto a man skiing slowly down the hill.,ski,slowly,849,"[('ski', 'slowly')]",8,35,106
+v_xS-F-9E3xKk_45_71,xS-F-9E3xKk,45.8,71.56,stop,quickly,"Once they finally begin,the girl on the left wins but she is quickly stopped and they have to restart and the same girl wins again.",stop,quickly,783,"[('stop', 'quickly')]",1,42,188
+v_NDvp3JeVWcM_63_78,NDvp3JeVWcM,63.53,78.63,swing,swiftly, There are spectators watching her as she swings swiftly.,swing,quickly,450,"[('swing', 'quickly')]",1,29,136
+v_kAQML4pRtck_0_6,kAQML4pRtck,0.0,6.13,swinge,quickly,"A man is standing between metal fences on both sides of him and he's swinging a ball on a rope very quickly, then spins his body as well and the ball and rope go flying.",swing,quickly,180,"[('swing', 'quickly')]",1,29,136
+v_V4cYhOQ6Pfs_21_30,V4cYhOQ6Pfs,21.98,30.4,swing,quickly," The man begins to swing the ball around him very quickly, then starts spinning his body at the same time where he eventually lets go of the rope and the ball goes flying.",swing,quickly,271,"[('swing', 'quickly')]",1,29,136
+v_Cul7VFkLTMc_122_126,Cul7VFkLTMc,122.36,126.05,throw,quickly, A surfer attempts to surf but is quickly thrown off his board by a wave.,throw,quickly,121,"[('throw', 'quickly')]",1,9,225
+v_2_Tgrk8iJpE_41_63,2_Tgrk8iJpE,41.85,63.83,throw,quickly,"A man quickly throws a ball and his target catches it, he turns around and walks with his right up straight up in the air while the rest of the players continue to play.",throw,quickly,661,"[('throw', 'quickly')]",1,9,225
+v_WmPkqkqAxyc_2_14,WmPkqkqAxyc,2.56,14.56,use,quickly, The man then uses the tool on the grass in font of him quickly.,use,quickly,361,"[('use', 'quickly')]",1,43,284
+v_dDmc6n79ek0_89_110,dDmc6n79ek0,89.7,110.74,pace,fast,The man gets up and the fast paced game continues on and ends with men manually smoothing out the ice.,walk,quickly,338,"[('walk', 'quickly')]",1,1,177
+v_19SHLOheCmo_159_175,19SHLOheCmo,159.48,175.66,walk,fast,an old man is walking fast in the park.,walk,quickly,484,"[('walk', 'quickly')]",1,1,177
+v_3SL_Au0H0cw_0_118,3SL_Au0H0cw,0.0,118.89,walk,slowly, man is slowly walking practicing boxing movements.,walk,slowly,2950,"[('walk', 'slowly')]",8,1,0
+v_lz2FMoj9tpo_20_69,lz2FMoj9tpo,20.05,69.13,walk,slow, The man then throws the object off into the distance and slow walks back while moving in slow motion.,walk,slowly,1470,"[('walk', 'slowly')]",8,1,0
+v_aEopPs2eY-Q_0_33,aEopPs2eY-Q,0.0,33.78,walk,slowly,"A girl names Ashley dressed in all purple walks up slowly, then it turns to nature view of dirt and flowers.",walk,slowly,991,"[('walk', 'slowly')]",8,1,0
+v_mKm75VWThAI_0_7,mKm75VWThAI,0.0,7.44,walk,slowly,Two men wearing sumo suits slowly walk toward one another in a large indoor gym with mats on the ground and people are around watching them or taking pictures.,walk,slowly,212,"[('walk', 'slowly')]",8,1,0
+v_ogQozSI5V8U_7_18,ogQozSI5V8U,7.49,18.09,walk,slowly, A dog in socks walks slowly out onto the floor as a lady films him.,walk,slowly,317,"[('walk', 'slowly')]",8,1,0
+v_QCj7IGUGs2Y_90_126,QCj7IGUGs2Y,90.09,126.89,walk,slowly," She appears to be confused, walking slowly.",walk,slowly,1080,"[('walk', 'slowly')]",8,1,0
+v_5qsXmDi8d74_0_26,5qsXmDi8d74,0.0,26.12,walk,slowly,"A sumo is slowly walking into an indoor arena where there a lot of spectators in the stands, and people already on the sumo wrestling stage.",walk,slowly,781,"[('walk', 'slowly')]",8,1,0
+v_wBiRGLLjFVU_14_99,wBiRGLLjFVU,14.8,99.04,walk,slowly, People balances on a slack line in a park and slowly walks across the length of the rope between two trees.,walk,slowly,2039,"[('walk', 'slowly')]",8,1,0
+v_lHnSteuHdZ4_0_226,lHnSteuHdZ4,0.0,226.58,walk,slow,"A person is walking slow on ice,trying to to crack it.",walk,slowly,6774,"[('walk', 'slowly')]",8,1,0
+v_nHwqBo0xvog_26_37,nHwqBo0xvog,26.93,37.03,walk,slowly, man is slowly walking on a path.,walk,slowly,330,"[('walk', 'slowly')]",8,1,0
+v_lvAXZEUE0m8_132_152,lvAXZEUE0m8,132.0,152.6,drive,up, A boat drives up and puts him in the boat.,drive,upwards,601,"[('drive', 'upwards')]",5,34,404
+v_GR6Ul2pD8_Y_0_11,GR6Ul2pD8_Y,0.0,11.21,drive,up,A man wearing a green knit cap drives up to the camera on a lawn tractor.,drive,upwards,331,"[('drive', 'upwards')]",5,34,404
+v_5Owjrx-YjjM_61_69,5Owjrx-YjjM,61.23,69.97,fly,up, The girl holds the string of the kite and begins flying the kite high up in the air.,fly,upwards,240,"[('fly', 'upwards')]",5,52,335
+v_kkcTQHFNXAg_8_27,kkcTQHFNXAg,8.27,27.83,kick,up, The girl then begins swinging herself back and fourth on the beam while kicking her legs up.,kick,upwards,575,"[('kick', 'upwards')]",5,40,548

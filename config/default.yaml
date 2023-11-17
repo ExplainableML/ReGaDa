@@ -1,0 +1,38 @@
+defaults:
+    - _self_
+    - optimizer: adam
+    - model: regada
+    - dataset: vatex
+
+hydra:
+    run:
+        dir: ${log_dir}/${basename:${data_dir}}-${now:%Y-%m-%d_%H%M%S_%f}
+    sweep:
+        dir: ${log_dir}/
+        subdir: ${basename:${data_dir}}_TIME${now:%Y-%m-%d_%H%M%S_%f}_JOB-${hydra.job.id}
+    job:
+        chdir: True
+
+seed: 42
+log_dir: ./logs
+feature_dir: ./features # this is where the features are stored
+train_feature_dir: ${feature_dir}/${paths.dataset_name}/s3d/
+test_feature_dir: ${feature_dir}/${paths.dataset_name}/s3d/
+data_dir: splits/s3d/${paths.composition}/${paths.dset_split}/
+checkpoint: null
+
+# data / model
+word_embedding: s3d
+s3d_use_merged_features: false # set true for unseen composition
+
+# optimization
+batch_size: 512
+lr: 1e-5
+wd: 5e-5
+workers: 8
+save_metrics: [map-w, map-m, acc-a]
+eval_interval: 10
+max_epochs: 2000
+gpu: true
+cuda_device: null
+

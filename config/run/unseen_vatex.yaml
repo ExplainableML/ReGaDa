@@ -1,0 +1,22 @@
+# @package _global_
+
+defaults:
+    - override /dataset: vatex_comp
+
+lr: 1e-5
+save_metrics: [acc-a-cls]
+
+model:
+    video_embedder:
+        dropout: 0.3
+    text_embedder:
+        tokens: actadv
+        main_modal: adv
+        composition: sum
+        dropout: 0.6
+        layers_gated: 2
+        layers_residual: 2
+
+    loss_triplet_adverb: 2.0
+    loss_triplet_action: 1.0
+    loss_l2: 1.0

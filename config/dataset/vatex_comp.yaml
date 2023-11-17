@@ -1,0 +1,8 @@
+# @package _global_
+s3d_use_merged_features: true
+composition: unseen
+
+paths:
+    dataset_name: VATEX_Adverbs
+    dset_split: VATEX_Adverbs
+    composition: unseen_compositions

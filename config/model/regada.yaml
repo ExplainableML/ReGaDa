@@ -1,0 +1,30 @@
+name: regada
+
+emb_dim: 400
+
+# word embeddings
+word_embedding: ${word_embedding}
+
+video_embedder:
+    num_heads: 4
+    dropout: 0.1
+    num_layers: 2
+
+text_embedder:
+    dropout: 0.7
+    composition: emb
+    tokens: actadv
+    main_modal: adv
+    layers_gated: 4
+    layers_residual: 3
+
+# action / adverb triplet losses
+loss_triplet_action: 1.0
+loss_triplet_adverb: 1.0
+loss_l2: 1.0
+
+# loss parameters
+loss_triplet_margin: 1.0
+
+# set true for evaluating without action ground truth (decreases inference speed significantly)
+eval_no_act_gt: false 

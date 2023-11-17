@@ -1,0 +1,455 @@
+clip_id,youtube_id,start_time,end_time,action,adverb,sentence,clustered_action,clustered_adverb,rgb_frames,action_adv,adverb_label,action_label,action_adv_label
+video5672,WqLohtxwFO0,0.0,13.8,blow,back,a man uses an instrument to violent blow back his opponent,breathe,backwards,314,"[('breathe', 'backwards')]",7,47,321
+video2145,U1fu_sA7XhE,81.84,95.3,bring,back,butch of people running towards the ocean to bring their loved ones back to beach because of the shark,carry,backwards,336,"[('carry', 'backwards')]",7,33,170
+video7750,V2lDnDswOgs,206.77,225.65,carry,forward,a man carries forward a large decoratively quilted cloth like a cape,carry,forwards,476,"[('carry', 'forwards')]",13,33,388
+video451,tWbr0vzdVxM,57.2,74.82,trim,back,knife cutting a piece of white material off and adding gray pieces too it and trimming it back,cut,backwards,511,"[('cut', 'backwards')]",7,30,53
+video836,lKy7mrAL0Dk,65.57,91.97,drive,backwards,someone is driving backwards in a car,drive,backwards,651,"[('drive', 'backwards')]",7,5,85
+video6058,xnWKz7Cthkk,89.85,108.57,drive,backwards,the man is driving the red car backwards near the sea,drive,backwards,475,"[('drive', 'backwards')]",7,5,85
+video8535,sR2R8thMzUo,6.88,17.46,drive,forward,a video game man jumps his dirt bike off the roof of a building and lands perfectly while facing backwards on the street belong before driving forward again,drive,forwards,264,"[('drive', 'forwards')]",13,5,415
+video7884,VCTen3-B8GU,36.92,52.93,fall,backwards,the sound of a gunshot occurs in a white lobby causing a person to fall backwards and others to scream and run,fall,backwards,386,"[('fall', 'backwards')]",7,21,93
+video5672,WqLohtxwFO0,0.0,13.8,fall,back,two men walking up to a man but then one of them falls back and breaks a pot,fall,backwards,314,"[('fall', 'backwards')]",7,21,93
+video1776,X8PFRnQEQ2Q,170.46,186.84,fly,back,a player is hit by wizards fireball and flies back into home that is collapsing,fly,backwards,387,"[('fly', 'backwards')]",7,27,149
+video5693,wHZMXxBZCO0,74.52,85.09,hit,backwards,a pitcher throws a ball which is hit backwards and chased by the catcher while the umpire falls sideways,hit,backwards,257,"[('hit', 'backwards')]",7,12,131
+video3043,XmOKkId7WAY,216.23,237.45,hit,backwards,a baseball player hits a ball backwards,hit,backwards,629,"[('hit', 'backwards')]",7,12,131
+video9477,wiep2LiwLV4,183.05,193.37,hold,back,a lion falling from hill was held back another lion,hold,backwards,251,"[('hold', 'backwards')]",7,17,332
+video643,VHaabZ3Xlfw,150.18,164.98,hold,forward, wearing a black shirt with a vertical yellow stripe on the side speaks with his hand often held up palm forward,hold,forwards,422,"[('hold', 'forwards')]",13,17,70
+video3798,VVMs237ppcc,94.51,105.31,jump,backwards,a man is walking on a trampolin and jumping backwards on it,jump,backwards,331,"[('jump', 'backwards')]",7,24,251
+video1748,wgrNw2ef8IE,18.1,36.73,kiss,back,a man is holding a baby and kissing him and the baby is kissing back,kiss,backwards,436,"[('kiss', 'backwards')]",7,68,147
+video3672,7DNXUvHm-S8,50.26,61.36,look,backwards,girl chatting in mobile and looking backwards,look,backwards,266,"[('look', 'backwards')]",7,13,245
+video3140,xOKHCHk3a5s,111.61,121.61,look,forward,a song is playing with the visual of a male vampire and then a woman sitting at a table  the camera then pans to a bigger picture of her looking forward,look,forwards,301,"[('look', 'forwards')]",13,13,225
+video5598,TNYnYEXFOd8,667.55,677.56,assemble,back,a revolver which is on a blue cloth is lifted by a man and assembling parts of the revolver back to it,make,backwards,301,"[('make', 'backwards')]",7,14,319
+video3266,Z32sAmV48C0,165.51,193.47,move,back,a driver in red t-shirt is trying to moving back his truck,move,backwards,841,"[('move', 'backwards')]",7,4,229
+video7780,Y7zPOquH4D4,397.45,420.21,move,forward,the gun man shooting his enemies and move forward in his way,move,forwards,577,"[('move', 'forwards')]",13,4,63
+video579,WTAF3OFhzdA,1172.85,1192.29,move,forward,a man is swimming on one side of his body using only one hand and moving forward with his legs,move,forwards,503,"[('move', 'forwards')]",13,4,63
+video8938,0gyyGHHXfck,133.51,147.17,move,forward,a war scene with a lot of soldiers moving forward,move,forwards,336,"[('move', 'forwards')]",13,4,63
+video875,zKHEDfea-5I,199.85,212.93,move,forward,the chemistry periodic table breaks apart and the squares containing br and ba move forward,move,forwards,389,"[('move', 'forwards')]",13,4,63
+video7364,YlaPue9IucE,38.97,59.09,pull,back, with her hair pulled back wears a blue scarf looped loosely over a printed blue dress while standing in a pathway by fabric partitions over simple structures,pull,backwards,526,"[('pull', 'backwards')]",7,20,104
+video9017,VxKvHaKFIR0,56.8,69.62,pull,backwards,a man on a motorcycle speeds on a track and then he is pulled backwards by several people,pull,backwards,390,"[('pull', 'backwards')]",7,20,104
+video1204,JQG86Gv5E_k,361.51,372.55,pull,back,a woman pulls a girl s hair back,pull,backwards,331,"[('pull', 'backwards')]",7,20,104
+video9923,YqftgelsUfk,390.77,409.59,pull,back,a white man with long dark hair pulled back walking in a high class area speaking in vlog style about personally seeing kanye west,pull,backwards,571,"[('pull', 'backwards')]",7,20,104
+video1979,xegDVnBSyPA,6.12,18.83,pull,back,still pictures of two women first woman long hair in her face on one side  the second woman has her hair pulled back,pull,backwards,365,"[('pull', 'backwards')]",7,20,104
+video3266,Z32sAmV48C0,165.51,193.47,pull,backwards,a van goes forward while the truck comes behind then the truck goes the van is pulled backwards,pull,backwards,841,"[('pull', 'backwards')]",7,20,104
+video9121,2wYMEbo-Bv4,96.83,109.64,roll,backwards,a man practices rolling backwards on an inclined mat,roll,backwards,389,"[('roll', 'backwards')]",7,29,424
+video8788,Wr38l4JFgHQ,69.71,88.41,run,backward,a man runs backward in an animated game then starts shooting other characters,run,backwards,570,"[('run', 'backwards')]",7,1,418
+video3812,v8E-Q9s0JHc,0.0,28.31,run,forward,practices base ball  with good batting style and is running forward,run,forwards,842,"[('run', 'forwards')]",13,1,252
+video2926,WTc9OsK8dVU,80.56,107.45,step,back,a man in basketball attire demonstrating a step back move,step,backwards,811,"[('step', 'backwards')]",7,44,214
+video2881,CmEGNVYo-Mo,178.86,192.07,step,forward,news report on the need of police to have witnesses step forward,step,forwards,420,"[('step', 'forwards')]",13,44,211
+video6034,uMTPTuU0pos,46.96,57.4,stretch,backwards,a woman on screen does push ups as a woman lays in front on mat stretching backwards,stretch,backwards,333,"[('stretch', 'backwards')]",7,55,342
+video5449,3APquH5Rj7c,133.93,151.37,scold,back,chef ramsey scolds a lady on the tv show and she scolds back about frozen fish,talk,backwards,451,"[('talk', 'backwards')]",7,2,313
+video6094,tflgS7frKC4,526.44,539.72,throw,back,a man catches a roll of paper towels then laughs and throws them back,throw,backwards,389,"[('throw', 'backwards')]",7,22,175
+video8669,3Onqgr4FwTo,453.6,473.29,throw,back,the woman throws back her head,throw,backwards,601,"[('throw', 'backwards')]",7,22,175
+video5672,WqLohtxwFO0,0.0,13.8,throw,backwards,two guys walk near a man dressed in orange while one of the guys is thrown backwards,throw,backwards,314,"[('throw', 'backwards')]",7,22,175
+video4525,4TEhliSh_f4,110.79,123.17,lean,back,a woman leans her head back an stretches her arms and dances in the wind,tilt,backwards,313,"[('tilt', 'backwards')]",7,39,287
+video8260,uVvTGQuMmOk,219.38,230.61,lean,forward,a bald headed man in a white shirt leans forward in a room,tilt,forwards,331,"[('tilt', 'forwards')]",13,39,138
+video1661,qWkz8eb2ziM,15.68,26.41,lean,forward,a ninja is leaning forward,tilt,forwards,333,"[('tilt', 'forwards')]",13,39,138
+video7163,FyRysi1Vovs,63.01,75.63,touch,back,a young man is touching a young girls back,touch,backwards,289,"[('touch', 'backwards')]",7,61,368
+video8632,xO08m4sH8PY,0.0,14.06,turn,back,the woman invites the attention of man who is smoking cigarette and standing turned back near to her in the balcony,turn,backwards,337,"[('turn', 'backwards')]",7,19,12
+video66,606BFmZN0is,20.69,31.33,turn,backwards,a girl is singing and judges are turning backwards and hearing the song,turn,backwards,277,"[('turn', 'backwards')]",7,19,12
+video7531,U7sADrSOU6o,497.61,511.26,turn,back,a man in a blue shirt is seen running but then he turns back and looks at pictures on a phone,turn,backwards,419,"[('turn', 'backwards')]",7,19,12
+video5792,CuLtT_fe8B8,391.8,406.28,screw,back,a man is showing how to screw parts back onto something,twist,backwards,375,"[('twist', 'backwards')]",7,94,327
+video1195,amtuB-2wGeQ,93.97,106.87,walk,backwards,a puppy walks backwards,walk,backwards,390,"[('walk', 'backwards')]",7,0,101
+video2435,TJ1R2sqvEkI,276.93,290.25,walk,back,people praising the roman emperor when he thows money to the crowd and walk back to his castle,walk,backwards,351,"[('walk', 'backwards')]",7,0,101
+video7122,iXgWnop-lww,0.0,30.0,walk,back,a man walks up to a door and then walks right back,walk,backwards,892,"[('walk', 'backwards')]",7,0,101
+video1377,4bXP7qbsqNw,30.05,40.33,walk,forward,a man in a uniform is walking forward and speaking,walk,forwards,250,"[('walk', 'forwards')]",13,0,116
+video8801,shohGIAFGHE,179.97,201.57,walk,forward,there are three man talking and walking forward,walk,forwards,550,"[('walk', 'forwards')]",13,0,116
+video3508,XOAVEqND_Ns,16.6,27.78,walk,forward,there are some people slowly walking forward to other people,walk,forwards,330,"[('walk', 'forwards')]",13,0,116
+video7922,VUUgx7JGWYc,47.55,60.55,walk,forwards,a group of lamas are walking in the grass forwards,walk,forwards,391,"[('walk', 'forwards')]",13,0,116
+video8450,wov1DA-Jtjc,32.08,46.29,cover,fully,two mountaineers have jumped from the helicopter to the snow filled mountain in fully covered suits,cover,completely,421,"[('cover', 'completely')]",15,31,92
+video9993,wcFxj8uCACk,33.09,52.53,cover,completely,a woman completely covered in black is talking about an enemy,cover,completely,478,"[('cover', 'completely')]",15,31,92
+video895,yxjnWx6TaQ8,77.76,87.84,cover,totally,a person shows how to roll the frankfurters in a long jar filled with batter so they can be covered totally,cover,completely,242,"[('cover', 'completely')]",15,31,92
+video8312,T8gm10FFTQA,132.81,148.37,cover,partially,brown pebbles are on the surface of a flat and curved shore and partially-covered mountain peaks are in a cluster over flatter land,cover,partially,401,"[('cover', 'partially')]",10,31,272
+video5389,3ctTZQpl2tc,105.22,115.8,cover,half,a woman s bra and half covered breats is shown,cover,partially,301,"[('cover', 'partially')]",10,31,272
+video6228,XbaC0YIRfpM,427.77,449.1,stir,completly,in pan oil is added then a white ingredients are added to it and stirred completly,mix,completely,660,"[('mix', 'completely')]",15,15,75
+video677,Ub9Z4UXU_MM,209.99,220.27,dissolve,fully,an yellow stuff being stirred in bowl with a redish liquid to get a fully dissolved substance,mix,completely,331,"[('mix', 'completely')]",15,15,75
+video6294,ygHA6V18hT8,11.53,23.34,place,fully,a fully of fresh vegetavbles are placed in the kitchen where a lady is looking into it,put,completely,361,"[('put', 'completely')]",15,18,350
+video8888,_UUjJJQ02n0,35.35,46.56,splash,fully,surfing done by a person and the water splashes fully without making clear vision,sprinkle,completely,330,"[('sprinkle', 'completely')]",15,51,420
+video3997,rJkr3zT9RTo,152.31,164.28,block,completely,video of a basketball player getting completely blocked by his opponent while going for a layup,stop,completely,361,"[('stop', 'completely')]",15,69,268
+video6046,wL1fyeYAipk,19.53,37.85,strip,completely,a man wearing jeans completely strips all of the components of his car off,strip,completely,453,"[('strip', 'completely')]",15,88,343
+video2224,TBNw5cCG5Lw,142.62,171.52,bathe,thoroughly,the girl is bathing the racing horse thoroughly - starting from tail end to head,wash,completely,870,"[('wash', 'completely')]",15,80,181
+video1625,VjTiMtjdjTw,102.78,116.25,bow,down,a white horse  a girl in red dress holding rope in hand asking horse to bow down bend inside compound displaying on screen,bend,downwards,421,"[('bend', 'downwards')]",5,59,132
+video4127,UglYAUkyWzA,2.02,15.0,count,down,a film reel counts down from 10 to 3 as it scrolls vertically the background is a distressed tan color with scroll-work in the upper right and lower left corners,count,downwards,390,"[('count', 'downwards')]",5,97,271
+video4019,koTimuE37p4,300.71,311.53,drop,down,a lifted mattress is allowed to drop back down onto a bed frame,dip,downwards,331,"[('dip', 'downwards')]",5,45,269
+video4050,wTcNtgA6gHs,51.77,65.55,drop,down,man on top of a ledge drops a rope down and desends,dip,downwards,421,"[('dip', 'downwards')]",5,45,269
+video7266,bYM9P5L0ilo,174.49,184.93,fill,down,a guy demonstrating how to fill a bottle upside down,fill,downwards,250,"[('fill', 'downwards')]",5,35,373
+video8353,xDK2Embt1Tk,59.41,77.01,fold,down,a young man dressed in black discusses selling a land rover and how its back seats fold down,fold,downwards,540,"[('fold', 'downwards')]",5,49,407
+video960,0s2m9Q9Hrzg,60.73,70.99,fold,up,a lady folding a stroller up,fold,upwards,240,"[('fold', 'upwards')]",9,49,96
+video7135,Wmlb9ZmM2iU,121.85,136.57,hang,down,a man is hanging upside down and singing with his band mates,mount,downwards,375,"[('mount', 'downwards')]",5,32,67
+video632,BlWSWcc6sSM,1496.81,1507.37,hang,down,performers hang upside down from ropes,mount,downwards,275,"[('mount', 'downwards')]",5,32,67
+video5764,SVImeWyuI0I,134.81,151.85,flow,down,lava erupting out and flowing down from the mountain,pour,downwards,427,"[('pour', 'downwards')]",5,23,86
+video5640,z9YgF2dwRCI,0.0,13.97,pour,down,people travel in the down pouring rain in the third largest city in india,pour,downwards,328,"[('pour', 'downwards')]",5,23,86
+video839,TTbGixKq0R8,0.0,12.01,flow,down,blue liquid flows down to form three blue letters,pour,downwards,360,"[('pour', 'downwards')]",5,23,86
+video4086,VarCAvDC7jQ,352.93,381.73,flow,up,a water scene flowing from up falls trees beside  displaying on screen,pour,upwards,728,"[('pour', 'upwards')]",9,23,270
+video5518,wsj_dzz33Ko,65.85,77.86,push,down,ingredients and put in a blender and pushed down with a spatula the ingredients are primarily green,press,downwards,358,"[('press', 'downwards')]",5,28,134
+video5069,ZMN2Bs_Cr1A,501.13,513.77,push,down,a man wearing a red hat runs into a man bouncing a basketball  the man with hat pushes him down then gets the ball and throws it over a fence,press,downwards,288,"[('press', 'downwards')]",5,28,134
+video1634,Xa7Bgj0y3eg,35.49,49.69,push,down,the man pushing the trolley with an injured one finally pushes him down and we see a model,press,downwards,351,"[('press', 'downwards')]",5,28,134
+video1792,8kFMkRdtqdc,317.68,328.31,push,up,man pushing eyebrows up,press,upwards,332,"[('press', 'upwards')]",9,28,151
+video1063,wUqZ87BnAGA,65.98,81.91,ride,down,a man in a white shirt stands near a wide staircase as a model bicycle rides down on a string,ride,downwards,482,"[('ride', 'downwards')]",5,10,99
+video1065,wItEBID6tLY,158.04,180.06,ride,down,a woman rides a zipline down into some water,ride,downwards,661,"[('ride', 'downwards')]",5,10,99
+video7174,yW1AEkE30Ec,187.74,199.48,ride,upwards,two guys ride upwards on what seems to be scenic lift,ride,upwards,360,"[('ride', 'upwards')]",9,10,370
+video6682,8R2FHDtmTo4,1122.24,1134.38,dig,down,a minecraft player digging down,scoop,downwards,365,"[('scoop', 'downwards')]",5,91,356
+video5280,sQK3Yr4Sc_k,365.29,376.34,split,down,two pink objects one kind of heart shaped and the other kind of heart shaped but upside down they are split by a yellow object as smaller white balls flow out of the yellow object and from left to right or right side up heart shape to upside down heart shaped thing,separate,downwards,263,"[('separate', 'downwards')]",5,77,309
+video5963,C_Tsj_wTJkQ,82.0,94.98,shoot,down,a dam breaking and two young adults shooting down flying objects,shoot,downwards,288,"[('shoot', 'downwards')]",5,34,281
+video2948,xlXk49Mh7go,45.59,57.64,ski,down,a man is skiing down in the snow through an enclosed area,ski,downwards,360,"[('ski', 'downwards')]",5,50,215
+video5871,sVTAVx2XsTM,20.78,32.71,smile,down,a woman is posing with her hair in an up-do a woman is smiling with her hair down in curls,smile,downwards,291,"[('smile', 'downwards')]",5,93,335
+video2737,zjnICucKx6I,149.95,169.18,spray,down,a man in a blue apron sprays down a white four-door car,spray,downwards,602,"[('spray', 'downwards')]",5,99,201
+video3927,TvsvDQiv3Vw,0.0,15.09,squat,down,a man in a checked shirt squats down and polishes the logo of a volkswagen car,squat,downwards,376,"[('squat', 'downwards')]",5,72,260
+video2801,vyDRbx8nWFg,44.17,61.28,stick,down,avril lavigne is singing and stuck down in a hole in this music video,stick,downwards,409,"[('stick', 'downwards')]",5,84,206
+video9126,_UUjJJQ02n0,24.27,35.35,take,down,a surfer wearing a blue shirt is taken down by a wave,take,downwards,329,"[('take', 'downwards')]",5,16,329
+video5478,ZARtmEwdKV8,358.95,385.02,brush,aggressively,a man aggressively brushes hair and then talks about how to pin it,brush,firmly,647,"[('brush', 'firmly')]",8,46,316
+video1769,LkbVtMUshtk,198.4,209.6,boil,hard,a person cuts a hard boiled egg,cook,firmly,331,"[('cook', 'firmly')]",8,11,148
+video4009,XXmpREQR0rg,40.33,50.69,fry,light,a lady in her kitchen quickly light fries small pieces of cottage cheese and bayleaf in a non-stick pan on a stove,cook,gently,252,"[('cook', 'gently')]",12,11,231
+video3271,sjCnp2l1bP4,62.48,74.62,boil,gently,one man making recipe in a saucepan boiling it gently,cook,gently,360,"[('cook', 'gently')]",12,11,231
+video9219,g26e89xV1HU,27.44,48.52,dance,hard,the b-boy dancer is dancing hard,dance,firmly,527,"[('dance', 'firmly')]",8,7,205
+video4559,82Os_vTLBx4,368.18,383.13,fight,hard,this is a portion of a hard fought wrestling match,fight,firmly,451,"[('fight', 'firmly')]",8,25,184
+video4991,xachpa6-CXo,100.85,113.89,fight,hard,there is a crocodile fighting hard for food,fight,firmly,327,"[('fight', 'firmly')]",8,25,184
+video5689,MdxBYS_2YVM,68.62,84.03,fight,hard,wrestlers are fighting hard,fight,firmly,480,"[('fight', 'firmly')]",8,25,184
+video2285,UcF_QBfizxE,138.05,153.41,fight,hard,there is a man fighting hard on the ground,fight,firmly,451,"[('fight', 'firmly')]",8,25,184
+video4983,mHdU1E-3pgM,37.48,50.16,fight,violently,video game characters violently fight,fight,gently,391,"[('fight', 'gently')]",12,25,299
+video5057,ZdUUY9ibX6I,200.04,228.03,kick,hard,a young man drives a car and talks about how hard the shifting kicks,kick,firmly,674,"[('kick', 'firmly')]",8,71,301
+video4370,C0XYQQFBK4w,831.55,842.49,laugh,hard,bowzer is laughing hard,laugh,firmly,330,"[('laugh', 'firmly')]",8,43,282
+video6256,yCbPaWD0Gvc,372.75,383.23,pass,aggressively,formula one racer aggressively passing other cars on track reaching speeds of 300 kph,pass,firmly,331,"[('pass', 'firmly')]",8,41,348
+video655,t9Hnh6ajJCM,69.77,90.16,play,hard,there is a team with black dressing is playing hard,play,firmly,628,"[('play', 'firmly')]",8,3,50
+video1929,s_a0pwylgBA,49.45,61.49,play,roughly,a red uniformed team plays soccer roughly and aggressively,play,firmly,302,"[('play', 'firmly')]",8,3,50
+video5347,6dOYAeRb13E,284.2,297.38,play,hard,they played football hard,play,firmly,393,"[('play', 'firmly')]",8,3,50
+video3793,jiMf5lKgZmE,136.58,151.53,play,softly,who s making love by johnnie taylor plays softly,play,gently,450,"[('play', 'gently')]",12,3,227
+video5303,Y7Ds7d3opPg,3.81,18.37,play,gently,a person playing piano gently,play,gently,376,"[('play', 'gently')]",12,3,227
+video973,w6_eXUI0Bds,56.84,67.68,pump,hard,a man runs around a track while pumping his arms hard,pump,firmly,331,"[('pump', 'firmly')]",8,92,97
+video9724,bMLDrd-hGCk,40.28,52.2,sing,hard,they sang hard and loud,sing,firmly,302,"[('sing', 'firmly')]",8,9,7
+video3436,z4B6GVfk20o,56.41,82.85,singe,softly,a lady is singing very softly to a huge audience it is very quiet there are lights in the room,sing,gently,652,"[('sing', 'gently')]",12,9,127
+video7264,yZIummTz9mM,79.96,101.36,sing,softly,a group of people meet in a music video as a man sings softly in a cylindrical tube,sing,gently,527,"[('sing', 'gently')]",12,9,127
+video8538,zgQF44nvXxs,122.01,134.73,apply,heavily,a woman heavily applies a pale makeup powder to her face,spread,firmly,301,"[('spread', 'firmly')]",8,36,416
+video2432,x3eAFqcGz2Q,101.44,114.5,rub,gently,a black dressed beautician is applying a cream in her whole face and rub it gently then she sprays some lotion over it,spread,gently,313,"[('spread', 'gently')]",12,36,192
+video7505,z4wGSi9FXak,62.58,91.71,swim,hard,swimming hard to climb on the boat after falling down from the surfacing board,swim,firmly,871,"[('swim', 'firmly')]",8,40,380
+video6069,uZnMsB7vX6c,46.17,56.8,swing,hard,two boxers swing hard at each other,swing,firmly,300,"[('swing', 'firmly')]",8,75,344
+video5144,VV3vlI5ssBw,22.57,39.32,swinge,gently,in the tennis practice the blue shirt player is swinging the rocket gently on left and right side,swing,gently,510,"[('swing', 'gently')]",12,75,303
+video9660,xgJyoKUHzpQ,261.38,277.79,extend,forward,a type writer extends paper forward then types a few words,extend,forwards,480,"[('extend', 'forwards')]",13,38,439
+video6215,WbCo46dtki8,645.01,656.97,point,forward,an asian newscaster speaks in an affirmative tone while pointing her finger forward,point,forwards,275,"[('point', 'forwards')]",13,79,347
+video7705,Xb1pOhKmGkk,57.2,67.78,add,lightly,a woman s voice instructs viewers to add salt and pepper to meat cubes lightly dredge them through some flour and then set them aside,add,gently,299,"[('add', 'gently')]",12,52,386
+video6391,xBYszi0S8OA,191.07,209.51,eat,gently,in the restaurent the men is eating food in gently,eat,gently,432,"[('eat', 'gently')]",12,26,302
+video1263,vqkwI3Ucpg8,249.0,270.35,wave,gently,a soft blue background with a gently waving deeper blue ribbon showcases bold white text that a male narrator is reading regarding patient safety when it comes to walking and falling,gesture,gently,630,"[('gesture', 'gently')]",12,64,108
+video9483,_mrkQmEHquk,8.18,26.7,lift,gently,a woman narrates a recipe for broccoli-cheese soup that a user submitted while a spoon gently lifts a spoonful of steaming-hot soup out of a white ceramic bowl,raise,gently,434,"[('raise', 'gently')]",12,48,431
+video6706,sGI59pt0RxI,53.21,68.65,shake,violently,a person puts batteries and a fish into a bowl and violently shakes the fish,shake,gently,377,"[('shake', 'gently')]",12,54,358
+video2177,Xa7Bgj0y3eg,290.41,308.41,drive,unsuccessfully,a man tries to drive an ambulance through a wall unsuccessfully and loses his patient,drive,improperly,452,"[('drive', 'improperly')]",17,5,173
+video8225,uyFT-Dwd8bc,21.81,35.77,drive,properly,a man is explaining how to drive properly ,drive,properly,352,"[('drive', 'properly')]",6,5,403
+video8156,AFkCZn2pO8k,7.08,17.16,use,bad,a woman wanting to use the bathroom really bad,use,improperly,251,"[('use', 'improperly')]",17,37,402
+video3067,yGXLkntX7SQ,86.07,98.45,use,properly,a young woman shows how to properly use a curling iron,use,properly,361,"[('use', 'properly')]",6,37,217
+video2985,N24csYRVOVM,33.41,47.9,use,properly,how to use a piece of equipement properly,use,properly,345,"[('use', 'properly')]",6,37,217
+video3859,ULkzOl70pIQ,15.81,38.17,bring,in,a well-dressed man is surrounded by poorly dressed people and told they were sent to bring him in dead or alive,carry,in,553,"[('carry', 'in')]",3,33,257
+video7274,0QJ0RVsdm1s,248.36,263.4,bring,in,the government threatened to bring in  peformance,carry,in,376,"[('carry', 'in')]",3,33,257
+video5663,tguhdO1XHOk,149.37,163.05,enter,in,two women are playing and so many people are entering in to a shopping mall,enter,in,351,"[('enter', 'in')]",3,60,130
+video4254,UWRJ-1dLrtQ,406.92,432.91,sit,in,a man in grey suit is sitting in between the two women,sit,in,781,"[('sit', 'in')]",3,8,276
+video9839,yRNJ4HkT_Sg,169.98,189.57,stand,in,there is one brown colour animation horse is standing in inside the housea brown colour animation horse adult is standing also inside the house,stand,in,604,"[('stand', 'in')]",3,6,56
+video5867,SwXr0ScjD9o,14.01,27.45,take,in,a man is talking about his car and going to take his luggage in dicky,take,in,326,"[('take', 'in')]",3,16,333
+video6334,sMt2geovjxg,0.0,21.45,take,out,the mom took her boy out,take,out,632,"[('take', 'out')]",11,16,79
+video793,i4D7yXmiWfw,85.23,112.83,take,out,pirates of the caribbean out takes,take,out,809,"[('take', 'out')]",11,16,79
+video2101,9fdkdWncKI4,57.54,68.05,throw,in,a player bounces the a basketball off the headboard while another player swoops in and throws it in,throw,in,330,"[('throw', 'in')]",3,22,167
+video5536,zhSEt_954yQ,115.54,143.82,weave,in,a man is filming himself (in first person view) weaving in and out of traffic on the highway on a sports bike,weave,in,674,"[('weave', 'in')]",3,63,296
+video9853,YnuRpHkg0H8,143.42,162.21,climb,indoors,a person is climbing a stucture indoors the interior of the structure is white,climb,indoor,570,"[('climb', 'indoor')]",2,57,445
+video9213,tPXqY_sSZrc,209.92,220.77,cook,inside,a person cooking meat inside of a pan with a large spatula,cook,indoor,332,"[('cook', 'indoor')]",2,11,35
+video6691,vGnAlMUxeM8,160.41,188.45,cook,inside,a person is cooking food inside of a pot,cook,indoor,701,"[('cook', 'indoor')]",2,11,35
+video225,umnIl5HKIZA,530.65,547.28,boil,inside,some shrimp stew is being boiled inside of a pot,cook,indoor,511,"[('cook', 'indoor')]",2,11,35
+video225,umnIl5HKIZA,530.65,547.28,cook,inside,a woman talking about a meal as it cooks inside of a metal pot,cook,indoor,511,"[('cook', 'indoor')]",2,11,35
+video3337,v7K8pgtLeWA,123.73,136.77,cook,inside,a couple of pots on top of a stove with food cooking inside of them,cook,indoor,327,"[('cook', 'indoor')]",2,11,35
+video321,VBdOXL1-nUI,112.86,130.18,sear,inside,a man is explaining how to sear a chicken inside of a skillet,cook,indoor,541,"[('cook', 'indoor')]",2,11,35
+video1884,_yXoA1joYRY,229.61,254.67,cook,inside,a person is cooking food inside of a pot,cook,indoor,752,"[('cook', 'indoor')]",2,11,35
+video679,tCoydyJLKmQ,396.01,418.77,cook,outdoors,person is cooking some meat on the grill outdoors,cook,outdoor,659,"[('cook', 'outdoor')]",0,11,76
+video9333,Iu2ZPHLqXuY,425.11,436.88,cook,outside,a man is cooking food on the grill outside,cook,outdoor,332,"[('cook', 'outdoor')]",0,11,76
+video7147,Iu2ZPHLqXuY,346.49,361.84,cook,outdoors,a man is cooking outdoors,cook,outdoor,452,"[('cook', 'outdoor')]",0,11,76
+video7147,Iu2ZPHLqXuY,346.49,361.84,grill,outdoors,a person is grilling outdoors,cook,outdoor,452,"[('cook', 'outdoor')]",0,11,76
+video7147,Iu2ZPHLqXuY,346.49,361.84,fry,outside,a man is frying fish in outside,cook,outdoor,452,"[('cook', 'outdoor')]",0,11,76
+video6969,wdzwYTJBvrM,41.56,56.77,cook,outside,there is a woman cooking outside prepping the food for people,cook,outdoor,453,"[('cook', 'outdoor')]",0,11,76
+video8138,th0OGw218qY,0.0,24.86,drive,inside,brad pitt is driving around inside of a truck,drive,indoor,579,"[('drive', 'indoor')]",2,5,400
+video6921,coK8muKco_k,4.13,14.69,drive,outside,a person is driving a truck outside,drive,outdoor,241,"[('drive', 'outdoor')]",0,5,102
+video1198,1w7hk-b1ZQA,309.85,320.21,drive,outdoors,a man is talking and driving a car outdoors,drive,outdoor,275,"[('drive', 'outdoor')]",0,5,102
+video8225,uyFT-Dwd8bc,21.81,35.77,drive,outside,a man inside of a white van is driving outside,drive,outdoor,352,"[('drive', 'outdoor')]",0,5,102
+video5295,WHTJWJkpsJc,160.64,172.59,hold,inside,a man is holding a phone inside of a room,hold,indoor,362,"[('hold', 'indoor')]",2,17,216
+video8572,SeXGoxN9B70,23.15,40.59,handle,inside,a man handling snakes inside of a run down room,hold,indoor,409,"[('hold', 'indoor')]",2,17,216
+video8734,BkWthM8pf-M,132.93,143.45,hold,outside,a man holds onto a spear outside,hold,outdoor,267,"[('hold', 'outdoor')]",0,17,241
+video8855,chKHCaLyfdE,75.96,91.47,hold,outdoors,video showing people holding candles outdoors at night,hold,outdoor,482,"[('hold', 'outdoor')]",0,17,241
+video5598,TNYnYEXFOd8,667.55,677.56,insert,inside,a person holding a gun in hand inserting inside   displaying on screen,insert,indoor,301,"[('insert', 'indoor')]",2,96,320
+video9976,ySQhmHBt7DI,5.45,18.45,instal,inside,a white sports car with racing equipment installed inside,install,indoor,391,"[('install', 'indoor')]",2,103,448
+video2546,mgqwMxnPVNU,307.02,318.67,look,inside,a kid looks at her phone inside then a lady turns her phone around to talk into it,look,indoor,331,"[('look', 'indoor')]",2,13,195
+video3141,wcEK-K7ysTc,97.02,110.91,look,inside,a man is holding a monkey to a window for the monkey to look inside,look,indoor,315,"[('look', 'indoor')]",2,13,195
+video6209,uWNyNw8RLB4,134.85,145.48,look,indoors,a man and a woman looking at a picture indoors,look,indoor,266,"[('look', 'indoor')]",2,13,195
+video532,vi56l-gYqmk,10.16,23.34,look,outdoors,a man is looking at the camera outdoors very surprisingly,look,outdoor,392,"[('look', 'outdoor')]",0,13,10
+video7937,V7ErYRSHRtE,0.0,24.07,look,outside,there is a mouse is looking outside from a cage,look,outdoor,723,"[('look', 'outdoor')]",0,13,10
+video1692,ulcZMQ3QY-w,40.35,57.01,look,outside,kid in looks outside of door then waiting in front of a train,look,outdoor,511,"[('look', 'outdoor')]",0,13,10
+video4623,BVyKFDNp5uQ,31.01,41.89,inspect,outside,a group of people inspect groceries outside,look,outdoor,251,"[('look', 'outdoor')]",0,13,10
+video2487,vscUcqrwQ98,15.4,34.35,peep,outside,a railway track and train moving on track fast person in white dress color sitting peeping outside displaying on screen,look,outdoor,380,"[('look', 'outdoor')]",0,13,10
+video6876,HrM8UKLLhBc,709.09,730.18,look,outdoors,a boy is looking at seagulls outdoors,look,outdoor,630,"[('look', 'outdoor')]",0,13,10
+video3516,VaWYE8dvDGk,140.37,153.49,make,inside,gordon ramsay is making some food inside of a kitchen,make,indoor,326,"[('make', 'indoor')]",2,14,52
+video433,vhPzIzszlrU,346.76,357.87,prepare,inside,some meat is being prepared inside of a skillet and is sizzling beautifully,make,indoor,331,"[('make', 'indoor')]",2,14,52
+video1456,TNZaw-xGOgg,122.34,139.94,make,inside,a person with a plaid shirt is making some food inside,make,indoor,409,"[('make', 'indoor')]",2,14,52
+video7376,XKpq5vjMDHs,130.28,140.55,prepare,inside,a woman is preparing a very tasty and aromatic dish inside of a large pot,make,indoor,299,"[('make', 'indoor')]",2,14,52
+video7434,j3Sk8ZnAiEA,309.32,320.3,prepare,outdoors,men are preparing food outdoors,make,outdoor,332,"[('make', 'outdoor')]",0,14,69
+video674,VTW9R2DcyDI,117.69,131.17,mold,outdoors,the person  mold the dough with her finger outdoors,make,outdoor,351,"[('make', 'outdoor')]",0,14,69
+video4618,NFb0SUCeiro,138.01,148.53,make,outside,a man is making a fire outside,make,outdoor,251,"[('make', 'outdoor')]",0,14,69
+video9422,iggjI7WgL3w,685.29,702.29,make,outside,barack obama is making a speech outside,make,outdoor,426,"[('make', 'outdoor')]",0,14,69
+video4618,NFb0SUCeiro,138.01,148.53,build,outside,a man starts building a fire outside,make,outdoor,251,"[('make', 'outdoor')]",0,14,69
+video1698,Xe5h9y29iUw,122.29,138.29,drift,indoors,a man is drifting a motorcycle around indoors to create a lot of smoke,move,indoor,401,"[('move', 'indoor')]",2,4,142
+video2270,sgULsj18xYs,285.38,295.75,move,inside,animation inside a big vehicle and moving the camera around inside,move,indoor,302,"[('move', 'indoor')]",2,4,142
+video1813,tKhXn1mFUWs,618.13,637.45,move,outside,some soldiers in africa are moving around outside,move,outdoor,475,"[('move', 'outdoor')]",0,4,154
+video7280,zH-dD5YYMZg,67.65,84.95,open,inside,a gold fish is opening its mouth inside of a fish tank with another fish,open,indoor,511,"[('open', 'indoor')]",2,67,374
+video6592,1oBXX5jLBeI,18.17,29.01,open,outside,a man opens up a cooler of beer outside in the snow with a woman and a horse,open,outdoor,275,"[('open', 'outdoor')]",0,67,354
+video6839,slVpJrEFies,0.0,20.83,place,inside,a person has placed a baby inside of his baby crib,put,indoor,602,"[('put', 'indoor')]",2,18,114
+video1322,4TYv2PhG89A,155.64,166.84,serve,inside,a clip taken from an older movie showcasing a woman serving two men inside of a high class restaurant,put,indoor,277,"[('put', 'indoor')]",2,18,114
+video9759,PsyR-hbnfVg,68.12,78.13,place,inside,someone opening plastic easter egg to place a toy inside,put,indoor,301,"[('put', 'indoor')]",2,18,114
+video9585,cNUuI3KIx9Q,127.81,141.92,place,inside,fine candy is placed inside of a plastic egg,put,indoor,421,"[('put', 'indoor')]",2,18,114
+video390,1b_aDIMTyvM,211.25,235.29,place,outside,a person places a bunch of furniture outside in the sims,put,outdoor,604,"[('put', 'outdoor')]",0,18,49
+video3114,93ujnlzFWhE,228.04,239.82,place,outside,a man places some traps outside,put,outdoor,329,"[('put', 'outdoor')]",0,18,49
+video5945,WI3hecGO_04,23.07,46.14,run,inside,its black place where it looks like cage many people are running inside,run,indoor,553,"[('run', 'indoor')]",2,1,174
+video9858,5TU1Nj6RL8I,24.0,39.07,trot,indoors,a horse is trotting through dirt indoors,run,indoor,450,"[('run', 'indoor')]",2,1,174
+video2177,Xa7Bgj0y3eg,290.41,308.41,dash,inside,a  old person in  blue color cloth wearing dress driving ambulance dashing to wall inside body open the door falling down displaying on screen,run,indoor,452,"[('run', 'indoor')]",2,1,174
+video5892,C88qI9tgS9c,29.2,39.27,run,outside,a group of soldiers run outside,run,outdoor,299,"[('run', 'outdoor')]",0,1,59
+video2577,XLzOWczAsNQ,137.11,158.56,run,outside,a woman is running around outside with a dog,run,outdoor,631,"[('run', 'outdoor')]",0,1,59
+video7691,cfYjRV_DH9k,23.04,35.52,run,outside,kids running from a horse outside,run,outdoor,300,"[('run', 'outdoor')]",0,1,59
+video8334,Ozl1o1dptUY,133.38,144.69,run,outside,an animated coyote runs outside,run,outdoor,330,"[('run', 'outdoor')]",0,1,59
+video9103,XxoMX98elY8,1360.57,1380.59,run,outside,a little girl runs around outside of a field during a ball game and talks to a boy on his bicycle,run,outdoor,599,"[('run', 'outdoor')]",0,1,59
+video548,bQcduEj8lxI,20.92,31.67,run,outdoors,animals are running outdoors,run,outdoor,330,"[('run', 'outdoor')]",0,1,59
+video4330,0LN9HWhovbo,32.08,42.08,trot,outside,two horses are trotting outside,run,outdoor,242,"[('run', 'outdoor')]",0,1,59
+video7818,x9rAK-zemNQ,93.89,104.93,shoot,inside,a couple of man shooting hoops inside of a mostly empty basketball court,shoot,indoor,276,"[('shoot', 'indoor')]",2,34,394
+video7780,Y7zPOquH4D4,397.45,420.21,shoot,outside,a man shoots at people in outside and talks about a play,shoot,outdoor,577,"[('shoot', 'outdoor')]",0,34,391
+video8444,yswO3b__f4k,103.08,116.01,marinate,inside,two middle aged women begin to marinate chicken inside of a glass bowl,soak,indoor,390,"[('soak', 'indoor')]",2,87,410
+video4440,VL12nbnCg9Y,175.86,187.33,splash,inside,two kids standing on edge of pool with someone splashing inside of the pool,sprinkle,indoor,361,"[('sprinkle', 'indoor')]",2,51,284
+video245,ZFJY5Fcpvqc,138.17,156.65,start,inside,a few people start fighting each other outside then inside and ran out the building,start,indoor,451,"[('start', 'indoor')]",2,70,38
+video3898,ukY8HF5jJfs,0.0,30.0,strum,indoors,a middle aged white male is playing a guitar in a manner that displays the simple chords he is strumming indoors in his living room,strum,indoor,901,"[('strum', 'indoor')]",2,98,259
+video1677,cpyDJeeXjJQ,25.21,36.97,take,indoors,a concert taken place indoors in front of an audience,take,indoor,275,"[('take', 'indoor')]",2,16,27
+video1480,xIAq1OdWQM0,56.24,67.58,take,indoors,a man running and jumping in succession he is performing the triple-long jump this is taking place indoors,take,indoor,330,"[('take', 'indoor')]",2,16,27
+video6422,8GncD3BAzNg,152.03,164.01,take,inside,a clip taken inside of an asian fighting game,take,indoor,361,"[('take', 'indoor')]",2,16,27
+video51,-4-WZv-jKso,288.13,300.23,take,outside,a man takes a drink outside,take,outdoor,361,"[('take', 'outdoor')]",0,16,9
+video3923,BiyS-DHZeKU,88.17,111.39,take,outside,men in a ship are talking and taking a peek outside of the vessel,take,outdoor,690,"[('take', 'outdoor')]",0,16,9
+video2455,TJ1R2sqvEkI,21.81,33.93,throw,inside,man standing up off of a thrown inside rome flashes on the screen fads to gray hair man in a toga,throw,indoor,301,"[('throw', 'indoor')]",2,22,193
+video9955,9RarsyiUQBI,475.36,489.4,throw,outdoors,a person is throwing a paper airplane outdoors,throw,outdoor,423,"[('throw', 'outdoor')]",0,22,317
+video5515,9F0ONHeAFO4,11.39,31.41,throw,outside,a person is throwing a paper airplane outside,throw,outdoor,602,"[('throw', 'outdoor')]",0,22,317
+video5608,VYxdJJjhAs0,13.25,25.81,walk,inside,some cops in a room are walking around inside,walk,indoor,301,"[('walk', 'indoor')]",2,0,47
+video7822,WF8gZdOcNUs,129.14,140.59,walk,inside,many ladies and men are walking upstairs inside of a caged fence,walk,indoor,331,"[('walk', 'indoor')]",2,0,47
+video9546,Y_b2i_FvYPw,512.33,522.37,walk,inside,a forest grass land trees person walking inside displaying on screen,walk,indoor,250,"[('walk', 'indoor')]",2,0,47
+video386,_q-n8SjU_RI,39.84,55.85,walk,inside,a cartoon woman opens the door and people walk inside,walk,indoor,385,"[('walk', 'indoor')]",2,0,47
+video381,zAQb5kP7ajI,168.51,181.85,walk,inside,a large spider walks around inside of a glass aquarium,walk,indoor,173,"[('walk', 'indoor')]",2,0,47
+video7730,WYaLu68eYaA,211.33,239.33,walk,inside,some models are walking around a cat walk inside,walk,indoor,703,"[('walk', 'indoor')]",2,0,47
+video6388,1QqoEi4spkc,180.11,190.18,walk,outside,people are walking around outside,walk,outdoor,301,"[('walk', 'outdoor')]",0,0,16
+video5980,3JgWQXf_i0Y,99.01,110.09,walk,outside,some soldiers are walking outside,walk,outdoor,265,"[('walk', 'outdoor')]",0,0,16
+video4577,T4ZPMWWPIIo,163.78,183.96,walk,outside,a woman is shown walking outside as music plays in the background,walk,outdoor,602,"[('walk', 'outdoor')]",0,0,16
+video9065,YyFziT-Zgrw,616.56,639.19,walk,outside,a young boy in a blue shirt walks beside a grown man in a white coat then he walks around outside near a brown building,walk,outdoor,691,"[('walk', 'outdoor')]",0,0,16
+video3278,w1Qxxx2SQoo,0.0,25.89,walk,outside,a man is walking outside with the sound of cars and sirens play in the background,walk,outdoor,628,"[('walk', 'outdoor')]",0,0,16
+video9244,A3Yj3q0QRLM,128.58,138.59,walk,outdoors,people are walking outdoors,walk,outdoor,300,"[('walk', 'outdoor')]",0,0,16
+video2292,1NZpa_uY680,273.21,291.53,walk,outside,a woman is singing and walking outside,walk,outdoor,450,"[('walk', 'outdoor')]",0,0,16
+video1630,w6l_elj8Ke4,825.39,835.47,walk,outside,a militia group walks around outside looking for something,walk,outdoor,299,"[('walk', 'outdoor')]",0,0,16
+video346,JoT3VwlQdXE,47.87,58.63,walk,outside,woman and man chat and walk outside,walk,outdoor,330,"[('walk', 'outdoor')]",0,0,16
+video7553,-k9z2c3YnCA,184.9,205.32,walk,outside,a kid is walking outside,walk,outdoor,629,"[('walk', 'outdoor')]",0,0,16
+video2118,tYhOBh6PJ8o,381.47,401.37,walk,outside,a man with a green hat is walking around outside,walk,outdoor,481,"[('walk', 'outdoor')]",0,0,16
+video9406,x7PTbo4ZSW0,7.68,22.28,walk,outside,man in glasses talking and a large crowd walking outside,walk,outdoor,362,"[('walk', 'outdoor')]",0,0,16
+video4514,PBFRk6VOWXs,7.52,22.8,walk,outside,a minecraft character farts and walks around outside,walk,outdoor,452,"[('walk', 'outdoor')]",0,0,16
+video6839,slVpJrEFies,0.0,20.83,cry,loudly,a man in black puts his baby down to sleep in the crib but it cries loudly instead,cry,loudly,602,"[('cry', 'loudly')]",14,85,87
+video8525,6TgrueI-L_E,166.15,177.99,singe,loudly,people in a mall singing loudly,sing,loudly,332,"[('sing', 'loudly')]",14,9,140
+video1686,UAM8ApVlWGs,71.33,95.85,singe,loudly,there is a hot women singing loudly with perfect voice,sing,loudly,600,"[('sing', 'loudly')]",14,9,140
+video2816,qIVDxL2lgN4,24.13,38.53,walk,loudly,mr bean walking loudly across rooftops with ninjas,walk,loudly,350,"[('walk', 'loudly')]",14,0,210
+video7342,WNlnkOSe4EE,9.42,29.78,crawl,out,the cage of a pet rodent is opened and it crawls out,crawl,out,601,"[('crawl', 'out')]",11,74,298
+video1656,yK-v7B0H4wM,40.75,59.71,hold,out,a person is holding a baseball directly out in front of their body they are roatating their hand,hold,out,570,"[('hold', 'out')]",11,17,136
+video8359,wF6KCwD34iU,411.56,432.41,paddle,out,a man is surfing and carving the waves of the ocean the man continues to paddle out to sea then surfs some more,paddle,out,631,"[('paddle', 'out')]",11,58,353
+video5940,xCnqc_rZX88,36.48,59.65,spin,out,race cars are going down a track and one spins out,turn,out,690,"[('turn', 'out')]",11,19,339
+video6732,PBaI1YajyW8,3.05,13.56,approach,outside,a minecraft video the character approaches another outside and says give me your money,approach,outdoor,302,"[('approach', 'outdoor')]",0,90,359
+video5284,8btJRgYJKWg,358.51,370.55,brush,outside,a guy is brushing his teeth outside in the snow,brush,outdoor,359,"[('brush', 'outdoor')]",0,46,310
+video9078,27dNrAtLkvo,573.51,584.18,burn,outside,a walkthrough of minecraft where the guy is burning things with a torch outside,burn,outdoor,332,"[('burn', 'outdoor')]",0,76,423
+video2787,o5yDkChpW5U,6.05,24.37,fall,outside,a child falls down outside,fall,outdoor,541,"[('fall', 'outdoor')]",0,21,203
+video2416,S_0l0bIayJs,1430.35,1450.08,feed,outside,some horses are being fed outside on the land,feed,outdoor,600,"[('feed', 'outdoor')]",0,100,191
+video5016,x7UUvSyEUQg,9.97,21.29,hit,outside,spanish woman is getting hit with rain drops outside,hit,outdoor,300,"[('hit', 'outdoor')]",0,12,189
+video4899,WyNSJU02ywo,11.73,22.37,hit,outdoors,man is talking about hitting the ball outdoors,hit,outdoor,331,"[('hit', 'outdoor')]",0,12,189
+video1594,_1E6EUrnXZs,230.34,242.39,hug,outside,a man and woman are hugging outside,hug,outdoor,359,"[('hug', 'outdoor')]",0,83,129
+video7517,XxjvCyQkrbg,23.95,44.05,park,outside,a silver car is parked outside near a dirty hill,park,outdoor,504,"[('park', 'outdoor')]",0,42,66
+video6377,0kth42GxjBQ,639.62,652.67,park,outside,red sports car parked outside on the driveway,park,outdoor,391,"[('park', 'outdoor')]",0,42,66
+video3959,5L0k8jMjP-I,425.0,435.0,park,outside,a black car is parked outside,park,outdoor,301,"[('park', 'outdoor')]",0,42,66
+video1855,ZdUUY9ibX6I,6.93,20.32,park,outside,a neon green lamborghini parked outside is viewed from multiple different camera angles,park,outdoor,338,"[('park', 'outdoor')]",0,42,66
+video5837,wsgsQ_1QFBs,21.31,45.51,roll,outside,a small dog on a porch is rolling over outside,roll,outdoor,722,"[('roll', 'outdoor')]",0,29,238
+video1855,ZdUUY9ibX6I,6.93,20.32,set,outside,a light green sports car sets outside in a park like setting,set,outdoor,338,"[('set', 'outdoor')]",0,66,156
+video2047,vHYVw5LpHUQ,119.64,134.2,skate,outdoors,a woman is ice-skating outdoors in front of a crowd,skate,outdoor,375,"[('skate', 'outdoor')]",0,65,164
+video457,ydLJtKlVVZw,10.02,26.2,smoke,outdoor,a green dressing woman is smoking outdoor,smoke,outdoor,385,"[('smoke', 'outdoor')]",0,82,55
+video2257,CgNtfelbfvg,56.45,70.35,surf,outside,kids are surfing outside with wind noise,surf,outdoor,421,"[('surf', 'outdoor')]",0,101,182
+video2216,ZBCnTKDdOus,452.65,470.09,bubble,slightly,swirling pancake batter in a black pan and it s bubbling slightly,cook,partially,450,"[('cook', 'partially')]",10,11,176
+video7285,tBXWJ9e_ZB4,501.55,521.08,boil,almost,the water was almost boiling when the chef added something else to the pot,cook,partially,603,"[('cook', 'partially')]",10,11,176
+video8024,2_2rhdd0h98,327.27,338.85,dance,half,people dance half-heartedly at a concert,dance,partially,331,"[('dance', 'partially')]",10,7,397
+video9485,VuLCKi3gJmk,0.0,29.41,style,almost,almost funeral styled song while showing a beautiful exotic beach location,decorate,partially,871,"[('decorate', 'partially')]",10,53,432
+video2119,QUv0vXblCYI,287.89,311.41,drive,almost,a car almost driving into another car,drive,partially,601,"[('drive', 'partially')]",10,5,169
+video7160,ROipDjNYK4k,359.2,375.05,fall,almost,a cartoon boy almost falls asleep,fall,partially,385,"[('fall', 'partially')]",10,21,208
+video2806,U37lyRoECn4,37.08,49.68,fall,almost,the little puppy is so excited to eat he almost falls onto his food plate,fall,partially,361,"[('fall', 'partially')]",10,21,208
+video8963,VK39sR4hXWY,72.45,86.84,fill,partially,a woman is talking while standing in front of brown shelves which hold partially-filled glass jars with white lids,fill,partially,337,"[('fill', 'partially')]",10,35,262
+video8112,-7wbhEOa0Ow,1418.05,1430.01,hit,nearly,a baseball player charging the mound after a ball nearly hits him,hit,partially,359,"[('hit', 'partially')]",10,12,232
+video3803,xhYSTvOLrEk,36.15,48.28,hit,nearly,a man is driving around an oil truck and is nearly hit by an oil truck turning towards him,hit,partially,361,"[('hit', 'partially')]",10,12,232
+video3826,xkJeDkiL3Rc,137.12,159.91,make,barely,a player just barely makes first down in football game,make,partially,661,"[('make', 'partially')]",10,14,254
+video1745,uB3Ms_9m29E,181.83,193.87,release,almost,an advert of a movie that is almost to released,release,partially,360,"[('release', 'partially')]",10,102,146
+video2161,A2IMbbRdlsI,345.19,359.91,talk,briefly,an announcer briefly talks about a basketball star,talk,partially,422,"[('talk', 'partially')]",10,2,172
+video5922,thnDxFdkzZs,47.43,57.65,explain,breifly,a scientist breifly explain about the ditterent types of atom,talk,partially,242,"[('talk', 'partially')]",10,2,172
+video7336,sH_9DxEG4Dg,0.0,10.01,explain,partially,an intro and partially explains the process of heat treatment,talk,partially,252,"[('talk', 'partially')]",10,2,172
+video9650,w8Wiq-POmFA,120.25,132.11,touch,almost,dwight howard almost touches the top of the backboard,touch,partially,180,"[('touch', 'partially')]",10,61,437
+video7519,xa-p-ypCWMQ,11.36,24.61,use,briefly,optimus prime voice is used briefly during video game play,use,partially,391,"[('use', 'partially')]",10,37,381
+video3701,sXtE9SY4OmI,368.25,384.61,arrange,properly,in the large bed room the beds are arranged properly and in the tv a program is on the run,arrange,properly,403,"[('arrange', 'properly')]",6,56,111
+video1584,ZFIkwRiaN9o,12.6,23.86,arrange,nicely,the chef had his ingredients nicely arranged in a metal pan,arrange,properly,267,"[('arrange', 'properly')]",6,56,111
+video8050,DeqZOwzEeOE,38.4,55.6,carry,successfully,a football play is successfully carried out,carry,properly,512,"[('carry', 'properly')]",6,33,398
+video5878,_zQNHMlLJp4,193.05,211.05,bake,correctly,a screen is giving instructions on how to bake dough correctly,cook,properly,541,"[('cook', 'properly')]",6,11,34
+video8643,SuKgZbVHL2o,55.57,77.12,cook,properly,a chef discusses how to properly cook some meat,cook,properly,661,"[('cook', 'properly')]",6,11,34
+video439,xatAkyyZnhw,187.57,214.39,cook,perfectly,chef in the kitchen is teaching to cook pasta perfectly using sauce,cook,properly,649,"[('cook', 'properly')]",6,11,34
+video816,wjBwgccZM5k,138.1,162.17,chop,properly,two chefs teach a third woman to chop onions and chilies properly,cut,properly,577,"[('cut', 'properly')]",6,30,54
+video451,tWbr0vzdVxM,57.2,74.82,cut,skillfully,the clay was skillfully cut and crafted with the knife,cut,properly,511,"[('cut', 'properly')]",6,30,54
+video3503,BW1te_miu5I,41.53,53.21,drink,correctly,the man demonstrates how to drink wine correctly,drink,properly,300,"[('drink', 'properly')]",6,73,242
+video9709,VuNxH1-EnwY,344.56,368.75,exit,properly,in front of a school a safety explains how to properly exit a bus as a line of children walk down the steps in a line,exit,properly,720,"[('exit', 'properly')]",6,78,441
+video8139,x7ot7e7MS8A,85.09,114.37,follow,correctly,a bird teacher explains how a bird should be taught to follow instruction correctly to get the treat,follow,properly,699,"[('follow', 'properly')]",6,62,401
+video3120,_Zq-OHCNx7o,5.37,25.45,hold,properly,a man in a gray polo describes how to properly hold a table tennis racquet,hold,properly,502,"[('hold', 'properly')]",6,17,4
+video9189,y3MjxWn5W9M,51.35,61.65,support,nicely,the beautiful girl in black dress is singing well and her friends are supporting her nicely,hold,properly,242,"[('hold', 'properly')]",6,17,4
+video3503,BW1te_miu5I,41.53,53.21,hold,properly,a man describes how to properly hold a glass of wine,hold,properly,300,"[('hold', 'properly')]",6,17,4
+video5870,XWzYOpWi65E,36.75,57.47,land,properly,several impressive ski jumps that land properly and safely,land,properly,630,"[('land', 'properly')]",6,86,334
+video3150,tkIKapmSC6Y,274.28,285.88,whisk,properly, in his kitchen is explaining and demonstrating how to properly whisk or as he states it beat batter for a non-disclosed recipe,mix,properly,331,"[('mix', 'properly')]",6,15,226
+video5606,hZLdueQsUdw,343.3,356.51,play,properly,a man shows how to properly play a guitar,play,properly,313,"[('play', 'properly')]",6,3,294
+video4809,SeUjbPth7go,438.85,460.68,play,nicely,a person is playing a computer game nicely,play,properly,661,"[('play', 'properly')]",6,3,294
+video4796,yzYE2EadWm4,272.81,290.38,play,nicely,a person is playing a colourful video game very nicely,play,properly,540,"[('play', 'properly')]",6,3,294
+video652,w0lH7HibIwA,132.05,158.75,ride,properly,a man is teaching another man on how to properly ride a unique skateboard,ride,properly,624,"[('ride', 'properly')]",6,10,71
+video7818,x9rAK-zemNQ,93.89,104.93,shoot,properly,a guy teaching a kid how to properly shoot a basketball,shoot,properly,276,"[('shoot', 'properly')]",6,34,219
+video4326,azX3ZanryWE,139.45,152.03,paint,correctly,how to paint your eyelashes correctly,spread,properly,391,"[('spread', 'properly')]",6,36,212
+video949,zhs3XHx3_iA,18.43,36.82,speak,properly,there is a man wearing horned rimed glasses and he is talking about grammar and speaking properly,talk,properly,541,"[('talk', 'properly')]",6,2,95
+video6851,xYkDbknVkyU,258.85,272.93,talk,nicely,one man talk about science micro organisms nicely,talk,properly,355,"[('talk', 'properly')]",6,2,95
+video5853,z-gD3esFIm8,120.97,132.31,walk,properly,due to snow falls the peoples are unable to walk properly,walk,properly,361,"[('walk', 'properly')]",6,0,331
+video6209,uWNyNw8RLB4,134.85,145.48,add,quickly,a satirical narrator quickly adds sarcastic narrative to a dubbed-over scary movie,add,quickly,266,"[('add', 'quickly')]",1,52,346
+video5385,WFqw5V-p5Z4,195.38,205.49,add,slowly,the liquid should be added slowly and worked into the batter with a metal whisk,add,slowly,300,"[('add', 'slowly')]",4,52,311
+video8387,j3Sk8ZnAiEA,27.47,37.62,chop,rapidly,someone is chopping an onion very rapidly,cut,quickly,300,"[('cut', 'quickly')]",1,30,408
+video8387,j3Sk8ZnAiEA,27.47,37.62,dice,quickly,a man is dicing an onion very quickly,cut,quickly,300,"[('cut', 'quickly')]",1,30,408
+video5799,_H267W8LweA,186.81,197.73,slice,slowly,man on a restaurant kitchen slowly slices a leaf,cut,slowly,277,"[('cut', 'slowly')]",4,30,328
+video5723,yAcgEghd0jM,330.81,347.33,dry,quick,spongebob square pants making tutorial showing how to make the fondant quick drying for spongebob s body,dry,quickly,426,"[('dry', 'quickly')]",1,95,325
+video5175,5WmQzSs34DE,156.84,171.65,eat,fast,guy eating donuts fast,eat,quickly,451,"[('eat', 'quickly')]",1,26,307
+video381,zAQb5kP7ajI,168.51,181.85,eat,slowly,in the glass chamber the spider is eating a cockroach slowly,eat,slowly,173,"[('eat', 'slowly')]",4,26,48
+video3833,XpUUgOUReoU,104.15,116.41,eat,slowly,a shiny black snake slowly eats a smaller brown snake whole,eat,slowly,289,"[('eat', 'slowly')]",4,26,48
+video8335,SF659DAOEjk,299.51,310.36,fall,fast,the water falls down the brick wall really fast,fall,quickly,331,"[('fall', 'quickly')]",1,21,406
+video6689,0plgkpfx-RA,240.53,254.09,fall,slowly,an animated object with tentacles is slowly falling onto a group of people,fall,slowly,350,"[('fall', 'slowly')]",4,21,357
+video7861,t2sozrof3HY,15.77,27.17,fold,quickly,a man folds a paper airplane very quickly,fold,quickly,301,"[('fold', 'quickly')]",1,49,277
+video6973,upji-kezT3w,334.61,353.49,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly,475,"[('hit', 'quickly')]",1,12,72
+video9003,vnPhikD789I,15.25,28.97,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly,326,"[('hit', 'quickly')]",1,12,72
+video918,sG2aDu9wD_0,191.49,201.73,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly,253,"[('hit', 'quickly')]",1,12,72
+video658,wkAeEzLMhlY,206.35,218.97,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly,362,"[('hit', 'quickly')]",1,12,72
+video5789,szhf0-F8Lek,212.01,224.41,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly,302,"[('hit', 'quickly')]",1,12,72
+video4861,vIOn7F6o7NA,53.11,77.91,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly,723,"[('hit', 'quickly')]",1,12,72
+video1536,TdEBIXpeDHQ,9.89,36.09,hit,fast,two men play ping pong in an arena hitting the ball back and forth very fast scoring points,hit,quickly,678,"[('hit', 'quickly')]",1,12,72
+video6882,9dAlUUo66fo,206.42,222.31,make,quickly,a girl quickly makes a reservation on her smartphone,make,quickly,384,"[('make', 'quickly')]",1,14,360
+video1725,X0hQ3X8cfFs,0.0,20.87,make,slowly,a bus pulls up to the curb and slowly makes a stop,make,slowly,600,"[('make', 'slowly')]",4,14,143
+video9905,0wRDtxzxkRo,77.57,90.93,move,fast,cartoon video showing characters moving fast,move,quickly,326,"[('move', 'quickly')]",1,4,44
+video9088,xrt27dZ7DOA,0.0,16.1,move,fast,a person in  blue color cloth wearing dress inside water swimming water  moving ups and down fast displaying on screen,move,quickly,481,"[('move', 'quickly')]",1,4,44
+video4091,W_x1lY7t1p0,34.33,44.41,move,fast,a man in white shirt is moving very fast in his speed boat,move,quickly,251,"[('move', 'quickly')]",1,4,44
+video5536,zhSEt_954yQ,115.54,143.82,move,fast,a bike rider is moving fast in a plain empty road,move,quickly,674,"[('move', 'quickly')]",1,4,44
+video4646,z-NWf8ChNNQ,159.89,175.01,move,fast,a  person in black color cloth wearing sitting inside car white color car moving on road fast  displaying on screen,move,quickly,402,"[('move', 'quickly')]",1,4,44
+video8079,npfwYuMDm9k,332.84,344.4,move,fast,boats are moving faster one by one here,move,quickly,299,"[('move', 'quickly')]",1,4,44
+video312,YT6hpnZ_xjI,8.13,24.33,move,fast,a car   parking on road and driver moving to  start a car fast moving on road persons beside standing  displaying on screen,move,quickly,401,"[('move', 'quickly')]",1,4,44
+video3335,Xe5h9y29iUw,43.25,62.33,move,fast,a  red bike moving on road fast wearing black dress cloth wheeling bike displaying on screen,move,quickly,477,"[('move', 'quickly')]",1,4,44
+video7868,xgKjp1pq7iI,402.97,413.21,move,fast,a red car takes sharp turns and moves fast,move,quickly,277,"[('move', 'quickly')]",1,4,44
+video5940,xCnqc_rZX88,36.48,59.65,move,fast,a cars are moving fast in the race,move,quickly,690,"[('move', 'quickly')]",1,4,44
+video9396,WRW4KCcwP9g,0.0,27.44,move,fast,a game video of cars moving fast on road sound horn  displaying on screen,move,quickly,811,"[('move', 'quickly')]",1,4,44
+video2363,UozWJTuhbMQ,113.06,127.57,move,fast,there are lots of insects moving very fast on dry leaves,move,quickly,423,"[('move', 'quickly')]",1,4,44
+video7884,VCTen3-B8GU,36.92,52.93,move,fast,trailer with fast moving clips of a film with johnny depp,move,quickly,386,"[('move', 'quickly')]",1,4,44
+video4364,wv-I-Wb9K98,43.85,54.09,move,fast,a car is moving very fast in a road with snow covered,move,quickly,276,"[('move', 'quickly')]",1,4,44
+video4077,YR-CFLCeclc,128.73,141.17,move,fast,a person is driving a car in first person view and the car is moving very fast,move,quickly,326,"[('move', 'quickly')]",1,4,44
+video2555,W2asVll3OSU,290.2,300.48,move,fast,a fast moving film of a woman applying makeup,move,quickly,302,"[('move', 'quickly')]",1,4,44
+video3712,v0MZQvPTK9c,530.11,543.96,move,fast,a girl and kid moving fast on road driving vehical fast waving hand trees beside laughing  displaying on screen,move,quickly,391,"[('move', 'quickly')]",1,4,44
+video6849,x24KoVNliMk,45.88,57.27,move,quickly,pieces of paper moving quickly from the united states patent office,move,quickly,289,"[('move', 'quickly')]",1,4,44
+video5377,YBmmD1Icpjw,100.55,111.79,move,fast,a vehicle is moving very fast through the tough roads,move,quickly,330,"[('move', 'quickly')]",1,4,44
+video2772,0vKbLD6_C8k,234.0,249.24,move,fast,car moving very fast here,move,quickly,375,"[('move', 'quickly')]",1,4,44
+video3947,bwmn2CThQ2Y,212.73,222.94,move,fast,computer game showng car moving fast,move,quickly,301,"[('move', 'quickly')]",1,4,44
+video5469,sF19L00KbAI,0.0,23.35,move,fast,a train is moving very fast through the passage  at the night ,move,quickly,691,"[('move', 'quickly')]",1,4,44
+video6138,Biwk5x5Bkn0,52.49,63.93,move,fast,a woman screaming as she goes up the stairs on a fast moving lift,move,quickly,331,"[('move', 'quickly')]",1,4,44
+video8248,tMuO8dj0Wnw,4.41,14.69,move,fast,all vehicles are moving fast and hapazard the visibility is not very clear,move,quickly,250,"[('move', 'quickly')]",1,4,44
+video1953,Z2eE08eZUTw,161.98,172.29,move,fast,a boy in black dress moving in water fast,move,quickly,330,"[('move', 'quickly')]",1,4,44
+video431,vKVJ5yvM1bY,167.93,193.97,move,fast,a police man entering in gate and fire exploding bombing glass breaking of cars persons moving fast displaying on screen,move,quickly,652,"[('move', 'quickly')]",1,4,44
+video7184,Wtky_SUttZc,77.38,93.55,move,slowly,a commentator is speaking about a horse race the horses are moving slowly,move,slowly,480,"[('move', 'slowly')]",4,4,100
+video9659,rD8lWtcgeyg,11.35,23.78,move,slowly,a robot moves slowly,move,slowly,289,"[('move', 'slowly')]",4,4,100
+video3522,CVy9Y5CLw28,169.76,182.23,move,slowly,a car moving slowly,move,slowly,315,"[('move', 'slowly')]",4,4,100
+video4285,y9oQAnpeuUo,563.05,574.81,move,slowly,a train slowly moving around a scenic body of water with mountains around,move,slowly,276,"[('move', 'slowly')]",4,4,100
+video6058,xnWKz7Cthkk,89.85,108.57,move,slowly,red jeep is moving near the sea side slowly,move,slowly,475,"[('move', 'slowly')]",4,4,100
+video2523,-DzD81kL--U,21.09,47.46,move,slowly,a league of legends character moves slowly in the same spot,move,slowly,626,"[('move', 'slowly')]",4,4,100
+video618,6LtffXUqgzU,481.17,491.89,pass,speedly,a racing car passing away speedly,pass,quickly,251,"[('pass', 'quickly')]",1,41,65
+video5127,XWmw4mopa_o,167.85,180.05,pass,quickly,trees are passing by quickly from the inside of a vehicle,pass,quickly,195,"[('pass', 'quickly')]",1,41,65
+video1595,vG8SDYb7ZMQ,331.08,354.4,pass,swiftly,a train swiftly passing by other trains as electronic music plays,pass,quickly,690,"[('pass', 'quickly')]",1,41,65
+video1567,WbSJJx9JkDE,417.95,440.61,flow,fast,a wide fast flowing river with a big rock creating some rapids,pour,quickly,690,"[('pour', 'quickly')]",1,23,128
+video2889,sXtE9SY4OmI,384.61,395.09,flow,rapidly,a rapidly flowing creek rolls beneath a walk bridge in a park,pour,quickly,276,"[('pour', 'quickly')]",1,23,128
+video3400,Vx1yprdgs80,140.99,156.74,pour,slowly,someone is preparing shrimp juice and pouring to a glass very slowly,pour,slowly,480,"[('pour', 'slowly')]",4,23,103
+video5764,SVImeWyuI0I,134.81,151.85,pour,slowly,red hot lava a slowly pouring down the side of a volcano,pour,slowly,427,"[('pour', 'slowly')]",4,23,103
+video5160,YBmmD1Icpjw,0.0,28.38,put,hastily,the man in blue dress is hastily putting on his gloves and helmet and starts riding his bike,put,quickly,841,"[('put', 'quickly')]",1,18,306
+video9371,wF6KCwD34iU,214.66,238.79,place,quickly,preparing for a long journey  placing all luggage in place quickly and the journey started,put,quickly,721,"[('put', 'quickly')]",1,18,306
+video9629,-cL1-y0J3gw,4.59,27.14,rise,fast,needles of speed meter are rising very fast,raise,quickly,692,"[('raise', 'quickly')]",1,48,436
+video3985,VBmMU_iwe6U,31.16,45.84,raise,slowly,a woman in red is standing with a goup of people a woman with blonde hair is slowly raising her head,raise,slowly,336,"[('raise', 'slowly')]",4,48,267
+video5833,xsofZq2pxVA,2.57,30.21,run,fast,a car is running faster on the road,run,quickly,701,"[('run', 'quickly')]",1,1,26
+video4364,wv-I-Wb9K98,43.85,54.09,run,fast,in a high way a car is running fast   a red and white bus is coming from the opposite side,run,quickly,276,"[('run', 'quickly')]",1,1,26
+video5942,ujn7jEQ4ib4,95.21,108.73,run,fast,a car is running faster on the road,run,quickly,327,"[('run', 'quickly')]",1,1,26
+video8045,KzjDO3bJjzk,62.46,72.76,run,fast,two cartoons robot are running fast,run,quickly,242,"[('run', 'quickly')]",1,1,26
+video6259,V09H08Q0UQA,13.93,32.41,run,quickly,track and field athletes run quickly around a track and over hurdles,run,quickly,475,"[('run', 'quickly')]",1,1,26
+video667,TbB1FJB6Y0s,4.92,32.61,run,quickly,a young mouse jumps into a hamster spin wheels and runs quickly in place,run,quickly,840,"[('run', 'quickly')]",1,1,26
+video6929,TYzxUsc8--M,128.51,148.53,run,fast,a group of horses are running fast around a race track,run,quickly,599,"[('run', 'quickly')]",1,1,26
+video2788,wVwjpEyybI0,0.0,11.85,dash,fast,a railway track and train moving on track fast dashing  walls  changing track accident displaying on screen,run,quickly,165,"[('run', 'quickly')]",1,1,26
+video3690,XWmw4mopa_o,18.58,32.71,run,fast,a train runs very fast in the  forest area,run,quickly,210,"[('run', 'quickly')]",1,1,26
+video2833,VK5ADL57j7Y,432.11,459.18,run,fast,theire is a car race going on all cars are running fast overtaking each other,run,quickly,810,"[('run', 'quickly')]",1,1,26
+video4771,TZ5hF3j6mKM,85.76,100.73,run,fast,a man with no shirt running fast through the mountains,run,quickly,361,"[('run', 'quickly')]",1,1,26
+video9823,t_SpRpVIzkc,138.89,167.65,run,vigorously,the balls are taken very violently from the opponent and runs vigorously towards the post for scoring,run,quickly,872,"[('run', 'quickly')]",1,1,26
+video2525,YMcpX7_ph-c,120.93,131.48,run,fast,group of women are running fast in the gym,run,quickly,331,"[('run', 'quickly')]",1,1,26
+video4304,tSU7dqAFvP4,18.03,32.78,run,fast,theire is a car race going on all cars are running fast overtaking each other,run,quickly,422,"[('run', 'quickly')]",1,1,26
+video8354,sMPlmIVkiEM,105.65,121.07,run,fast,a car is running faster on the road,run,quickly,481,"[('run', 'quickly')]",1,1,26
+video7312,xOeYs7woiKY,48.96,60.11,run,fast,a woman in pink wearing glasses runs fast on a track and jumps into mud,run,quickly,361,"[('run', 'quickly')]",1,1,26
+video6317,sWU3LpjYp7M,13.96,35.48,run,fast,a formula one race car is running very fast and its flying very beautifully amazing,run,quickly,660,"[('run', 'quickly')]",1,1,26
+video4077,YR-CFLCeclc,128.73,141.17,run,fast,a car running faster on the road,run,quickly,326,"[('run', 'quickly')]",1,1,26
+video3162,svxRpqeqFRY,31.33,52.61,run,fast,a car is running faster and parts are displayed,run,quickly,525,"[('run', 'quickly')]",1,1,26
+video7352,TJ6ofmKnZ08,10.41,27.57,run,fast,person is running fast to escape from his opponents,run,quickly,426,"[('run', 'quickly')]",1,1,26
+video180,CTTCJOXqx-Y,301.96,316.82,run,fast,spongebob is running fast,run,quickly,407,"[('run', 'quickly')]",1,1,26
+video4013,waWM9vAfsIw,78.61,105.38,run,fast,a horse playing with a big blue bouncy ball enjoying life and having fun then run fast into open areas,run,quickly,811,"[('run', 'quickly')]",1,1,26
+video3674,zbqy1Rpjgmw,156.57,166.81,run,fast,the men in the shorts run on the track fast,run,quickly,250,"[('run', 'quickly')]",1,1,26
+video474,ZDX-bg6wgvA,303.75,329.01,run,fast,a cartoon of animal sword lifting and tiger horse ryding fighting running fast displaying on screen,run,quickly,781,"[('run', 'quickly')]",1,1,26
+video4307,6LtffXUqgzU,310.37,322.25,run,fast,a car is running fast on the road,run,quickly,301,"[('run', 'quickly')]",1,1,26
+video6967,qPmZJL2Hgh8,459.34,470.72,run,fast,a group of people are running as fast as they can,run,quickly,330,"[('run', 'quickly')]",1,1,26
+video8451,yLVLScf27ys,10.22,22.87,run,quickly,athletes run very quickly down an oval track in front of an audience of spectators,run,quickly,361,"[('run', 'quickly')]",1,1,26
+video5615,8Scu9nhy3TY,57.22,67.6,run,fast,players run fast in a rugby game,run,quickly,302,"[('run', 'quickly')]",1,1,26
+video136,yqN3XwhkLH4,4.39,28.44,run,fast,group of people are running fast  on the grass,run,quickly,721,"[('run', 'quickly')]",1,1,26
+video8758,U5kdQeYBRYg,72.89,90.81,run,fast,group of horses are running fast to win the first place,run,quickly,451,"[('run', 'quickly')]",1,1,26
+video2889,sXtE9SY4OmI,384.61,395.09,run,quickly,a wooden sway bridge spanning over water running quickly beneath it in an area with heavy foliage,run,quickly,276,"[('run', 'quickly')]",1,1,26
+video6822,kzRy3saTypk,300.91,312.45,run,fast,a car is running fast in a racing track,run,quickly,180,"[('run', 'quickly')]",1,1,26
+video5589,vsrxsWAF3Nk,161.29,172.85,run,fast,the players in red are running fast to score point,run,quickly,276,"[('run', 'quickly')]",1,1,26
+video8239,TjIq2kpBytw,383.01,399.05,run,swiftly,track runners running swiftly around the race track in a large arena,run,quickly,481,"[('run', 'quickly')]",1,1,26
+video6295,yQA8paAn7dQ,47.19,67.48,run,quickly,track and field athletes run quickly around a track and over hurdles,run,quickly,600,"[('run', 'quickly')]",1,1,26
+video7616,0g6WL9MeWs0,18.05,30.29,run,fast,an orange car is running fast on the road,run,quickly,301,"[('run', 'quickly')]",1,1,26
+video6240,BleCJJAKkgw,78.17,88.76,run,speedly,the man crying and running out of the water speedly,run,quickly,242,"[('run', 'quickly')]",1,1,26
+video2602,XR3jSZTPJ7c,83.75,99.61,run,slowly,a guy wearing a neon tank top and black running shorts is slowly running on the road,run,slowly,480,"[('run', 'slowly')]",4,1,199
+video869,09NssntypbU,126.03,137.17,singe,vigorously,a recording of an outdoor band shows the band singing vigorously and having lots of fun,sing,quickly,329,"[('sing', 'quickly')]",1,9,90
+video1935,sLTGEGN-sFM,21.74,49.93,apply,speedily, with red hair and a widow s peak speedily applies makeup including a brown hue from a rectangular palette to her face with a skinny brush,spread,quickly,840,"[('spread', 'quickly')]",1,36,159
+video2216,ZBCnTKDdOus,452.65,470.09,spread,slowly,pancake mix is spread across a black pan slowly,spread,slowly,450,"[('spread', 'slowly')]",4,36,177
+video279,2alP2ZlmmFA,238.09,250.37,swim,fast,a group of swimmers are swimming fast,swim,quickly,303,"[('swim', 'quickly')]",1,40,41
+video7797,YmMynOT7U3k,49.13,61.58,swim,slowly,a person is swimming slowly in a swimming pool,swim,slowly,362,"[('swim', 'slowly')]",4,40,393
+video3979,uPfqmFUdZr8,249.66,259.97,take,fast,a volks wagon car drives down the road and takes a curve pretty fast,take,quickly,301,"[('take', 'quickly')]",1,16,11
+video9118,yLVLScf27ys,110.36,127.04,take,quickly,track runners take off quickly to jump hurdles,take,quickly,511,"[('take', 'quickly')]",1,16,11
+video2788,wVwjpEyybI0,0.0,11.85,take,quickly,a train takes a corner too quickly and flips over onto its side while in motion,take,quickly,165,"[('take', 'quickly')]",1,16,11
+video4364,wv-I-Wb9K98,43.85,54.09,take,rapidly,winter driving on the highway takes place rapidly and safely,take,quickly,276,"[('take', 'quickly')]",1,16,11
+video4569,UglYAUkyWzA,140.12,164.31,take,slowly,man sitting at a table in a white tank top slowly takes off his sunglasses cuts to vehicle driving ends with gates to a resort,take,slowly,720,"[('take', 'slowly')]",4,16,289
+video7168,Y7kHOkrWxLY,29.88,41.06,throw,fast,this is a clip from sportscenter about how fast a player can throw a football,throw,quickly,361,"[('throw', 'quickly')]",1,22,369
+video7275,su0E-S6sUwc,9.09,21.37,walk,quickly,people walk quickly through the streets of a city,walk,quickly,361,"[('walk', 'quickly')]",1,0,3
+video6587,sgnREDcc0IY,107.09,129.18,walk,fast,a boys in red color dresses moving tyre and doing exercise running walking upstair down fast displaying on screen,walk,quickly,662,"[('walk', 'quickly')]",1,0,3
+video1363,1-wr3D_JufQ,510.62,521.74,walk,fast,the hook hand walked fast,walk,quickly,332,"[('walk', 'quickly')]",1,0,3
+video7256,wkGsYcMAh7E,67.28,77.37,walk,fast,man in black suit is walking fast on the street,walk,quickly,240,"[('walk', 'quickly')]",1,0,3
+video4082,d74z4_2X86c,72.45,88.43,pace,fast,a fast paced video with scrolling commentary,walk,quickly,384,"[('walk', 'quickly')]",1,0,3
+video5181,44ZdhyubJ3I,57.61,73.45,pace,fast,a man performs a fast-paced dance in an empty street,walk,quickly,480,"[('walk', 'quickly')]",1,0,3
+video540,u_yJTZkO650,519.17,541.69,pace,fast,fast-paced music plays while the word lost is shown with many people standing underneath the word and then slower music plays as a male narrator speaks and water is shown,walk,quickly,660,"[('walk', 'quickly')]",1,0,3
+video1828,tuSusdhhgK0,141.48,154.28,walk,fast,a girl walks fast on the pavement and enters a room with large doors and peeps out,walk,quickly,312,"[('walk', 'quickly')]",1,0,3
+video9785,wY5D_GwWOg0,11.28,27.88,walk,fast,someone is walking fast along the beach with so many benches,walk,quickly,481,"[('walk', 'quickly')]",1,0,3
+video7182,TvdRRvuNUiM,566.29,581.77,pace,fast,two people are playing a fast paced game of table tennis and volleying the ball,walk,quickly,377,"[('walk', 'quickly')]",1,0,3
+video6396,U_-x_vTBMxs,165.33,190.13,walk,slowly,blonde woman is walking slowly and having fun outdoors,walk,slowly,626,"[('walk', 'slowly')]",4,0,20
+video9743,x9_Qsb0mPFk,24.87,53.67,walk,slowly,a woman is walking slowly behind a man with long hair,walk,slowly,869,"[('walk', 'slowly')]",4,0,20
+video9232,sN1iF5st2GU,0.0,22.0,walk,slowly,man is walking slowly with brown dog behind him,walk,slowly,440,"[('walk', 'slowly')]",4,0,20
+video3005,hg37MLNj16Q,101.52,112.66,walk,slowly,a woman is slowly walking towards a man,walk,slowly,265,"[('walk', 'slowly')]",4,0,20
+video7184,Wtky_SUttZc,77.38,93.55,walk,slow,horses walking slow after a horse race with a man narrating,walk,slowly,480,"[('walk', 'slowly')]",4,0,20
+video5116,ymppHbTHJFk,5.58,16.18,walk,slowly,three people are walking on the sea side very slowly,walk,slowly,165,"[('walk', 'slowly')]",4,0,20
+video9432,vnIaNORXa9Q,0.0,29.58,walk,slowly,a small elephant is walking slowly and sadly inside a small cage with its mother,walk,slowly,872,"[('walk', 'slowly')]",4,0,20
+video1439,uU497FNZ4hw,64.24,91.97,walk,slowly,a man is slowly walking in the dark room,walk,slowly,649,"[('walk', 'slowly')]",4,0,20
+video5853,z-gD3esFIm8,120.97,132.31,walk,slowly,there are two people walking through the snow very slowly,walk,slowly,361,"[('walk', 'slowly')]",4,0,20
+video9627,6ErOfwwFIaI,167.97,185.37,walk,slowly,few people are walking slowly along,walk,slowly,454,"[('walk', 'slowly')]",4,0,20
+video3318,weAF3PY6RTk,189.61,212.01,walk,slowly,beautiful ladies are walking slowly on the scene,walk,slowly,576,"[('walk', 'slowly')]",4,0,20
+video3508,XOAVEqND_Ns,16.6,27.78,walk,slowly,there are some people slowly walking forward to other people,walk,slowly,330,"[('walk', 'slowly')]",4,0,20
+video9146,vIH1LykRFI0,216.01,233.85,walk,slowly,blonde woman is walking slowly on a street,walk,slowly,511,"[('walk', 'slowly')]",4,0,20
+video1243,Vp3LMFvboGo,19.28,30.04,play,quietly,a young man sits and quietly plays piano,play,quietly,266,"[('play', 'quietly')]",16,3,107
+video5322,X-6iyJgzGtQ,185.11,214.51,sit,quietly,the person is shouting some thing to the four children and the children were sitting quietly in the sofa,sit,quietly,871,"[('sit', 'quietly')]",16,8,244
+video7932,9KmnrEWoYrE,43.55,56.31,sit,silently,a woman sits silently in the back of a car while the driver talks,sit,quietly,314,"[('sit', 'quietly')]",16,8,244
+video1040,vAFQIciWsF4,20.47,33.15,jam,slow,jimmy fallon slow jams the news,fill,slowly,391,"[('fill', 'slowly')]",4,35,98
+video4184,uYwPrnbJ5h0,120.33,130.64,roll,slowly,a red trolley car slowly rolls on a track while an announcers describes the museum in the background,roll,slowly,302,"[('roll', 'slowly')]",4,29,273
+video3393,XM8EFOQVXb8,102.57,125.41,comb,upwards, wearing a green shirt has a narrow face with wavy wrinkles across the forehead under thick hair combed upwards,brush,upwards,578,"[('brush', 'upwards')]",9,46,236
+video4481,KU-LRUc8TSE,33.7,46.67,bring,up,parents submerge their babies in a pool and then bring them back up to the surface,carry,upwards,311,"[('carry', 'upwards')]",9,33,285
+video5146,AYr2wVAfMIE,0.0,11.86,clap,up,people clap for a baseball player up at bat,clap,upwards,330,"[('clap', 'upwards')]",9,81,304
+video9503,tHslzV3C7Kw,57.15,82.84,cycle,up,a young gal is talking about many ways to up-cycle your jeans or shorts,pedal,upwards,601,"[('pedal', 'upwards')]",9,89,433
+video9404,0-U_6AM6EVs,411.77,426.29,start,up,a man talking about a movement that is starting to up-rise,start,upwards,376,"[('start', 'upwards')]",9,70,427
